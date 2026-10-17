@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_ID,City,Province,Category,Product,Units,Unit_Price,Discount_Pct,Customer_Age,Customer_Rating,Payment_Method,Sales_Channel,Delivery_Status,Delivery_Days,Returned,Salesperson
+PKORD00522,2026-03-01,CUST4617,Lahore,Punjab,Home & Living,Table Lamp,2,3400,10,61.0,3.5,Digital Wallet,Marketplace,In Transit,4,No,Usman
+PKORD00738,2026-05-23,CUST3429,Lahore,Punjab,Fashion,Hoodie,3,6500,5,36.0,2.9,,Website,Delivered,4,No,Ayesha
+PKORD00741,2026-05-25,CUST1817,Lahore,Punjab,Home & Living,Electric Kettle,2,7900,20,55.0,3.1,Card,Website,In Transit,10,No,Usman
+PKORD00661,2026-06-27,CUST2573,Peshawar,Khyber Pakhtunkhwa,Electronics,Keyboard,1,3000,15,49.0,4.3,Digital Wallet,Marketplace,Delivered,8,No,Bilal
+PKORD00412,2026-03-29,CUST1974,Quetta,Balochistan,Beauty,Sunscreen,8,3400,25,56.0,4.9,Card,Mobile App,In Transit,8,No,Maham
+PKORD00679,2026-08-11,CUST4135,Quetta,Balochistan,Books,Python Basics,1,2200,0,27.0,3.0,Cash on Delivery,Website,In Transit,4,No,Hamza
+PKORD00627,2026-05-04,CUST3357,Islamabad,Islamabad Capital Territory,Beauty,Sunscreen,2,1800,0,31.0,4.6,Card,Mobile App,Delivered,6,No,Ayesha
+PKORD00514,2026-01-25,CUST1466,Lahore,Punjab,Books,Python Basics,2,2200,15,34.0,3.6,Digital Wallet,Website,Cancelled,2,No,Maham
+PKORD00860,2026-06-05,CUST2488,Multan,Punjab,Home & Living,Wall Clock,3,1700,10,19.0,3.8,Cash on Delivery,Website,In Transit,2,No,Bilal
+PKORD00137,2026-06-23,CUST2811,Karachi,Sindh,Books,AI for Everyone,3,1900,20,43.0,4.6,Card,Website,Delivered,2,No,Usman
+PKORD00812,2026-05-02,CUST3202,Multan,Punjab,Fashion,Women Kurti,1,3900,5,27.0,3.8,Cash on Delivery,Website,Delivered,4,No,Maham
+PKORD00077,2026-04-05,CUST2130,Karachi,Sindh,Books,Business Analytics,1,2200,10,,4.7,Cash on Delivery,Marketplace,Delivered,6,Yes,Sara
+PKORD00637,2026-02-19,CUST2776,Faisalabad,Punjab,Electronics,Smart Watch,4,16900,10,59.0,4.6,Digital Wallet,Website,Delivered,6,No,Bilal
+PKORD00974,2026-05-08,CUST3891,Rawalpindi,Punjab,Fashion,Women Kurti,2,3800,20,28.0,3.9,Cash on Delivery,Mobile App,Delivered,2,No,Maham
+PKORD00939,2026-06-03,CUST2703,Karachi,Sindh,Home & Living,Storage Box,1,1100,10,45.0,4.3,Bank Transfer,Website,Delivered,7,No,Bilal
+PKORD00900,2026-05-20,CUST4571,Faisalabad,Punjab,Beauty,Sunscreen,2,3100,15,59.0,4.5,,Website,Delivered,5,No,Maham
+PKORD00281,2026-07-18,CUST2755,,Punjab,Books,Machine Learning Intro,4,3300,0,46.0,3.2,Cash on Delivery,Website,Delivered,2,No,Usman
+PKORD00884,2026-06-25,CUST2391,Karachi,Sindh,Books,Data Science 101,2,3000,5,46.0,4.8,Card,Mobile App,Delivered,3,No,Maham
+PKORD00762,2026-01-10,CUST1107,Karachi,Sindh,Fashion,Sneakers,2,9400,5,40.0,3.7,Bank Transfer,Mobile App,Delivered,1,No,Sara
+PKORD00320,2026-08-12,CUST3768,Multan,Punjab,Beauty,Sunscreen,1,2200,5,33.0,4.6,Bank Transfer,Website,Delivered,2,No,Maham
+PKORD00550,2026-06-08,CUST4450,Sialkot,Punjab,Electronics,Wireless Earbuds,2,7300,25,18.0,2.9,Raast,Website,Delivered,7,No,Sara
+PKORD00175,2026-04-12,CUST4218,Lahore,Punjab,Books,Data Science 101,7,2500,5,62.0,4.2,Digital Wallet,Mobile App,Delivered,7,No,Bilal
+PKORD00372,2026-01-04,CUST2799,Lahore,Punjab,Fashion,Women Kurti,6,1900,25,32.0,4.4,Card,Mobile App,Delivered,3,No,Maham
+PKORD00528,2026-04-23,CUST1349,Quetta,Balochistan,Home & Living,Table Lamp,7,2000,15,18.0,3.3,Raast,Website,Cancelled,4,No,Usman
+PKORD00211,2026-04-05,CUST4164,Islamabad,Islamabad Capital Territory,Home & Living,Bedsheet Set,1,4100,10,37.0,4.4,Card,Mobile App,Cancelled,9,No,Sara
+PKORD00236,2026-05-25,CUST3267,Quetta,Balochistan,Beauty,Perfume,1,4400,15,60.0,3.0,Bank Transfer,Mobile App,In Transit,5,No,Ali
+PKORD00102,2026-01-26,CUST3446,Quetta,Balochistan,Fashion,Men T-Shirt,2,2400,10,65.0,4.7,Cash on Delivery,Mobile App,Cancelled,4,No,Bilal
+PKORD00406,2026-05-22,CUST3916,Islamabad,Islamabad Capital Territory,Books,Data Science 101,5,2400,5,,3.2,Digital Wallet,Website,In Transit,5,No,Usman
+PKORD00903,2026-07-07,CUST3209,Karachi,Sindh,Fashion,Women Kurti,4,5000,10,27.0,4.0,Digital Wallet,Mobile App,Cancelled,7,No,Sara
+PKORD00948,2026-04-10,CUST4765,Faisalabad,Punjab,Books,Business Analytics,2,2200,15,61.0,3.9,Bank Transfer,Website,In Transit,9,No,Hamza
+PKORD00347,2026-05-14,CUST1404,Karachi,Sindh,Home & Living,Storage Box,3,2200,0,26.0,3.2,Cash on Delivery,Website,In Transit,5,No,Ali
+PKORD00140,2026-08-21,CUST1720,Faisalabad,Punjab,Home & Living,Electric Kettle,4,5300,10,,4.0,Cash on Delivery,Marketplace,Delivered,7,No,Ali
+PKORD00622,2026-05-18,CUST1037,Karachi,Sindh,Books,Python Basics,1,1800,5,45.0,3.5,Bank Transfer,Mobile App,Delivered,4,No,Maham
+PKORD00500,2026-03-05,CUST3921,Islamabad,Islamabad Capital Territory,Home & Living,Table Lamp,2,4000,15,47.0,3.0,Raast,Website,Delivered,7,No,Bilal
+PKORD00371,2026-02-04,CUST1563,Peshawar,Khyber Pakhtunkhwa,Home & Living,Bedsheet Set,2,4600,10,63.0,4.2,Card,Marketplace,In Transit,9,No,Hamza
+PKORD00199,2026-02-05,CUST3499,Hyderabad,Sindh,Electronics,Smart Watch,2,12500,15,26.0,4.2,Card,Website,Cancelled,2,No,Hamza
+PKORD00688,2026-06-09,CUST4924,Lahore,Punjab,Beauty,Sunscreen,5,2600,10,63.0,4.5,Raast,Website,Cancelled,3,No,Hamza
+PKORD00585,2026-02-03,CUST3906,Sialkot,Punjab,Beauty,Hair Dryer,3,4800,10,22.0,3.7,Card,Website,Delivered,5,No,Maham
+PKORD00902,2026-03-17,CUST2628,Rawalpindi,Punjab,Beauty,Face Wash,1,900,5,46.0,3.8,Cash on Delivery,Marketplace,Cancelled,4,No,Sara
+PKORD00060,2026-02-03,CUST3907,Lahore,Punjab,Beauty,Face Wash,6,1100,10,62.0,3.9,Cash on Delivery,Marketplace,Cancelled,5,No,Hamza
+PKORD00329,2026-03-22,CUST4063,Lahore,Punjab,Electronics,Wireless Earbuds,2,4800,5,35.0,4.1,Raast,Website,In Transit,7,No,Maham
+PKORD00097,2026-04-05,CUST4908,Karachi,Sindh,Home & Living,Storage Box,5,2800,0,23.0,4.2,Digital Wallet,Mobile App,Cancelled,10,No,Ali
+PKORD00313,2026-06-05,CUST4873,Lahore,Punjab,Electronics,Smart Watch,1,10100,5,43.0,4.2,Digital Wallet,Website,Cancelled,2,No,Hamza
+PKORD00975,2026-08-30,CUST2757,Karachi,Sindh,Books,AI for Everyone,2,1600,0,49.0,2.8,Bank Transfer,Mobile App,Delivered,5,No,Ayesha
+PKORD00300,2026-05-14,CUST2496,Multan,Punjab,Electronics,Smart Watch,3,8200,5,65.0,3.4,Digital Wallet,Mobile App,In Transit,8,No,Ayesha
+PKORD00278,2026-05-14,CUST1599,Peshawar,Khyber Pakhtunkhwa,Books,AI for Everyone,1,2200,5,21.0,4.3,Card,Website,Delivered,5,No,Ali
+PKORD00925,2026-06-28,CUST4976,Lahore,Punjab,Beauty,Sunscreen,3,3100,5,54.0,4.6,Digital Wallet,Marketplace,Delivered,6,No,Ali
+PKORD00602,2026-08-01,CUST3481,Rawalpindi,Punjab,Fashion,Men T-Shirt,4,1900,0,,3.0,Raast,Website,Delivered,4,No,Sara
+PKORD00440,2026-04-29,CUST3829,Sialkot,Punjab,Beauty,Skin Care Kit,4,2200,20,,3.2,Bank Transfer,Mobile App,Delivered,2,No,Hina
+PKORD00838,2026-01-20,CUST2743,Lahore,Punjab,Books,Machine Learning Intro,3,3300,0,30.0,2.9,Bank Transfer,Mobile App,Delivered,7,No,Hamza
+PKORD00571,2026-08-15,CUST1267,Faisalabad,Punjab,Electronics,Power Bank,1,5600,20,37.0,3.8,Bank Transfer,Mobile App,Delivered,7,No,Ayesha
+PKORD00880,2026-05-31,CUST1575,Hyderabad,Sindh,Home & Living,Storage Box,2,1500,0,23.0,3.8,Bank Transfer,Mobile App,Delivered,5,No,Ayesha
+PKORD00262,2026-08-22,CUST1368,Rawalpindi,Punjab,Home & Living,Table Lamp,1,1700,20,39.0,3.3,Cash on Delivery,Mobile App,Delivered,8,No,Ayesha
+PKORD00579,2026-07-20,CUST4544,Peshawar,Khyber Pakhtunkhwa,Electronics,Smart Watch,8,11100,20,55.0,4.5,Cash on Delivery,Mobile App,Cancelled,4,No,Bilal
+PKORD00024,2026-01-29,CUST2262,Rawalpindi,Punjab,Beauty,Skin Care Kit,1,5500,20,,4.0,Bank Transfer,Mobile App,Delivered,7,No,Hina
+PKORD00031,2026-05-21,CUST3767,Lahore,Punjab,Fashion,Hoodie,5,4800,5,,3.7,Digital Wallet,Mobile App,Delivered,8,No,Sara
+PKORD00618,2026-06-22,CUST1986,Lahore,Punjab,Fashion,Handbag,8,2900,25,47.0,3.2,Raast,Marketplace,In Transit,10,No,Sara
+PKORD00011,2026-08-31,CUST1676,Hyderabad,Sindh,Fashion,Men T-Shirt,1,2200,15,22.0,5.0,Digital Wallet,Mobile App,Delivered,8,No,Usman
+PKORD00222,2026-05-25,CUST2932,Lahore,Punjab,Beauty,Skin Care Kit,2,6000,5,29.0,2.9,Digital Wallet,Website,Delivered,1,No,Hina
+PKORD00821,2026-08-09,CUST1156,Peshawar,Khyber Pakhtunkhwa,Home & Living,Bedsheet Set,4,4100,10,56.0,4.2,Raast,Website,Cancelled,3,No,Hina
+PKORD00297,2026-05-19,CUST3090,Rawalpindi,Punjab,Electronics,Keyboard,2,4600,15,41.0,3.7,Digital Wallet,Mobile App,Delivered,3,No,Ayesha
+PKORD00055,2026-03-10,CUST2798,Karachi,Sindh,Books,Data Science 101,5,2800,0,28.0,4.5,Digital Wallet,Mobile App,Cancelled,6,No,Ayesha
+PKORD00543,2026-02-01,CUST4074,Rawalpindi,Punjab,Fashion,Men T-Shirt,3,2500,0,57.0,4.0,Cash on Delivery,Marketplace,Cancelled,5,No,Maham
+PKORD00210,2026-06-22,CUST4168,Karachi,Sindh,Electronics,Keyboard,6,5600,0,51.0,5.0,Raast,Website,In Transit,6,No,Usman
+PKORD00605,2026-02-04,CUST2703,Karachi,Sindh,Home & Living,Storage Box,4,2900,0,30.0,2.8,Digital Wallet,Mobile App,Delivered,8,No,Bilal
+PKORD00693,2026-06-14,CUST1817,Islamabad,Islamabad Capital Territory,Beauty,Face Wash,3,1400,15,24.0,3.0,Cash on Delivery,Marketplace,In Transit,8,No,Bilal
+PKORD00663,2026-02-27,CUST2019,Karachi,Sindh,Home & Living,Electric Kettle,1,7500,5,20.0,4.2,Bank Transfer,Marketplace,Delivered,1,No,Sara
+PKORD00867,2026-08-22,CUST2632,Islamabad,Islamabad Capital Territory,Fashion,Sneakers,3,7600,0,65.0,,Digital Wallet,Marketplace,Delivered,6,No,Ayesha
+PKORD00071,2026-07-19,CUST1778,Quetta,Balochistan,Home & Living,Bedsheet Set,4,4100,0,56.0,,,Mobile App,Delivered,6,No,Usman
+PKORD00544,2026-05-17,CUST2645,Faisalabad,Punjab,Books,Python Basics,1,1400,0,31.0,3.3,Digital Wallet,Mobile App,Cancelled,7,No,Ali
+PKORD00108,2026-01-05,CUST1499,Hyderabad,Sindh,Beauty,Skin Care Kit,1,2000,15,53.0,4.9,Digital Wallet,Mobile App,Delivered,5,No,Ali
+PKORD00494,2026-04-18,CUST1557,Karachi,Sindh,Fashion,Sneakers,3,7600,15,65.0,3.5,Cash on Delivery,Mobile App,Delivered,8,No,Ali
+PKORD00591,2026-01-30,CUST2792,Karachi,Sindh,Fashion,Handbag,4,2500,0,60.0,4.4,Raast,Mobile App,Delivered,4,No,Hamza
+PKORD00742,2026-06-10,CUST2751,Rawalpindi,Punjab,Home & Living,Bedsheet Set,2,3000,0,45.0,,Digital Wallet,Mobile App,Delivered,6,No,Maham
+PKORD00293,2026-03-06,CUST1285,Faisalabad,Punjab,Books,Python Basics,1,1800,15,49.0,4.9,Bank Transfer,Website,Delivered,2,No,Sara
+PKORD00290,2026-04-23,CUST2208,Multan,Punjab,Books,Python Basics,2,1800,15,19.0,3.8,Digital Wallet,Website,In Transit,10,No,Hamza
+PKORD00653,2026-04-20,CUST2757,Karachi,Sindh,Home & Living,Electric Kettle,1,7000,0,50.0,3.2,Bank Transfer,Mobile App,Delivered,4,No,Sara
+PKORD00040,2026-02-24,CUST3209,Lahore,Punjab,Fashion,Men T-Shirt,2,2300,5,42.0,3.4,Raast,Website,Delivered,8,Yes,Ali
+PKORD00590,2026-04-15,CUST2407,Peshawar,Khyber Pakhtunkhwa,Electronics,Keyboard,2,8800,5,50.0,2.9,Cash on Delivery,Website,In Transit,8,No,Bilal
+PKORD00308,2026-07-09,CUST4591,Rawalpindi,Punjab,Beauty,Hair Dryer,6,6400,15,,3.0,Card,Website,Delivered,2,No,Bilal
+PKORD00680,2026-03-18,CUST1131,,Punjab,Beauty,Sunscreen,2,3400,15,46.0,4.5,Cash on Delivery,Website,Delivered,1,No,Hamza
+PKORD00067,2026-04-22,CUST4261,Multan,Punjab,Fashion,Sneakers,7,5400,15,,4.7,Raast,Website,Delivered,1,Yes,Ali
+PKORD00276,2026-06-29,CUST1822,Lahore,Punjab,Beauty,Sunscreen,5,1800,10,62.0,4.0,Bank Transfer,Mobile App,Cancelled,5,No,Sara
+PKORD00068,2026-03-04,CUST3038,Islamabad,Islamabad Capital Territory,Home & Living,Electric Kettle,3,6100,10,,3.2,Cash on Delivery,Mobile App,In Transit,5,No,Hamza
+PKORD00319,2026-06-22,CUST4056,Karachi,Sindh,Home & Living,Table Lamp,4,2700,5,53.0,4.8,Raast,Website,Delivered,5,No,Sara
+PKORD00549,2026-08-05,CUST4937,Islamabad,Islamabad Capital Territory,Home & Living,Wall Clock,3,2900,0,27.0,3.6,Card,Mobile App,Cancelled,8,No,Maham
+PKORD00533,2026-01-24,CUST1988,Lahore,Punjab,Fashion,Hoodie,2,4700,5,,4.5,Card,Website,Cancelled,6,No,Usman
+PKORD00715,2026-01-09,CUST2321,Karachi,Sindh,Home & Living,Bedsheet Set,7,3600,5,44.0,3.4,Digital Wallet,Mobile App,Delivered,2,No,Bilal
+PKORD00754,2026-04-09,CUST3484,Multan,Punjab,Fashion,Men T-Shirt,4,1900,10,22.0,2.9,Bank Transfer,Website,Delivered,8,No,Ali
+PKORD00328,2026-07-08,CUST3341,Islamabad,Islamabad Capital Territory,Home & Living,Electric Kettle,2,7200,0,57.0,3.4,Card,Marketplace,Delivered,7,No,Bilal
+PKORD00383,2026-06-28,CUST2749,Islamabad,Islamabad Capital Territory,Home & Living,Wall Clock,1,2900,0,54.0,4.4,Digital Wallet,Marketplace,In Transit,6,No,Hina
+PKORD00452,2026-05-15,CUST4997,Karachi,Sindh,Electronics,Keyboard,1,7800,20,35.0,3.2,Cash on Delivery,Mobile App,In Transit,3,No,Bilal
+PKORD00523,2026-07-24,CUST3481,Peshawar,Khyber Pakhtunkhwa,Beauty,Hair Dryer,7,6500,0,31.0,3.4,Cash on Delivery,Mobile App,Delivered,3,No,Maham
+PKORD00219,2026-01-24,CUST4365,Peshawar,Khyber Pakhtunkhwa,Electronics,Power Bank,6,6100,15,,3.1,Raast,Website,Cancelled,8,No,Bilal
+PKORD00788,2026-05-11,CUST2139,Islamabad,Islamabad Capital Territory,Books,Machine Learning Intro,5,3600,10,38.0,3.6,Card,Marketplace,Delivered,4,No,Hina
+PKORD00437,2026-08-09,CUST3373,Islamabad,Islamabad Capital Territory,Electronics,Bluetooth Speaker,8,11000,10,47.0,3.4,Raast,Mobile App,Delivered,4,No,Sara
+PKORD00765,2026-01-04,CUST3467,Sialkot,Punjab,Books,Machine Learning Intro,5,1900,5,21.0,3.0,Card,Mobile App,Delivered,1,No,Sara
+PKORD00089,2026-07-04,CUST3760,Lahore,Punjab,Beauty,Perfume,2,3800,20,56.0,3.0,Cash on Delivery,Website,Cancelled,2,No,Ayesha
+PKORD00064,2026-04-09,CUST3718,Karachi,Sindh,Home & Living,Table Lamp,1,4400,15,20.0,3.5,Raast,Mobile App,In Transit,8,No,Hamza
+PKORD00827,2026-04-16,CUST1378,Rawalpindi,Punjab,Fashion,Sneakers,1,4600,0,30.0,3.2,Bank Transfer,Website,In Transit,6,No,Maham
+PKORD00717,2026-06-04,CUST2782,Lahore,Punjab,Fashion,Hoodie,1 units,2800,0,53.0,3.4,Digital Wallet,Marketplace,Delivered,7,No,Hina
+PKORD00352,2026-06-12,CUST2474,Lahore,Punjab,Books,AI for Everyone,2,2100,15,56.0,3.3,Digital Wallet,Website,Cancelled,6,No,Maham
+PKORD00937,2026-05-11,CUST3028,Quetta,Balochistan,Beauty,Skin Care Kit,2,6300,15,31.0,3.0,Card,Marketplace,Delivered,2,No,Sara
+PKORD00257,2026-05-31,CUST2383,Lahore,Punjab,Home & Living,Table Lamp,2,1900,0,20.0,3.5,Bank Transfer,Mobile App,Cancelled,10,No,Bilal
+PKORD00636,2026-01-20,CUST1586,Faisalabad,Punjab,Home & Living,Table Lamp,3,4500,5,59.0,4.8,Raast,Mobile App,Delivered,7,No,Sara
+PKORD00645,2026-06-05,CUST2731,Rawalpindi,Punjab,Fashion,Hoodie,2,5300,0,51.0,4.8,Card,Website,Delivered,6,No,Maham
+PKORD00555,2026-07-14,CUST4962,Multan,Punjab,Beauty,Face Wash,2,1200,20,40.0,3.2,Digital Wallet,Mobile App,Delivered,4,No,Hina
+PKORD00960,2026-08-17,CUST3005,Karachi,Sindh,Home & Living,Wall Clock,3,3200,25,41.0,4.7,Card,Mobile App,Cancelled,2,No,Hina
+PKORD00169,2026-06-02,CUST3784,Multan,Punjab,Electronics,Smart Watch,2,16400,15,19.0,4.2,Raast,Mobile App,Delivered,7,No,Bilal
+PKORD00918,2026-06-28,CUST2625,Lahore,Punjab,Books,Machine Learning Intro,1,2200,0,63.0,4.1,Raast,Marketplace,Delivered,6,No,Hamza
+PKORD00529,2026-03-04,CUST4678,Faisalabad,Punjab,Home & Living,Storage Box,1,2400,15,44.0,4.5,Card,Mobile App,In Transit,8,No,Maham
+PKORD00824,2026-05-09,CUST1708,Peshawar,Khyber Pakhtunkhwa,Electronics,Wireless Earbuds,1,5100,5,29.0,,Bank Transfer,Mobile App,Cancelled,8,No,Ali
+PKORD00853,2026-01-29,CUST3454,Karachi,Sindh,Electronics,Bluetooth Speaker,3,5800,0,,4.5,Raast,Mobile App,Delivered,4,No,Usman
+PKORD00817,2026-03-03,CUST3173,Multan,Punjab,Home & Living,Electric Kettle,3,7100,5,42.0,4.4,Bank Transfer,Website,Cancelled,7,No,Ayesha
+PKORD00087,2026-05-24,CUST3878,Lahore,Punjab,Books,Data Science 101,7,3200,15,57.0,4.3,Digital Wallet,Website,Delivered,1,No,Usman
+PKORD00433,2026-02-15,CUST2716,Hyderabad,Sindh,Electronics,Wireless Earbuds,1,3900,0,50.0,,Card,Mobile App,Cancelled,7,No,Sara
+PKORD00185,2026-07-28,CUST2529,Rawalpindi,Punjab,Home & Living,Electric Kettle,3,6800,15,57.0,4.1,Card,Website,Delivered,5,No,Hamza
+PKORD00979,2026-08-19,CUST4185,Islamabad,Islamabad Capital Territory,Electronics,Keyboard,5,6500,25,35.0,2.9,Raast,Mobile App,Delivered,3,No,Ali
+PKORD00535,2026-08-29,CUST3925,Multan,Punjab,Fashion,Hoodie,3,4800,10,56.0,3.3,Bank Transfer,Website,Cancelled,4,No,Bilal
+PKORD00295,2026-07-07,CUST1335,Karachi,Sindh,Beauty,Perfume,2,5400,10,46.0,3.6,Bank Transfer,Mobile App,Delivered,3,No,Usman
+PKORD00893,2026-04-18,CUST1835,Peshawar,Khyber Pakhtunkhwa,Home & Living,Wall Clock,1,2900,20,27.0,4.4,Card,Mobile App,Delivered,3,Yes,Usman
+PKORD00426,2026-01-05,CUST1398,Islamabad,Islamabad Capital Territory,Electronics,Wireless Earbuds,2,4700,20,20.0,3.3,Card,Website,Delivered,5,No,Maham
+PKORD00714,2026-08-15,CUST1818,Islamabad,Islamabad Capital Territory,Fashion,Women Kurti,2,4800,10,35.0,,Digital Wallet,Website,In Transit,8,No,Hina
+PKORD00261,2026-01-31,CUST2466,Multan,Punjab,Beauty,Face Wash,2,1700,15,49.0,3.2,Card,Mobile App,Cancelled,5,No,Bilal
+PKORD00238,2026-02-02,CUST4744,Peshawar,Khyber Pakhtunkhwa,Fashion,Women Kurti,1,2700,0,61.0,3.8,Card,Mobile App,Delivered,6,No,Ayesha
+PKORD00560,2026-03-26,CUST4442,Karachi,Sindh,Beauty,Face Wash,2,1200,10,24.0,2.9,Raast,Mobile App,Cancelled,7,No,Usman
+PKORD00584,2026-04-09,CUST1703,Karachi,Sindh,Electronics,Power Bank,2 units,4100,5,60.0,4.0,Raast,Website,Cancelled,2,No,Hina
+PKORD00446,2026-06-15,CUST2686,Islamabad,Islamabad Capital Territory,Beauty,Perfume,1,5900,0,19.0,4.7,Card,Mobile App,Cancelled,7,No,Hina
+PKORD00868,2026-05-17,CUST2002,Lahore,Punjab,Home & Living,Wall Clock,5,1500,10,23.0,4.9,Cash on Delivery,Mobile App,Cancelled,5,No,Usman
+PKORD00801,2026-02-10,CUST4003,Rawalpindi,Punjab,Books,Data Science 101,5,2200,5,63.0,3.3,Card,Marketplace,Delivered,7,No,Sara
+PKORD00600,2026-07-21,CUST1843,Lahore,Punjab,Home & Living,Table Lamp,4,2600,10,44.0,4.2,Bank Transfer,Mobile App,Delivered,6,No,Ali
+PKORD00850,2026-01-04,CUST1132,Hyderabad,Sindh,Books,Business Analytics,2,2600,5,46.0,3.1,Raast,Website,Delivered,7,No,Ayesha
+PKORD00266,2026-07-19,CUST4635,Rawalpindi,Punjab,Books,Business Analytics,2,2000,0,61.0,4.7,Card,Mobile App,In Transit,3,No,Bilal
+PKORD00943,2026-07-15,CUST3715,Karachi,Sindh,Fashion,Men T-Shirt,3,2800,0,,4.2,Raast,Mobile App,In Transit,2,No,Sara
+PKORD00530,2026-07-17,CUST4109,Islamabad,Islamabad Capital Territory,Books,AI for Everyone,1,1400,15,22.0,3.0,Bank Transfer,Mobile App,Delivered,7,Yes,Ali
+PKORD00056,2026-03-11,CUST1105,Lahore,Punjab,Beauty,Perfume,2,8200,10,23.0,4.1,Raast,Mobile App,Cancelled,6,No,Ayesha
+PKORD00121,2026-07-04,CUST3785,Sialkot,Punjab,Electronics,Smart Watch,2,13000,5,44.0,4.6,Cash on Delivery,Website,Delivered,2,No,Hina
+PKORD00216,2026-04-29,CUST1880,Islamabad,Islamabad Capital Territory,Books,AI for Everyone,1,1700,0,28.0,4.6,Bank Transfer,Mobile App,Cancelled,2,No,Hina
+PKORD00026,2026-03-27,CUST4516,Multan,Punjab,Beauty,Face Wash,4,1100,5,60.0,4.7,Card,Website,Delivered,7,No,Maham
+PKORD00073,2026-03-11,CUST1308,Islamabad,Islamabad Capital Territory,Books,AI for Everyone,5,2400,5,48.0,4.9,Bank Transfer,Mobile App,Delivered,2,No,Hamza
+PKORD00045,2026-05-18,CUST1998,Peshawar,Khyber Pakhtunkhwa,Books,AI for Everyone,4,2600,10,64.0,4.1,Bank Transfer,Marketplace,Delivered,5,No,Maham
+PKORD00248,2026-07-31,CUST2222,Faisalabad,Punjab,Fashion,Handbag,3,4700,10,18.0,,Bank Transfer,Mobile App,Cancelled,6,No,Ayesha
+PKORD00722,2026-07-20,CUST3861,Lahore,Punjab,Books,Python Basics,1,1300,0,37.0,3.0,Bank Transfer,Mobile App,In Transit,6,No,Hamza
+PKORD00282,2026-08-05,CUST3561,Karachi,Sindh,Books,AI for Everyone,1,1600,5,63.0,4.9,Cash on Delivery,Website,Delivered,1,No,Usman
+PKORD00894,2026-01-08,CUST3959,Faisalabad,Punjab,Beauty,Perfume,4,4700,5,48.0,2.9,Card,Marketplace,Delivered,7,No,Hamza
+PKORD00915,2026-02-23,CUST2367,Peshawar,Khyber Pakhtunkhwa,Beauty,Perfume,3,8800,20,59.0,3.5,Raast,Mobile App,Delivered,8,No,Hina
+PKORD00811,2026-05-25,CUST1862,Hyderabad,Sindh,Books,AI for Everyone,3,2600,0,51.0,4.3,Digital Wallet,Marketplace,Delivered,5,No,Hina
+PKORD00245,2026-06-24,CUST4663,Hyderabad,Sindh,Books,Business Analytics,1,2900,5,56.0,3.8,Raast,Mobile App,Delivered,6,No,Usman
+PKORD00823,2026-08-03,CUST2651,Karachi,Sindh,Fashion,Hoodie,3,5500,20,63.0,3.2,Digital Wallet,Mobile App,Delivered,1,No,Bilal
+PKORD00322,2026-07-24,CUST3860,Karachi,Sindh,Beauty,Sunscreen,2,1700,20,20.0,3.9,Raast,Marketplace,Delivered,8,No,Maham
+PKORD00644,2026-06-23,CUST4070,Faisalabad,Punjab,Beauty,Hair Dryer,5,7700,15,43.0,2.8,Card,Marketplace,Delivered,7,No,Hina
+PKORD00159,2026-05-17,CUST4745,Lahore,Punjab,Books,AI for Everyone,3,1900,5,41.0,3.9,Raast,Mobile App,In Transit,7,No,Sara
+PKORD00978,2026-03-02,CUST3554,Rawalpindi,Punjab,Books,Data Science 101,4,3000,5,54.0,3.8,Cash on Delivery,Website,Delivered,7,No,Hina
+PKORD00430,2026-05-14,CUST3568,Faisalabad,Punjab,Fashion,Women Kurti,2,2400,5,29.0,4.1,Cash on Delivery,Mobile App,In Transit,3,No,Usman
+PKORD00942,2026-02-21,CUST1447,Hyderabad,Sindh,Electronics,Bluetooth Speaker,7,10700,10,49.0,3.2,Digital Wallet,Marketplace,In Transit,9,No,Ayesha
+PKORD00463,2026-02-05,CUST1485,Faisalabad,Punjab,Beauty,Perfume,4,5100,20,56.0,4.0,Bank Transfer,Website,Delivered,1,No,Sara
+PKORD00310,2026-04-19,CUST1732,Quetta,Balochistan,Books,AI for Everyone,3,1800,10,61.0,3.7,Card,Mobile App,Cancelled,9,No,Hina
+PKORD00698,2026-06-20,CUST3045,Karachi,Sindh,Books,Machine Learning Intro,3,2200,0,60.0,5.0,Bank Transfer,Website,In Transit,4,No,Hina
+PKORD00061,2026-01-24,CUST2195,Rawalpindi,Punjab,Home & Living,Wall Clock,1,1300,20,25.0,3.8,Cash on Delivery,Mobile App,Delivered,8,No,Usman
+PKORD00885,2026-05-28,CUST3393,Karachi,Sindh,Books,Business Analytics,2,3400,10,42.0,2.8,Card,Website,Delivered,5,No,Hina
+PKORD00596,2026-04-13,CUST4626,Karachi,Sindh,Electronics,Smart Watch,3,11800,0,31.0,3.8,Cash on Delivery,Mobile App,Delivered,6,Yes,Sara
+PKORD00768,2026-03-01,CUST2858,Sialkot,Punjab,Fashion,Women Kurti,2,5200,10,25.0,3.6,Card,Website,Delivered,8,No,Ayesha
+PKORD00650,2026-02-11,CUST2724,Quetta,Balochistan,Electronics,Bluetooth Speaker,1,9400,15,18.0,3.6,Card,Website,Delivered,1,No,Hina
+PKORD00651,2026-06-20,CUST3973,Sialkot,Punjab,Electronics,Power Bank,8,4100,0,,4.0,Card,Website,In Transit,10,No,Bilal
+PKORD00866,2026-05-04,CUST2139,Hyderabad,Sindh,Beauty,Hair Dryer,1,4900,20,,4.3,Cash on Delivery,Website,Delivered,4,No,Ayesha
+PKORD00669,2026-01-22,CUST1348,Lahore,Punjab,Electronics,Wireless Earbuds,1,4600,20,56.0,2.8,Cash on Delivery,Marketplace,Delivered,6,No,Sara
+PKORD00299,2026-05-05,CUST2862,Karachi,Sindh,Beauty,Perfume,1,2800,5,32.0,2.9,Card,Mobile App,Delivered,7,No,Ali
+PKORD00690,2026-07-17,CUST2999,Karachi,Sindh,Home & Living,Bedsheet Set,2,2100,25,34.0,4.5,Raast,Mobile App,Delivered,2,No,Ali
+PKORD00315,2026-07-19,CUST3974,Sialkot,Punjab,Electronics,Power Bank,2,3200,10,,4.1,Digital Wallet,Website,Delivered,2,No,Hina
+PKORD00311,2026-03-20,CUST1410,Lahore,Punjab,Books,Machine Learning Intro,3,2800,15,43.0,4.4,Cash on Delivery,Mobile App,In Transit,4,No,Sara
+PKORD00362,2026-03-20,CUST3247,Peshawar,Khyber Pakhtunkhwa,Electronics,Smart Watch,2,17900,0,31.0,4.4,Card,Website,Cancelled,6,No,Maham
+PKORD00480,2026-01-06,CUST3765,Lahore,Punjab,Books,Machine Learning Intro,3,3600,10,38.0,3.6,Raast,Website,Delivered,8,No,Sara
+PKORD00111,2026-04-06,CUST3236,Faisalabad,Punjab,Beauty,Hair Dryer,1,3900,0,22.0,3.6,Cash on Delivery,Mobile App,Delivered,3,Yes,Hina
+PKORD00308,2026-07-09,CUST4591,Rawalpindi,Punjab,Beauty,Hair Dryer,6,6400,15,,3.0,Card,Website,Delivered,2,No,Bilal
+PKORD00487,2026-03-08,CUST1226,Karachi,Sindh,Fashion,Women Kurti,4,2900,5,53.0,3.2,Cash on Delivery,Marketplace,In Transit,2,No,Ayesha
+PKORD00364,2026-08-07,CUST3906,Lahore,Punjab,Electronics,Bluetooth Speaker,6,9400,5,24.0,2.8,Raast,Website,In Transit,10,No,Ayesha
+PKORD00255,2026-02-23,CUST2652,Islamabad,Islamabad Capital Territory,Home & Living,Bedsheet Set,4,1800,0,28.0,3.9,Cash on Delivery,Website,In Transit,8,No,Bilal
+PKORD00260,2026-05-02,CUST3870,Rawalpindi,Punjab,Beauty,Hair Dryer,4,4500,0,61.0,4.2,Bank Transfer,Mobile App,Delivered,5,No,Hamza
+PKORD00803,2026-08-13,CUST1391,Peshawar,Khyber Pakhtunkhwa,Beauty,Hair Dryer,1,4600,0,22.0,3.9,Raast,Website,Cancelled,4,No,Bilal
+PKORD00678,2026-07-11,CUST1221,Karachi,Sindh,Fashion,Women Kurti,1,5200,25,63.0,3.1,Cash on Delivery,Mobile App,In Transit,7,No,Ayesha
+PKORD00495,2026-01-22,CUST2849,Lahore,Punjab,Beauty,Sunscreen,1,2500,5,63.0,4.9,Card,Mobile App,In Transit,7,No,Maham
+PKORD00671,2026-08-15,CUST4600,Karachi,Sindh,Electronics,Keyboard,5,4900,0,32.0,2.9,Raast,Mobile App,Delivered,5,No,Bilal
+PKORD00378,2026-02-11,CUST3565,Quetta,Balochistan,Home & Living,Wall Clock,5,3900,0,63.0,2.9,Bank Transfer,Website,In Transit,6,No,Hamza
+PKORD00527,2026-08-11,CUST1631,Faisalabad,Punjab,Books,Python Basics,1,1500,5,64.0,3.4,Raast,Mobile App,In Transit,3,No,Hina
+PKORD00846,2026-06-13,CUST4250,Lahore,Punjab,Beauty,Skin Care Kit,4,2600,10,19.0,3.2,Bank Transfer,Mobile App,Delivered,7,No,Sara
+PKORD00138,2026-03-11,CUST1215,Peshawar,Khyber Pakhtunkhwa,Beauty,Sunscreen,6,2000,15,26.0,3.0,Digital Wallet,Website,Delivered,4,No,Ayesha
+PKORD00356,2026-01-15,CUST3589,Karachi,Sindh,Electronics,Keyboard,6,5600,5,45.0,3.7,Cash on Delivery,Marketplace,Delivered,1,No,Bilal
+PKORD00366,2026-06-10,CUST4867,Lahore,Punjab,Electronics,Smart Watch,2,17700,25,50.0,3.4,Cash on Delivery,Mobile App,In Transit,2,No,Usman
+PKORD00943,2026-07-15,CUST3715,Karachi,Sindh,Fashion,Men T-Shirt,3,2800,0,,4.2,Raast,Mobile App,In Transit,2,No,Sara
+PKORD00750,2026-04-10,CUST3961,Karachi,Sindh,Electronics,Smart Watch,1,14000,5,59.0,4.2,Digital Wallet,Mobile App,Delivered,3,No,Maham
+PKORD00949,2026-03-15,CUST1589,Karachi,Sindh,Beauty,Skin Care Kit,3,5000,0,42.0,5.0,Card,Mobile App,Delivered,7,No,Ali
+PKORD00830,2026-05-02,CUST4560,,Punjab,Electronics,Keyboard,1,7900,10,41.0,4.0,Digital Wallet,Marketplace,Delivered,2,No,Ali
+PKORD00657,2026-01-26,CUST4036,Hyderabad,Sindh,Home & Living,Storage Box,2,2000,5,49.0,3.6,Bank Transfer,Website,Delivered,3,No,Hina
+PKORD00200,2026-07-11,CUST3414,Karachi,Sindh,Beauty,Perfume,1,8400,5,61.0,3.8,Card,Website,Delivered,3,No,Bilal
+PKORD00214,2026-06-13,CUST2609,Islamabad,Islamabad Capital Territory,Electronics,Keyboard,4,3300,0,54.0,2.9,Card,Website,Delivered,6,No,Hina
+PKORD00409,2026-05-27,CUST3977,Hyderabad,Sindh,Beauty,Hair Dryer,4,7700,10,36.0,3.4,Cash on Delivery,Mobile App,Cancelled,6,No,Usman
+PKORD00333,2026-06-28,CUST4722,Sialkot,Punjab,Books,Business Analytics,3,1900,10,47.0,4.2,Digital Wallet,Mobile App,Cancelled,6,No,Hina
+PKORD00209,2026-04-09,CUST2310,Islamabad,Islamabad Capital Territory,Electronics,Power Bank,6,2900,0,20.0,4.0,Raast,Website,Delivered,7,No,Usman
+PKORD00614,2026-03-28,CUST4994,Rawalpindi,Punjab,Beauty,Hair Dryer,2,6300,20,38.0,4.6,Bank Transfer,Mobile App,In Transit,2,No,Hina
+PKORD00079,2026-03-26,CUST4270,Quetta,Balochistan,Books,Data Science 101,4,3200,15,56.0,2.8,Card,Marketplace,Cancelled,6,No,Hamza
+PKORD00030,2026-08-06,CUST3723,Lahore,Punjab,Electronics,Smart Watch,1,16700,20,50.0,3.5,Raast,Website,Delivered,3,No,Bilal
+PKORD00536,2026-05-30,CUST4639,Lahore,Punjab,Books,Data Science 101,1,1700,15,47.0,3.0,Raast,Mobile App,Delivered,2,Yes,Hamza
+PKORD00696,2026-01-21,CUST2755,Lahore,Punjab,Electronics,Power Bank,2,3100,15,,4.0,Bank Transfer,Website,Delivered,2,No,Hina
+PKORD00558,2026-06-14,CUST3029,Hyderabad,Sindh,Books,Business Analytics,3,1600,10,38.0,3.8,Raast,Website,Cancelled,9,No,Hina
+PKORD00837,2026-03-30,CUST3053,Rawalpindi,Punjab,Beauty,Skin Care Kit,2,5200,15,55.0,2.9,Digital Wallet,Website,Delivered,6,No,Ali
+PKORD00597,2026-01-27,CUST2360,Rawalpindi,Punjab,Beauty,Perfume,4,8800,15,54.0,3.2,Cash on Delivery,Mobile App,In Transit,4,No,Hamza
+PKORD00166,2026-05-08,CUST4555,Karachi,Sindh,Electronics,Wireless Earbuds,5,9300,10,39.0,4.0,Cash on Delivery,Marketplace,Delivered,4,No,Maham
+PKORD00919,2026-01-22,CUST4412,Rawalpindi,Punjab,Beauty,Face Wash,2,1300,5,20.0,3.3,Card,Mobile App,Delivered,1,No,Sara
+PKORD00496,2026-07-31,CUST1084,Faisalabad,Punjab,Fashion,Sneakers,2,4900,5,23.0,3.7,Card,Mobile App,In Transit,5,No,Ali
+PKORD00825,2026-03-29,CUST1760,Lahore,Punjab,Home & Living,Electric Kettle,2,7600,15,23.0,4.0,Raast,Website,Delivered,3,No,Hina
+PKORD00066,2026-03-28,CUST1147,Sialkot,Punjab,Electronics,Bluetooth Speaker,3,10400,5,23.0,,Digital Wallet,Mobile App,Delivered,8,No,Ayesha
+PKORD00142,2026-07-27,CUST4101,Lahore,Punjab,Fashion,Hoodie,1,4400,0,47.0,4.2,Card,Website,Delivered,5,No,Sara
+PKORD00926,2026-01-19,CUST4423,Peshawar,Khyber Pakhtunkhwa,Home & Living,Wall Clock,3,1700,10,64.0,3.2,Card,Website,Cancelled,4,No,Hamza
+PKORD00828,2026-06-14,CUST1637,Lahore,Punjab,Home & Living,Wall Clock,3,2700,15,61.0,4.6,Cash on Delivery,Marketplace,Cancelled,8,No,Sara
+PKORD00656,2026-03-13,CUST2317,Lahore,Punjab,Electronics,Smart Watch,6,8300,15,33.0,,Cash on Delivery,Website,Delivered,1,No,Sara
+PKORD00332,2026-08-03,CUST4829,Karachi,Sindh,Home & Living,Storage Box,1,1400,0,40.0,4.7,Bank Transfer,Marketplace,In Transit,10,No,Usman
+PKORD00665,2026-03-13,CUST4563,Karachi,Sindh,Electronics,Wireless Earbuds,1,6400,25,52.0,4.2,Digital Wallet,Website,In Transit,6,No,Sara
+PKORD00250,2026-02-05,CUST3921,Lahore,Punjab,Books,Business Analytics,4,3000,10,36.0,3.4,Raast,Mobile App,Delivered,4,No,Sara
+PKORD00908,2026-06-10,CUST1629,Karachi,Sindh,Books,AI for Everyone,3,2400,5,46.0,3.5,Cash on Delivery,Mobile App,Cancelled,9,No,Ayesha
+PKORD00709,2026-06-02,CUST3011,Islamabad,Islamabad Capital Territory,Books,Python Basics,1,1400,0,34.0,4.8,Cash on Delivery,Website,Delivered,4,No,Ali
+PKORD00306,2026-02-21,CUST3456,Karachi,Sindh,Beauty,Hair Dryer,3,4600,20,61.0,3.7,Card,Mobile App,Delivered,8,No,Ali
+PKORD00735,2026-02-06,CUST2547,Faisalabad,Punjab,Fashion,Handbag,2,4000,0,54.0,4.4,Raast,Mobile App,Delivered,4,No,Ayesha
+PKORD00976,2026-07-05,CUST2708,Lahore,Punjab,Books,Data Science 101,2,2600,15,26.0,3.6,Raast,Website,In Transit,7,No,Sara
+PKORD00050,2026-03-12,CUST4574,Rawalpindi,Punjab,Home & Living,Bedsheet Set,1,4700,0,36.0,4.3,Card,Mobile App,In Transit,3,No,Ali
+PKORD00897,2026-02-27,CUST3700,Sialkot,Punjab,Books,Data Science 101,3,3100,15,63.0,3.7,Digital Wallet,Website,Delivered,5,No,Usman
+PKORD00003,2026-04-02,CUST3261,Lahore,Punjab,Home & Living,Bedsheet Set,5,2200,10,20.0,4.4,Digital Wallet,Website,In Transit,3,No,Usman
+PKORD00545,2026-04-17,CUST2168,Islamabad,Islamabad Capital Territory,Beauty,Face Wash,1,1400,10,42.0,3.4,Cash on Delivery,Marketplace,Cancelled,4,No,Hamza
+PKORD00351,2026-06-20,CUST4696,Islamabad,Islamabad Capital Territory,Books,AI for Everyone,2,2700,0,29.0,4.0,Digital Wallet,Website,Delivered,8,No,Hina
+PKORD00905,2026-08-19,CUST3901,Lahore,Punjab,Home & Living,Bedsheet Set,3,3400,10,48.0,3.8,Card,Mobile App,Delivered,1,Yes,Usman
+PKORD00537,2026-06-23,CUST3822,Karachi,Sindh,Beauty,Sunscreen,3,3000,10,51.0,4.5,Bank Transfer,Mobile App,In Transit,9,No,Maham
+PKORD00345,2026-05-16,CUST4005,Karachi,Sindh,Home & Living,Wall Clock,1,3500,5,34.0,4.0,Raast,Website,Cancelled,8,No,Hamza
+PKORD00491,2026-04-03,CUST2575,Hyderabad,Sindh,Fashion,Sneakers,2,9900,5,,2.8,Digital Wallet,Website,Delivered,4,No,Usman
+PKORD00482,2026-07-10,CUST2946,Karachi,Sindh,Books,Business Analytics,7,3200,15,55.0,3.0,Bank Transfer,Website,Cancelled,10,No,Bilal
+PKORD00576,2026-01-22,CUST3544,Lahore,Punjab,Books,Data Science 101,1,2300,0,46.0,3.9,Card,Mobile App,In Transit,10,No,Hina
+PKORD00034,2026-02-26,CUST2903,Peshawar,Khyber Pakhtunkhwa,Fashion,Men T-Shirt,1 units,1600,25,51.0,3.8,Digital Wallet,Website,Delivered,8,No,Hina
+PKORD00032,2026-07-23,CUST1815,Hyderabad,Sindh,Books,Business Analytics,4,3200,10,36.0,3.9,Digital Wallet,Website,Delivered,5,No,Hamza
+PKORD00232,2026-05-21,CUST1675,Multan,Punjab,Fashion,Handbag,6,3500,25,39.0,4.1,Digital Wallet,Marketplace,Delivered,7,No,Bilal
+PKORD00964,2026-02-09,CUST3564,Lahore,Punjab,Fashion,Men T-Shirt,3,1900,5,23.0,4.7,Cash on Delivery,Mobile App,Delivered,2,No,Maham
+PKORD00193,2026-07-23,CUST3383,Karachi,Sindh,Beauty,Hair Dryer,5,7200,0,50.0,4.4,Bank Transfer,Mobile App,In Transit,7,No,Ali
+PKORD00334,2026-04-24,CUST3191,Peshawar,Khyber Pakhtunkhwa,Beauty,Skin Care Kit,2,3900,5,27.0,3.5,Cash on Delivery,Mobile App,Delivered,6,No,Ali
+PKORD00004,2026-01-18,CUST2857,Karachi,Sindh,Books,AI for Everyone,1,2500,5,36.0,5.0,Card,Marketplace,In Transit,6,No,Hina
+PKORD00205,2026-06-12,CUST4787,Lahore,Punjab,Fashion,Hoodie,4,3800,10,59.0,2.9,Raast,Mobile App,Delivered,1,No,Bilal
+PKORD00515,2026-01-22,CUST2398,Lahore,Punjab,Fashion,Women Kurti,2,5300,15,38.0,4.1,Raast,Mobile App,In Transit,6,No,Hamza
+PKORD00800,2026-05-19,CUST3682,Karachi,Sindh,Books,Machine Learning Intro,1,2500,15,42.0,3.0,Bank Transfer,Marketplace,Cancelled,3,No,Ali
+PKORD00307,2026-05-04,CUST2757,Karachi,Sindh,Books,Machine Learning Intro,3,3300,20,52.0,4.6,Raast,Mobile App,Delivered,1,No,Sara
+PKORD00110,2026-03-03,CUST3078,Rawalpindi,Punjab,Home & Living,Storage Box,3,900,0,60.0,3.0,Bank Transfer,Website,Cancelled,10,No,Ali
+PKORD00431,2026-02-19,CUST2132,Rawalpindi,Punjab,Home & Living,Storage Box,1,900,10,24.0,4.2,Digital Wallet,Mobile App,In Transit,5,No,Ali
+PKORD00078,2026-06-14,CUST1281,Faisalabad,Punjab,Electronics,Bluetooth Speaker,3,4800,25,21.0,4.5,Card,Marketplace,Cancelled,5,No,Sara
+PKORD00085,2026-04-06,CUST3725,Multan,Punjab,Electronics,Bluetooth Speaker,4,4800,10,55.0,4.9,Digital Wallet,Website,Delivered,7,No,Bilal
+PKORD00287,2026-06-29,CUST2358,Rawalpindi,Punjab,Beauty,Face Wash,5,1100,15,45.0,4.2,Cash on Delivery,Mobile App,Delivered,1,No,Ali
+PKORD00083,2026-05-10,CUST1935,Lahore,Punjab,Beauty,Skin Care Kit,3,6300,0,62.0,3.1,Digital Wallet,Mobile App,Delivered,7,No,Bilal
+PKORD00068,2026-03-04,CUST3038,Islamabad,Islamabad Capital Territory,Home & Living,Electric Kettle,3,6100,10,,3.2,Cash on Delivery,Mobile App,In Transit,5,No,Hamza
+PKORD00790,2026-02-13,CUST4857,Islamabad,Islamabad Capital Territory,Fashion,Hoodie,1,5900,20,52.0,,Card,Website,Delivered,6,No,Bilal
+PKORD00895,2026-02-27,CUST1550,Lahore,Punjab,Fashion,Men T-Shirt,1,1300,25,25.0,4.9,Raast,Marketplace,Cancelled,9,No,Ali
+PKORD00399,2026-05-04,CUST3742,Rawalpindi,Punjab,Fashion,Hoodie,2,3500,5,62.0,4.1,Raast,Mobile App,Delivered,4,No,Ayesha
+PKORD00324,2026-04-18,CUST4334,Lahore,Punjab,Home & Living,Table Lamp,4,3500,5,43.0,3.4,Card,Mobile App,Cancelled,5,No,Ayesha
+PKORD00520,2026-07-08,CUST1949,,Balochistan,Electronics,Bluetooth Speaker,3,7400,15,36.0,2.9,Raast,Mobile App,Cancelled,9,No,Ali
+PKORD00917,2026-03-28,CUST3868,Islamabad,Islamabad Capital Territory,Fashion,Sneakers,4,9300,20,28.0,4.9,Bank Transfer,Website,Delivered,5,No,Usman
+PKORD00923,2026-05-28,CUST3289,Islamabad,Islamabad Capital Territory,Home & Living,Wall Clock,5,2100,10,46.0,3.9,Raast,Website,Delivered,1,No,Ali
+PKORD00006,2026-07-26,CUST2620,Peshawar,Khyber Pakhtunkhwa,Home & Living,Bedsheet Set,2,2700,5,31.0,4.8,Digital Wallet,Marketplace,Delivered,4,No,Maham
+PKORD00732,2026-02-15,CUST3000,Lahore,Punjab,Electronics,Bluetooth Speaker,7,7500,20,28.0,4.3,,Mobile App,In Transit,2,No,Sara
+PKORD00466,2026-07-11,CUST3068,Karachi,Sindh,Home & Living,Bedsheet Set,6,2200,20,40.0,3.6,Digital Wallet,Mobile App,Cancelled,5,No,Ayesha
+PKORD00098,2026-05-02,CUST3898,Lahore,Punjab,Beauty,Skin Care Kit,2,3500,25,46.0,3.0,Bank Transfer,Marketplace,Delivered,3,Yes,Maham
+PKORD00267,2026-03-22,CUST3819,Lahore,Punjab,Beauty,Face Wash,1,800,20,51.0,4.5,Digital Wallet,Mobile App,Delivered,6,No,Ayesha
+PKORD00358,2026-02-07,CUST4169,Peshawar,Khyber Pakhtunkhwa,Fashion,Handbag,1,4600,0,54.0,4.4,Digital Wallet,Mobile App,Delivered,7,No,Hamza
+PKORD00869,2026-04-27,CUST1249,Faisalabad,Punjab,Fashion,Women Kurti,1,2700,25,35.0,4.0,Cash on Delivery,Mobile App,Delivered,3,No,Sara
+PKORD00799,2026-03-10,CUST4193,Hyderabad,Sindh,Beauty,Hair Dryer,2,5600,0,58.0,4.6,Bank Transfer,Mobile App,Delivered,3,No,Ayesha
+PKORD00381,2026-08-03,CUST3832,Faisalabad,Punjab,Electronics,Power Bank,3,2800,5,23.0,2.9,Raast,Marketplace,Delivered,5,No,Hamza
+PKORD00632,2026-05-16,CUST3453,Peshawar,Khyber Pakhtunkhwa,Beauty,Skin Care Kit,2,6400,10,55.0,4.0,Cash on Delivery,Mobile App,Delivered,2,No,Hamza
+PKORD00382,2026-01-24,CUST1499,Hyderabad,Sindh,Beauty,Skin Care Kit,4,5000,5,42.0,4.6,Raast,Mobile App,Delivered,5,No,Usman
+PKORD00491,2026-04-03,CUST2575,Hyderabad,Sindh,Fashion,Sneakers,2,9900,5,,2.8,Digital Wallet,Website,Delivered,4,No,Usman
+PKORD00119,2026-08-19,CUST4487,Islamabad,Islamabad Capital Territory,Electronics,Power Bank,4,3100,25,61.0,4.9,Bank Transfer,Mobile App,Delivered,5,No,Hamza
+PKORD00901,2026-08-08,CUST1387,Karachi,Sindh,Books,Business Analytics,2,3000,10,22.0,4.5,Raast,Mobile App,Cancelled,4,No,Sara
+PKORD00251,2026-04-02,CUST4034,Sialkot,Punjab,Books,Business Analytics,2,3500,20,60.0,4.7,Card,Website,In Transit,4,No,Usman
+PKORD00524,2026-03-19,CUST4663,Sialkot,Punjab,Electronics,Bluetooth Speaker,1,11700,10,19.0,3.6,Bank Transfer,Mobile App,Delivered,3,No,Ali
+PKORD00010,2026-07-15,CUST4599,Karachi,Sindh,Books,Machine Learning Intro,1,2200,25,51.0,4.8,Digital Wallet,Website,Delivered,2,No,Usman
+PKORD00197,2026-03-20,CUST1543,Lahore,Punjab,Home & Living,Table Lamp,4,1700,15,45.0,4.2,Cash on Delivery,Website,In Transit,3,No,Sara
+PKORD00604,2026-04-20,CUST2252,Multan,Punjab,Fashion,Handbag,5,2400,15,37.0,4.1,Card,Mobile App,Delivered,5,No,Maham
+PKORD00082,2026-04-24,CUST3916,Multan,Punjab,Beauty,Face Wash,1,1700,0,56.0,3.1,Card,Website,Cancelled,10,No,Hina
+PKORD00784,2026-08-27,CUST3168,Rawalpindi,Punjab,Beauty,Perfume,2,8800,0,20.0,4.6,,Mobile App,Delivered,3,No,Bilal
+PKORD00588,2026-02-15,CUST1178,Lahore,Punjab,Beauty,Skin Care Kit,5,3400,15,47.0,3.6,Card,Mobile App,Delivered,7,No,Sara
+PKORD00798,2026-08-16,CUST4313,Islamabad,Islamabad Capital Territory,Electronics,Smart Watch,5,10900,5,53.0,4.5,Bank Transfer,Mobile App,In Transit,8,No,Maham
+PKORD00240,2026-08-29,CUST2568,Rawalpindi,Punjab,Fashion,Hoodie,1,4900,0,24.0,4.5,Digital Wallet,Marketplace,In Transit,6,No,Maham
+PKORD00291,2026-05-23,CUST4036,Rawalpindi,Punjab,Home & Living,Electric Kettle,1,3100,0,54.0,4.1,Digital Wallet,Mobile App,Delivered,5,No,Hina
+PKORD00212,2026-04-15,CUST3978,Karachi,Sindh,Books,Data Science 101,1,1800,10,58.0,4.6,,Marketplace,Delivered,7,No,Usman
+PKORD00718,2026-05-07,CUST1087,Karachi,Sindh,Home & Living,Table Lamp,2,2300,25,44.0,3.1,Raast,Website,Delivered,7,No,Usman
+PKORD00360,2026-02-18,CUST3552,Lahore,Punjab,Electronics,Bluetooth Speaker,2,7500,10,,4.5,Card,Marketplace,Cancelled,9,No,Hamza
+PKORD00450,2026-02-09,CUST3984,Hyderabad,Sindh,Beauty,Sunscreen,1,3100,15,50.0,3.5,Bank Transfer,Mobile App,Delivered,3,No,Maham
+PKORD00228,2026-02-02,CUST1745,Faisalabad,Punjab,Beauty,Perfume,1,8500,0,62.0,4.9,Raast,Marketplace,Cancelled,2,No,Hina
+PKORD00951,2026-04-13,CUST4687,Lahore,Punjab,Beauty,Perfume,1,5300,10,33.0,3.3,Card,Mobile App,Cancelled,7,No,Maham
+PKORD00947,2026-01-15,CUST4730,Karachi,Sindh,Fashion,Men T-Shirt,4,2800,15,25.0,4.7,Cash on Delivery,Mobile App,Delivered,1,No,Maham
+PKORD00797,2026-06-19,CUST3814,Sialkot,Punjab,Electronics,Power Bank,1,6300,15,63.0,3.1,Raast,Mobile App,In Transit,8,No,Sara
+PKORD00502,2026-04-12,CUST4810,Lahore,Punjab,Books,Machine Learning Intro,3,2600,0,53.0,2.9,Card,Website,Cancelled,9,No,Hina
+PKORD00465,2026-01-16,CUST1819,Islamabad,Islamabad Capital Territory,Electronics,Wireless Earbuds,2,8900,20,20.0,2.9,Cash on Delivery,Mobile App,Delivered,4,No,Hamza
+PKORD00363,2026-01-05,CUST3681,Faisalabad,Punjab,Books,Data Science 101,2,2900,20,51.0,2.9,Card,Website,Delivered,5,Yes,Ali
+PKORD00469,2026-07-04,CUST2668,Lahore,Punjab,Beauty,Perfume,1,8300,5,25.0,3.6,Raast,Mobile App,Delivered,8,No,Usman
+PKORD00936,2026-05-27,CUST4949,Multan,Punjab,Electronics,Smart Watch,3,16100,10,65.0,2.9,Cash on Delivery,Website,Delivered,7,No,Ali
+PKORD00429,2026-01-05,CUST2704,Peshawar,Khyber Pakhtunkhwa,Fashion,Men T-Shirt,5,2700,0,18.0,3.2,Cash on Delivery,Mobile App,Cancelled,6,No,Maham
+PKORD00008,2026-06-02,CUST3199,Faisalabad,Punjab,Fashion,Women Kurti,1,5000,5,47.0,4.0,Digital Wallet,Marketplace,Delivered,2,No,Usman
+PKORD00156,2026-05-24,CUST4469,Hyderabad,Sindh,Home & Living,Table Lamp,2,3400,5,51.0,3.1,Card,Website,Delivered,2,No,Hina
+PKORD00542,2026-06-20,CUST3645,Peshawar,Khyber Pakhtunkhwa,Fashion,Sneakers,3,4200,5,43.0,3.5,Cash on Delivery,Marketplace,In Transit,6,No,Ayesha
+PKORD00441,2026-03-11,CUST4727,Lahore,Punjab,Books,Python Basics,3,1800,10,,4.5,Cash on Delivery,Mobile App,Delivered,1,No,Hina
+PKORD00483,2026-03-19,CUST3242,Faisalabad,Punjab,Fashion,Sneakers,2,4100,5,60.0,4.0,Card,Mobile App,Delivered,8,No,Hamza
+PKORD00423,2026-06-15,CUST4625,Multan,Punjab,Electronics,Bluetooth Speaker,1,10200,10,42.0,4.3,Bank Transfer,Mobile App,Delivered,6,No,Maham
+PKORD00779,2026-07-03,CUST3691,Lahore,Punjab,Books,Data Science 101,4,3200,10,55.0,4.4,Card,Mobile App,Cancelled,2,No,Hamza
+PKORD00950,2026-04-13,CUST2818,Quetta,Balochistan,Beauty,Hair Dryer,1,7900,10,31.0,4.9,Raast,Marketplace,In Transit,9,No,Bilal
+PKORD00335,2026-04-21,CUST2616,Karachi,Sindh,Beauty,Hair Dryer,4,6000,10,18.0,4.0,Card,Mobile App,Cancelled,8,No,Sara
+PKORD00577,2026-04-05,CUST2206,Islamabad,Islamabad Capital Territory,Beauty,Hair Dryer,4,7300,5,42.0,2.9,Raast,Website,Delivered,6,No,Ayesha
+PKORD00935,2026-01-07,CUST1170,Karachi,Sindh,Beauty,Hair Dryer,2,6600,5,48.0,4.1,Bank Transfer,Mobile App,Delivered,1,No,Sara
+PKORD00568,2026-01-27,CUST1979,Lahore,Punjab,Books,AI for Everyone,2,2200,15,20.0,3.9,Cash on Delivery,Mobile App,Delivered,8,No,Maham
+PKORD00595,2026-07-28,CUST1951,Islamabad,Islamabad Capital Territory,Fashion,Men T-Shirt,2,2900,10,30.0,4.2,Digital Wallet,Mobile App,In Transit,3,No,Sara
+PKORD00531,2026-07-02,CUST2145,Sialkot,Punjab,Fashion,Hoodie,4,2700,20,36.0,3.7,Digital Wallet,Marketplace,Delivered,6,Yes,Hamza
+PKORD00582,2026-05-26,CUST2561,Rawalpindi,Punjab,Books,AI for Everyone,4,2000,20,27.0,4.9,Bank Transfer,Mobile App,Cancelled,8,No,Sara
+PKORD00708,2026-08-18,CUST1588,Karachi,Sindh,Beauty,Perfume,1,4000,0,33.0,4.4,Raast,Mobile App,Delivered,5,No,Ali
+PKORD00449,2026-05-24,CUST1102,Karachi,Sindh,Beauty,Perfume,4,5500,10,40.0,3.1,Raast,Mobile App,Delivered,5,No,Bilal
+PKORD00454,2026-08-16,CUST4422,Karachi,Sindh,Beauty,Skin Care Kit,2,2700,25,46.0,3.4,Raast,Mobile App,In Transit,4,No,Ayesha
+PKORD00229,2026-08-28,CUST2086,Rawalpindi,Punjab,Books,Data Science 101,2,2800,5,22.0,3.3,Bank Transfer,Website,Delivered,6,No,Sara
+PKORD00353,2026-03-14,CUST4863,Multan,Punjab,Beauty,Hair Dryer,3,3500,10,37.0,2.8,Card,Website,Delivered,1,No,Usman
+PKORD00729,2026-05-07,CUST1977,Islamabad,Islamabad Capital Territory,Beauty,Sunscreen,2,2300,0,21.0,4.2,,Website,Delivered,1,No,Ayesha
+PKORD00213,2026-04-18,CUST2525,Sialkot,Punjab,Electronics,Power Bank,2,6800,0,27.0,,Cash on Delivery,Website,Delivered,7,No,Maham
+PKORD00080,2026-07-22,CUST1465,Karachi,Sindh,Electronics,Wireless Earbuds,4,4600,10,19.0,3.2,Cash on Delivery,Website,In Transit,10,No,Ayesha
+PKORD00149,2026-03-30,CUST2175,Karachi,Sindh,Fashion,Hoodie,4,2800,10,21.0,4.9,Cash on Delivery,Marketplace,In Transit,2,No,Bilal
+PKORD00303,2026-01-06,CUST1229,Quetta,Balochistan,Books,Data Science 101,1,2800,0,55.0,,Digital Wallet,Website,Cancelled,4,No,Hamza
+PKORD00629,2026-03-03,CUST3663,Karachi,Sindh,Fashion,Handbag,2,4200,5,56.0,4.9,Raast,Mobile App,Delivered,8,No,Bilal
+PKORD00778,2026-04-15,CUST1104,Lahore,Punjab,Home & Living,Wall Clock,5,2700,5,36.0,4.2,Card,Mobile App,Delivered,3,No,Ayesha
+PKORD00507,2026-01-20,CUST4805,Lahore,Punjab,Books,Machine Learning Intro,1,2200,10,24.0,4.8,Cash on Delivery,Website,Delivered,7,No,Ayesha
+PKORD00343,2026-06-29,CUST1087,Faisalabad,Punjab,Electronics,Wireless Earbuds,3,6400,0,49.0,3.3,Digital Wallet,Mobile App,Delivered,8,No,Bilal
+PKORD00486,2026-04-14,CUST2728,Rawalpindi,Punjab,Fashion,Sneakers,1,9100,0,19.0,,Bank Transfer,Mobile App,Cancelled,8,No,Ali
+PKORD00712,2026-01-08,CUST4904,Hyderabad,Sindh,Fashion,Sneakers,2,4400,0,64.0,4.3,Card,Website,In Transit,5,No,Ayesha
+PKORD00134,2026-06-29,CUST4174,Rawalpindi,Punjab,Fashion,Women Kurti,1,1900,0,38.0,3.7,Raast,Mobile App,In Transit,10,No,Maham
+PKORD00704,2026-07-20,CUST1107,Hyderabad,Sindh,Beauty,Hair Dryer,1,3600,5,,3.4,Raast,Mobile App,Delivered,7,Yes,Hamza
+PKORD00312,2026-05-21,CUST2783,Lahore,Punjab,Books,Business Analytics,3,3200,15,21.0,3.2,Cash on Delivery,Mobile App,Delivered,8,No,Ayesha
+PKORD00723,2026-03-23,CUST4999,Karachi,Sindh,Fashion,Hoodie,5,4400,15,44.0,4.2,Cash on Delivery,Mobile App,Delivered,8,No,Usman
+PKORD00630,2026-01-30,CUST2121,Karachi,Sindh,Home & Living,Storage Box,1,2400,10,60.0,4.8,Card,Website,Cancelled,9,No,Ayesha
+PKORD00001,2026-02-05,CUST3465,Lahore,Punjab,Electronics,Wireless Earbuds,4,5800,15,52.0,3.0,Raast,Website,Delivered,4,No,Ali
+PKORD00317,2026-08-13,CUST2879,Sialkot,Punjab,Home & Living,Bedsheet Set,3,3900,15,34.0,4.3,Raast,Mobile App,Delivered,6,No,Maham
+PKORD00707,2026-01-24,CUST4007,Karachi,Sindh,Books,Data Science 101,1,2200,0,55.0,3.1,Digital Wallet,Mobile App,Delivered,7,Yes,Hamza
+PKORD00548,2026-04-15,CUST2008,Islamabad,Islamabad Capital Territory,Home & Living,Bedsheet Set,1,3100,0,58.0,3.3,Cash on Delivery,Website,Cancelled,3,No,Hamza
+PKORD00873,2026-05-11,CUST3612,Hyderabad,Sindh,Beauty,Face Wash,2,1400,0,22.0,4.5,Bank Transfer,Website,In Transit,7,No,Hamza
+PKORD00533,2026-01-24,CUST1988,Lahore,Punjab,Fashion,Hoodie,2,4700,5,,4.5,Card,Website,Cancelled,6,No,Usman
+PKORD00478,2026-05-30,CUST3708,Peshawar,Khyber Pakhtunkhwa,Fashion,Sneakers,1,6400,20,39.0,3.6,,Website,Delivered,7,No,Sara
+PKORD00405,2026-02-06,CUST4660,Faisalabad,Punjab,Fashion,Men T-Shirt,4,1500,10,45.0,4.9,,Website,In Transit,9,No,Bilal
+PKORD00173,2026-04-18,CUST2875,Islamabad,Islamabad Capital Territory,Fashion,Men T-Shirt,2,1900,15,41.0,3.4,Card,Mobile App,In Transit,5,No,Ayesha
+PKORD00126,2026-07-03,CUST1434,Lahore,Punjab,Home & Living,Wall Clock,2,1800,25,40.0,4.9,Card,Mobile App,Cancelled,10,No,Hina
+PKORD00395,2026-04-11,CUST3920,Karachi,Sindh,Electronics,Bluetooth Speaker,1,4400,10,55.0,4.2,Raast,Mobile App,Delivered,6,No,Ayesha
+PKORD00421,2026-03-26,CUST3212,Karachi,Sindh,Electronics,Bluetooth Speaker,6,6200,10,50.0,4.4,Raast,Mobile App,In Transit,3,No,Sara
+PKORD00553,2026-01-02,CUST4224,Rawalpindi,Punjab,Electronics,Power Bank,6,2500,15,44.0,4.0,Raast,Mobile App,Cancelled,3,No,Ayesha
+PKORD00904,2026-06-24,CUST4515,Karachi,Sindh,Books,Data Science 101,1,2300,10,57.0,3.3,Card,Mobile App,Cancelled,8,No,Sara
+PKORD00091,2026-01-15,CUST2763,Sialkot,Punjab,Electronics,Power Bank,1,5700,5,31.0,4.5,Bank Transfer,Website,Delivered,1,No,Hamza
+PKORD00940,2026-05-05,CUST1472,Peshawar,Khyber Pakhtunkhwa,Beauty,Perfume,1,4100,0,62.0,3.7,Raast,Website,Delivered,2,No,Hamza
+PKORD00182,2026-08-27,CUST4267,Peshawar,Khyber Pakhtunkhwa,Home & Living,Bedsheet Set,8,4600,5,29.0,4.0,Bank Transfer,Mobile App,In Transit,5,No,Bilal
+PKORD00275,2026-06-05,CUST2404,,Punjab,Fashion,Men T-Shirt,5,2800,10,42.0,3.7,Digital Wallet,Marketplace,Delivered,5,No,Usman
+PKORD00896,2026-03-07,CUST1515,Hyderabad,Sindh,Home & Living,Storage Box,1,2800,10,41.0,4.9,Cash on Delivery,Mobile App,Cancelled,5,No,Sara
+PKORD00070,2026-02-20,CUST4399,Quetta,Balochistan,Beauty,Perfume,8,6200,20,24.0,3.3,Digital Wallet,Mobile App,Delivered,5,Yes,Bilal
+PKORD00292,2026-02-06,CUST4487,Quetta,Balochistan,Fashion,Handbag,1,7500,5,34.0,3.2,Card,Mobile App,Cancelled,2,No,Maham
+PKORD00132,2026-03-18,CUST1448,Multan,Punjab,Fashion,Handbag,3,7200,10,50.0,4.0,Digital Wallet,Website,Delivered,6,No,Bilal
+PKORD00301,2026-02-27,CUST1942,Sialkot,Punjab,Books,AI for Everyone,2,2100,5,40.0,3.9,Raast,Marketplace,Delivered,3,No,Ayesha
+PKORD00425,2026-07-21,CUST4035,Karachi,Sindh,Electronics,Wireless Earbuds,4,6300,5,31.0,4.6,Digital Wallet,Mobile App,Cancelled,4,No,Sara
+PKORD00327,2026-03-07,CUST1714,Hyderabad,Sindh,Home & Living,Wall Clock,2,3500,5,40.0,4.7,Digital Wallet,Website,Cancelled,10,No,Usman
+PKORD00145,2026-08-18,CUST2958,Islamabad,Islamabad Capital Territory,Fashion,Handbag,5,7800,15,62.0,3.1,Bank Transfer,Mobile App,Delivered,4,No,Hamza
+PKORD00424,2026-07-04,CUST4952,Karachi,Sindh,Fashion,Women Kurti,8 units,1900,5,42.0,2.9,Digital Wallet,Mobile App,In Transit,10,No,Maham
+PKORD00581,2026-01-08,CUST2743,Quetta,Balochistan,Fashion,Handbag,2,5900,10,26.0,3.5,Cash on Delivery,Mobile App,Delivered,6,No,Bilal
+PKORD00136,2026-03-05,CUST2965,Karachi,Sindh,Home & Living,Wall Clock,1,3200,5,37.0,4.5,Card,Mobile App,In Transit,7,No,Hina
+PKORD00451,2026-01-11,CUST1378,Islamabad,Islamabad Capital Territory,Home & Living,Bedsheet Set,1,4800,10,37.0,2.9,Digital Wallet,Mobile App,In Transit,7,No,Hina
+PKORD00165,2026-04-14,CUST2544,Karachi,Sindh,Home & Living,Electric Kettle,2,6300,5,62.0,3.3,Cash on Delivery,Mobile App,Delivered,2,No,Maham
+PKORD00029,2026-08-19,CUST2491,Karachi,Sindh,Beauty,Skin Care Kit,3,6200,5,63.0,3.8,Digital Wallet,Marketplace,Cancelled,5,No,Bilal
+PKORD00774,2026-04-02,CUST2804,Islamabad,Islamabad Capital Territory,Electronics,Bluetooth Speaker,2,4100,20,31.0,3.7,Digital Wallet,Marketplace,Delivered,6,No,Hamza
+PKORD00194,2026-04-02,CUST2322,Faisalabad,Punjab,Electronics,Bluetooth Speaker,5,9200,15,43.0,3.3,Raast,Mobile App,In Transit,6,No,Usman
+PKORD00389,2026-04-10,CUST4592,Rawalpindi,Punjab,Home & Living,Storage Box,1,1600,0,37.0,4.4,Bank Transfer,Mobile App,Delivered,7,No,Sara
+PKORD00853,2026-01-29,CUST3454,Karachi,Sindh,Electronics,Bluetooth Speaker,3,5800,0,,4.5,Raast,Mobile App,Delivered,4,No,Usman
+PKORD00170,2026-07-02,CUST1021,Peshawar,Khyber Pakhtunkhwa,Electronics,Keyboard,1,4900,5,42.0,4.4,Card,Mobile App,Delivered,6,No,Usman
+PKORD00706,2026-03-23,CUST4453,Lahore,Punjab,Fashion,Handbag,2,3600,10,24.0,4.4,,Mobile App,Cancelled,8,No,Usman
+PKORD00141,2026-08-12,CUST3626,Hyderabad,Sindh,Beauty,Hair Dryer,6,5000,20,18.0,3.5,Digital Wallet,Website,Delivered,5,No,Maham
+PKORD00174,2026-03-27,CUST2230,Sialkot,Punjab,Fashion,Sneakers,5,3600,5,39.0,3.8,Raast,Mobile App,Cancelled,4,No,Hina
+PKORD00007,2026-05-24,CUST1192,Lahore,Punjab,Fashion,Sneakers,3,4600,15,45.0,4.8,Raast,Mobile App,Delivered,8,No,Ayesha
+PKORD00746,2026-08-07,CUST1469,Faisalabad,Punjab,Fashion,Women Kurti,1,5500,10,64.0,5.0,Cash on Delivery,Mobile App,Cancelled,5,No,Ayesha
+PKORD00479,2026-01-22,CUST4536,Lahore,Punjab,Fashion,Women Kurti,6,4500,0,37.0,3.1,Card,Website,Delivered,1,No,Bilal
+PKORD00074,2026-07-22,CUST2931,Lahore,Punjab,Fashion,Handbag,2,6800,5,25.0,3.8,Bank Transfer,Mobile App,Delivered,2,No,Ali
+PKORD00911,2026-07-26,CUST3484,Karachi,Sindh,Home & Living,Bedsheet Set,2,1900,10,32.0,4.1,Bank Transfer,Website,In Transit,10,No,Bilal
+PKORD00814,2026-04-14,CUST2076,Faisalabad,Punjab,Books,AI for Everyone,6,2100,10,59.0,4.3,Cash on Delivery,Mobile App,Delivered,4,No,Ayesha
+PKORD00239,2026-03-25,CUST2697,Lahore,Punjab,Electronics,Bluetooth Speaker,5,8600,10,18.0,4.5,Digital Wallet,Mobile App,In Transit,3,No,Hamza
+PKORD00146,2026-05-21,CUST3152,Lahore,Punjab,Beauty,Skin Care Kit,6,5100,15,60.0,4.6,Card,Mobile App,Cancelled,3,No,Maham
+PKORD00793,2026-05-23,CUST4572,,Sindh,Electronics,Keyboard,3,5100,20,20.0,4.9,Cash on Delivery,Website,Cancelled,8,No,Sara
+PKORD00235,2026-06-19,CUST2078,Islamabad,Islamabad Capital Territory,Home & Living,Storage Box,1,2800,10,42.0,3.2,Raast,Mobile App,In Transit,2,No,Maham
+PKORD00221,2026-01-23,CUST2566,Islamabad,Islamabad Capital Territory,Beauty,Hair Dryer,1,8000,0,30.0,4.2,Digital Wallet,Website,Cancelled,2,No,Hina
+PKORD00924,2026-04-01,CUST3884,Karachi,Sindh,Home & Living,Storage Box,1,1500,15,54.0,3.4,Cash on Delivery,Mobile App,In Transit,8,No,Hamza
+PKORD00501,2026-05-23,CUST1021,Karachi,Sindh,Beauty,Skin Care Kit,1,4100,5,33.0,3.8,Bank Transfer,Marketplace,Cancelled,2,No,Usman
+PKORD00133,2026-06-11,CUST3576,Hyderabad,Sindh,Books,AI for Everyone,1,2800,10,59.0,4.5,Digital Wallet,Mobile App,Delivered,8,No,Bilal
+PKORD00440,2026-04-29,CUST3829,Sialkot,Punjab,Beauty,Skin Care Kit,4,2200,20,,3.2,Bank Transfer,Mobile App,Delivered,2,No,Hina
+PKORD00775,2026-02-02,CUST4524,Quetta,Balochistan,Home & Living,Electric Kettle,1,5100,0,57.0,4.2,Card,Website,Delivered,3,No,Maham
+PKORD00186,2026-05-28,CUST1574,Rawalpindi,Punjab,Books,Business Analytics,2,2500,0,58.0,4.0,Card,Mobile App,In Transit,6,No,Hamza
+PKORD00042,2026-06-05,CUST3358,Lahore,Punjab,Beauty,Perfume,3,8800,15,25.0,4.5,Card,Marketplace,Delivered,1,No,Bilal
+PKORD00697,2026-04-18,CUST4371,Lahore,Punjab,Home & Living,Table Lamp,2,2300,10,28.0,4.9,Raast,Mobile App,Cancelled,8,No,Ali
+PKORD00109,2026-04-28,CUST3943,Peshawar,Khyber Pakhtunkhwa,Fashion,Handbag,1,7400,15,49.0,4.1,Cash on Delivery,Mobile App,Cancelled,5,No,Hamza
+PKORD00589,2026-06-20,CUST2510,Rawalpindi,Punjab,Fashion,Sneakers,6,8600,15,64.0,4.8,Raast,Mobile App,Cancelled,3,No,Ayesha
+PKORD00057,2026-07-15,CUST1743,Sialkot,Punjab,Fashion,Hoodie,3,4900,5,20.0,,Card,Mobile App,In Transit,6,No,Bilal
+PKORD00406,2026-05-22,CUST3916,Islamabad,Islamabad Capital Territory,Books,Data Science 101,5,2400,5,,3.2,Digital Wallet,Website,In Transit,5,No,Usman
+PKORD00443,2026-07-14,CUST2991,Multan,Punjab,Beauty,Skin Care Kit,1,3700,5,35.0,3.9,Raast,Website,Delivered,6,No,Ayesha
+PKORD00758,2026-08-12,CUST4364,Faisalabad,Punjab,Electronics,Bluetooth Speaker,1,7500,0,51.0,,Cash on Delivery,Mobile App,Delivered,6,Yes,Usman
+PKORD00434,2026-01-26,CUST1222,Lahore,Punjab,Home & Living,Table Lamp,1,2000,5,,3.6,Card,Website,Cancelled,9,No,Bilal
+PKORD00025,2026-06-20,CUST4320,Faisalabad,Punjab,Electronics,Smart Watch,1,9900,15,44.0,4.9,Card,Marketplace,Delivered,3,No,Hamza
+PKORD00468,2026-01-28,CUST1451,Islamabad,Islamabad Capital Territory,Home & Living,Wall Clock,1,2000,5,42.0,3.7,Digital Wallet,Website,Delivered,6,No,Hamza
+PKORD00540,2026-01-13,CUST1276,Rawalpindi,Punjab,Fashion,Women Kurti,6,5000,5,36.0,3.3,Raast,Website,Cancelled,7,No,Ali
+PKORD00532,2026-06-09,CUST2370,Hyderabad,Sindh,Beauty,Hair Dryer,4,5200,10,62.0,3.6,Raast,Mobile App,Delivered,2,Yes,Bilal
+PKORD00619,2026-06-29,CUST3727,Sialkot,Punjab,Fashion,Women Kurti,1,4900,10,63.0,,Bank Transfer,Marketplace,Delivered,4,No,Maham
+PKORD00695,2026-01-16,CUST3603,Peshawar,Khyber Pakhtunkhwa,Books,Python Basics,6,2400,5,45.0,5.0,Card,Website,Delivered,7,No,Hamza
+PKORD00927,2026-01-23,CUST1567,Karachi,Sindh,Electronics,Bluetooth Speaker,1,10000,5,62.0,4.9,Raast,Mobile App,In Transit,9,No,Hina
+PKORD00339,2026-01-15,CUST1499,Sialkot,Punjab,Home & Living,Bedsheet Set,1,4900,5,52.0,3.8,Card,Marketplace,Delivered,7,No,Sara
+PKORD00052,2026-04-17,CUST4523,Rawalpindi,Punjab,Electronics,Power Bank,3,3500,15,32.0,4.5,Raast,Mobile App,In Transit,6,No,Bilal
+PKORD00508,2026-08-01,CUST4894,Karachi,Sindh,Home & Living,Table Lamp,4,1600,10,58.0,4.9,Digital Wallet,Mobile App,Delivered,1,No,Maham
+PKORD00517,2026-06-07,CUST4342,Rawalpindi,Punjab,Books,Business Analytics,2,2200,15,62.0,4.3,Bank Transfer,Website,Delivered,1,No,Ali
+PKORD00921,2026-06-10,CUST4686,Rawalpindi,Punjab,Beauty,Sunscreen,3,3300,20,42.0,4.4,Bank Transfer,Mobile App,Delivered,7,No,Sara
+PKORD00782,2026-01-20,CUST2669,Rawalpindi,Punjab,Home & Living,Bedsheet Set,6,3200,10,56.0,3.3,Raast,Website,Delivered,4,No,Hamza
+PKORD00265,2026-06-16,CUST3419,Peshawar,Khyber Pakhtunkhwa,Home & Living,Storage Box,5,2900,0,26.0,4.3,Cash on Delivery,Marketplace,Delivered,2,No,Maham
+PKORD00818,2026-08-02,CUST2783,Sialkot,Punjab,Books,Data Science 101,1,1800,0,45.0,4.0,Raast,Mobile App,Delivered,2,No,Hina
+PKORD00711,2026-06-07,CUST4116,Islamabad,Islamabad Capital Territory,Electronics,Smart Watch,3,12200,0,51.0,4.4,Cash on Delivery,Website,Delivered,1,No,Hamza
+PKORD00683,2026-04-14,CUST4189,Faisalabad,Punjab,Beauty,Hair Dryer,5,6100,0,41.0,4.2,Card,Website,Delivered,2,No,Hina
+PKORD00833,2026-02-11,CUST1532,Rawalpindi,Punjab,Home & Living,Wall Clock,2,2800,20,56.0,4.9,Digital Wallet,Website,Cancelled,4,No,Hina
+PKORD00519,2026-04-24,CUST2367,Multan,Punjab,Electronics,Power Bank,7,3700,10,46.0,4.1,,Website,In Transit,2,No,Ali
+PKORD00448,2026-05-18,CUST3353,Karachi,Sindh,Fashion,Hoodie,2,6300,25,63.0,4.3,Card,Website,Delivered,1,No,Hamza
+PKORD00019,2026-03-02,CUST3315,Faisalabad,Punjab,Electronics,Keyboard,2,3100,20,54.0,3.3,Digital Wallet,Website,Delivered,7,No,Hina
+PKORD00716,2026-06-18,CUST4257,,Sindh,Fashion,Sneakers,2,5500,0,38.0,3.1,Bank Transfer,Mobile App,Delivered,4,No,Hina
+PKORD00484,2026-02-24,CUST3139,Rawalpindi,Punjab,Electronics,Keyboard,3,4000,15,47.0,3.4,,Mobile App,In Transit,2,No,Sara
+PKORD00569,2026-07-31,CUST3398,Lahore,Punjab,Home & Living,Storage Box,8,1700,5,22.0,3.6,Digital Wallet,Website,Delivered,8,No,Hina
+PKORD00434,2026-01-26,CUST1222,Lahore,Punjab,Home & Living,Table Lamp,1,2000,5,,3.6,Card,Website,Cancelled,9,No,Bilal
+PKORD00368,2026-02-03,CUST4723,Islamabad,Islamabad Capital Territory,Home & Living,Wall Clock,1,2500,0,52.0,4.3,Card,Marketplace,Delivered,3,No,Hamza
+PKORD00084,2026-01-25,CUST1373,Lahore,Punjab,Home & Living,Storage Box,2,2500,5,34.0,3.6,Card,Mobile App,In Transit,3,No,Ayesha
+PKORD00062,2026-05-22,CUST4226,Lahore,Punjab,Beauty,Hair Dryer,1,7400,0,56.0,3.9,Card,Marketplace,Delivered,7,No,Usman
+PKORD00639,2026-02-26,CUST3166,Lahore,Punjab,Home & Living,Bedsheet Set,2,2200,0,25.0,3.2,Bank Transfer,Mobile App,In Transit,3,No,Hina
+PKORD00273,2026-07-31,CUST4162,Karachi,Sindh,Fashion,Men T-Shirt,4,2800,15,24.0,4.5,Cash on Delivery,Marketplace,Cancelled,3,No,Maham
+PKORD00286,2026-02-19,CUST4168,Hyderabad,Sindh,Beauty,Face Wash,2,1300,0,24.0,3.2,Digital Wallet,Mobile App,Delivered,4,No,Sara
+PKORD00361,2026-04-06,CUST4558,Karachi,Sindh,Beauty,Face Wash,1,1200,15,23.0,3.0,Cash on Delivery,Website,Cancelled,4,No,Usman
+PKORD00355,2026-08-23,CUST3438,Lahore,Punjab,Home & Living,Bedsheet Set,1,4100,0,38.0,4.5,Card,Mobile App,Cancelled,3,No,Usman
+PKORD00457,2026-08-02,CUST2135,Sialkot,Punjab,Fashion,Sneakers,3,6000,0,60.0,,Raast,Website,Delivered,1,No,Maham
+PKORD00279,2026-07-28,CUST1973,Karachi,Sindh,Home & Living,Table Lamp,2,3700,10,61.0,4.4,Card,Mobile App,Cancelled,8,No,Usman
+PKORD00013,2026-05-31,CUST1974,Lahore,Punjab,Fashion,Women Kurti,3,2100,10,18.0,3.0,Cash on Delivery,Website,Delivered,6,Yes,Usman
+PKORD00183,2026-04-12,CUST3882,Faisalabad,Punjab,Fashion,Women Kurti,1,4400,10,30.0,3.8,Raast,Mobile App,Delivered,4,No,Ayesha
+PKORD00369,2026-05-17,CUST2242,Karachi,Sindh,Books,Data Science 101,6,2200,0,38.0,4.6,Card,Mobile App,Delivered,7,No,Maham
+PKORD00882,2026-07-26,CUST1131,Lahore,Punjab,Fashion,Men T-Shirt,2,2900,0,51.0,2.9,Digital Wallet,Mobile App,Cancelled,8,No,Hina
+PKORD00616,2026-06-13,CUST2984,Karachi,Sindh,Books,Business Analytics,7,3000,15,19.0,4.2,Cash on Delivery,Marketplace,Delivered,8,No,Bilal
+PKORD00224,2026-07-08,CUST3306,Lahore,Punjab,Fashion,Women Kurti,3,4200,20,19.0,4.3,Bank Transfer,Marketplace,Cancelled,4,No,Sara
+PKORD00573,2026-07-23,CUST3518,Karachi,Sindh,Fashion,Sneakers,2,5500,0,50.0,4.9,Raast,Website,Delivered,8,No,Ayesha
+PKORD00971,2026-02-18,CUST4682,Sialkot,Punjab,Beauty,Perfume,1,7000,0,62.0,,Raast,Marketplace,Delivered,7,No,Maham
+PKORD00654,2026-06-06,CUST1787,Multan,Punjab,Beauty,Face Wash,1,2100,25,55.0,4.2,Card,Website,Delivered,7,Yes,Hamza
+PKORD00546,2026-03-20,CUST2310,Karachi,Sindh,Fashion,Sneakers,7,9800,15,21.0,4.2,Bank Transfer,Website,Delivered,5,No,Hamza
+PKORD00583,2026-05-02,CUST3822,Lahore,Punjab,Beauty,Face Wash,1,1800,10,46.0,4.2,Bank Transfer,Website,Delivered,3,Yes,Maham
+PKORD00634,2026-08-30,CUST3008,Lahore,Punjab,Home & Living,Wall Clock,3,1900,5,20.0,4.9,Digital Wallet,Marketplace,Delivered,8,No,Hina
+PKORD00177,2026-03-03,CUST3384,Faisalabad,Punjab,Beauty,Hair Dryer,1,4600,0,45.0,4.5,Cash on Delivery,Mobile App,Cancelled,9,No,Bilal
+PKORD00666,2026-05-29,CUST1607,Lahore,Punjab,Beauty,Sunscreen,3,2500,20,43.0,3.1,Card,Mobile App,In Transit,7,No,Maham
+PKORD00674,2026-02-08,CUST2140,Quetta,Balochistan,Home & Living,Bedsheet Set,4,1800,0,27.0,3.7,Raast,Mobile App,Delivered,7,No,Hamza
+PKORD00586,2026-05-31,CUST4377,Hyderabad,Sindh,Fashion,Hoodie,1 units,4900,15,47.0,3.4,Cash on Delivery,Marketplace,In Transit,3,No,Bilal
+PKORD00874,2026-05-09,CUST1786,Karachi,Sindh,Fashion,Men T-Shirt,2,2100,15,,3.0,Bank Transfer,Marketplace,Delivered,3,No,Bilal
+PKORD00394,2026-05-27,CUST3766,Peshawar,Khyber Pakhtunkhwa,Home & Living,Table Lamp,1,4400,0,57.0,,Digital Wallet,Mobile App,Delivered,1,No,Ali
+PKORD00164,2026-05-18,CUST3538,Multan,Punjab,Electronics,Wireless Earbuds,7,7800,0,62.0,4.3,Card,Website,Delivered,3,No,Usman
+PKORD00249,2026-06-13,CUST4685,Sialkot,Punjab,Beauty,Face Wash,2,1400,5,59.0,4.4,Bank Transfer,Website,Cancelled,5,No,Ali
+PKORD00635,2026-02-23,CUST1884,Rawalpindi,Punjab,Books,AI for Everyone,3,2500,10,20.0,3.3,Card,Website,Delivered,3,No,Hina
+PKORD00886,2026-07-17,CUST1413,Faisalabad,Punjab,Books,Business Analytics,5,2900,20,63.0,4.7,,Website,Delivered,4,No,Ali
+PKORD00670,2026-07-28,CUST1086,Hyderabad,Sindh,Fashion,Handbag,1,6800,5,27.0,3.3,Digital Wallet,Mobile App,Cancelled,3,No,Ali
+PKORD00376,2026-05-20,CUST2327,Hyderabad,Sindh,Fashion,Hoodie,1,6300,5,46.0,2.9,Raast,Mobile App,Delivered,8,No,Hamza
+PKORD00413,2026-03-30,CUST4081,Multan,Punjab,Fashion,Women Kurti,1,4200,5,25.0,2.9,Raast,Mobile App,Delivered,8,No,Sara
+PKORD00075,2026-02-26,CUST1152,Hyderabad,Sindh,Books,Machine Learning Intro,3,2500,10,47.0,4.8,Bank Transfer,Mobile App,Delivered,3,Yes,Usman
+PKORD00114,2026-05-08,CUST3234,Islamabad,Islamabad Capital Territory,Beauty,Perfume,2,4000,15,35.0,4.6,Raast,Website,Cancelled,4,No,Usman
+PKORD00599,2026-06-08,CUST3449,Multan,Punjab,Home & Living,Table Lamp,1,3300,0,49.0,3.5,Card,Mobile App,Delivered,4,No,Maham
+PKORD00962,2026-08-20,CUST2667,Lahore,Punjab,Books,Python Basics,2,1800,5,62.0,4.3,Raast,Website,Cancelled,8,No,Hina
+PKORD00391,2026-02-06,CUST4542,Peshawar,Khyber Pakhtunkhwa,Home & Living,Storage Box,4,2200,0,51.0,4.3,Card,Website,Delivered,8,No,Ayesha
+PKORD00105,2026-07-29,CUST3913,Sialkot,Punjab,Books,Machine Learning Intro,1,2700,10,34.0,2.9,Raast,Marketplace,Cancelled,3,No,Ayesha
+PKORD00115,2026-03-17,CUST2781,Lahore,Punjab,Home & Living,Bedsheet Set,2,2100,10,45.0,3.2,Raast,Mobile App,Delivered,6,No,Usman
+PKORD00418,2026-06-19,CUST2567,Lahore,Punjab,Electronics,Power Bank,6,4600,10,35.0,4.5,Bank Transfer,Website,Delivered,5,No,Bilal
+PKORD00526,2026-01-13,CUST4373,Karachi,Sindh,Books,Machine Learning Intro,6,3200,10,47.0,4.9,Cash on Delivery,Marketplace,Cancelled,3,No,Ali
+PKORD00458,2026-05-04,CUST4462,,Punjab,Electronics,Keyboard,3,8600,20,,4.3,Cash on Delivery,Mobile App,Cancelled,2,No,Usman
+PKORD00410,2026-01-14,CUST2138,Karachi,Sindh,Electronics,Bluetooth Speaker,3,8700,5,65.0,4.2,Bank Transfer,Mobile App,Delivered,2,No,Usman
+PKORD00093,2026-06-13,CUST4407,Lahore,Punjab,Books,Business Analytics,2,2800,0,19.0,4.9,Card,Mobile App,Cancelled,9,No,Hina
+PKORD00931,2026-08-17,CUST2276,Rawalpindi,Punjab,Electronics,Power Bank,2,5600,20,29.0,3.9,Raast,Website,Delivered,2,No,Usman
+PKORD00090,2026-04-24,CUST3158,Islamabad,Islamabad Capital Territory,Home & Living,Storage Box,2,2600,0,50.0,3.1,Raast,Website,Cancelled,9,No,Usman
+PKORD00337,2026-06-13,CUST1090,Lahore,Punjab,Electronics,Power Bank,2,3600,10,62.0,4.2,Card,Website,Delivered,1,No,Hamza
+PKORD00458,2026-05-04,CUST4462,,Punjab,Electronics,Keyboard,3,8600,20,,4.3,Cash on Delivery,Mobile App,Cancelled,2,No,Usman
+PKORD00922,2026-06-27,CUST1429,Karachi,Sindh,Home & Living,Wall Clock,1,2700,20,62.0,3.3,Digital Wallet,Mobile App,Delivered,8,No,Sara
+PKORD00934,2026-05-25,CUST2199,Hyderabad,Sindh,Books,Python Basics,3,1900,10,43.0,4.5,Card,Website,Delivered,8,No,Bilal
+PKORD00606,2026-05-31,CUST4159,Lahore,Punjab,Home & Living,Storage Box,1,2900,20,25.0,3.6,Digital Wallet,Website,In Transit,6,No,Hina
+PKORD00594,2026-03-03,CUST1395,Lahore,Punjab,Beauty,Sunscreen,1,2200,0,19.0,,Bank Transfer,Mobile App,Delivered,4,No,Hamza
+PKORD00612,2026-08-22,CUST3398,Islamabad,Islamabad Capital Territory,Fashion,Sneakers,3 units,6800,20,28.0,3.0,Cash on Delivery,Mobile App,Delivered,2,No,Sara
+PKORD00095,2026-02-07,CUST4090,Karachi,Sindh,Home & Living,Electric Kettle,1,4200,0,27.0,4.5,,Website,In Transit,9,No,Maham
+PKORD00012,2026-08-26,CUST2849,Sialkot,Punjab,Books,Machine Learning Intro,3,2700,15,30.0,4.4,Raast,Marketplace,Delivered,8,No,Ayesha
+PKORD00397,2026-06-20,CUST4464,Faisalabad,Punjab,Home & Living,Storage Box,2,1700,20,38.0,3.8,Cash on Delivery,Website,Delivered,6,No,Hamza
+PKORD00534,2026-08-04,CUST2856,Multan,Punjab,Beauty,Skin Care Kit,2 units,2900,10,,3.1,Cash on Delivery,Mobile App,Cancelled,2,No,Hina
+PKORD00044,2026-01-04,CUST2783,Faisalabad,Punjab,Home & Living,Bedsheet Set,5,3900,15,24.0,3.8,Bank Transfer,Mobile App,In Transit,4,No,Hamza
+PKORD00043,2026-08-01,CUST2422,Rawalpindi,Punjab,Beauty,Sunscreen,3,1500,0,37.0,,Digital Wallet,Mobile App,Cancelled,2,No,Bilal
+PKORD00330,2026-02-02,CUST1391,Quetta,Balochistan,Beauty,Sunscreen,4,2000,10,65.0,4.3,Cash on Delivery,Website,In Transit,3,No,Ayesha
+PKORD00168,2026-05-26,CUST2790,Rawalpindi,Punjab,Electronics,Smart Watch,5,9200,5,52.0,3.5,Card,Mobile App,Delivered,6,Yes,Sara
+PKORD00498,2026-07-03,CUST4331,Karachi,Sindh,Home & Living,Table Lamp,3,3800,15,47.0,4.6,Raast,Website,Delivered,4,No,Usman
+PKORD00877,2026-06-30,CUST2334,Karachi,Sindh,Fashion,Handbag,1,4400,10,34.0,3.4,Bank Transfer,Website,In Transit,8,No,Sara
+PKORD00598,2026-06-05,CUST4108,Lahore,Punjab,Home & Living,Storage Box,6,1200,10,50.0,4.2,Card,Mobile App,Delivered,4,Yes,Ayesha
+PKORD00757,2026-08-22,CUST2460,Multan,Punjab,Home & Living,Table Lamp,4,4300,10,30.0,4.6,Digital Wallet,Mobile App,Cancelled,7,No,Hamza
+PKORD00101,2026-04-19,CUST1927,Faisalabad,Punjab,Fashion,Hoodie,2,2900,0,37.0,3.2,Card,Website,In Transit,5,No,Hamza
+PKORD00427,2026-07-29,CUST1494,Karachi,Sindh,Books,Data Science 101,1,2700,10,57.0,3.3,Card,Mobile App,In Transit,7,No,Hamza
+PKORD00179,2026-06-15,CUST4059,Rawalpindi,Punjab,Fashion,Hoodie,3,2700,5,39.0,4.9,Raast,Website,Delivered,5,No,Sara
+PKORD00445,2026-03-12,CUST3795,Karachi,Sindh,Fashion,Sneakers,1,4100,0,27.0,4.7,Digital Wallet,Marketplace,Delivered,5,No,Hamza
+PKORD00417,2026-02-25,CUST4685,Hyderabad,Sindh,Electronics,Keyboard,7,7900,10,63.0,4.9,Cash on Delivery,Marketplace,Delivered,7,No,Hamza
+PKORD00871,2026-03-18,CUST2031,Rawalpindi,Punjab,Books,Machine Learning Intro,3,2200,10,25.0,4.4,Raast,Mobile App,Delivered,8,No,Bilal
+PKORD00883,2026-06-12,CUST3350,Rawalpindi,Punjab,Books,Business Analytics,1,2200,0,23.0,4.9,Cash on Delivery,Mobile App,Cancelled,3,No,Maham
+PKORD00681,2026-04-19,CUST3905,Lahore,Punjab,Books,Data Science 101,3,1500,20,53.0,,Bank Transfer,Marketplace,Cancelled,6,No,Sara
+PKORD00178,2026-06-27,CUST3693,Hyderabad,Sindh,Books,Machine Learning Intro,2,3700,0,41.0,4.3,Digital Wallet,Mobile App,Delivered,2,No,Hina
+PKORD00396,2026-07-25,CUST3526,Karachi,Sindh,Beauty,Skin Care Kit,6,3100,10,47.0,3.5,Raast,Mobile App,Delivered,3,No,Usman
+PKORD00912,2026-04-08,CUST3905,Hyderabad,Sindh,Books,Machine Learning Intro,1,3600,0,,4.9,Digital Wallet,Website,Delivered,6,No,Bilal
+PKORD00794,2026-07-28,CUST3009,Karachi,Sindh,Fashion,Sneakers,1,7400,10,26.0,3.2,Cash on Delivery,Marketplace,Delivered,1,No,Sara
+PKORD00961,2026-03-09,CUST4795,Multan,Punjab,Fashion,Men T-Shirt,2,2200,10,20.0,3.4,Raast,Mobile App,Delivered,1,No,Ali
+PKORD00685,2026-01-24,CUST4988,Karachi,Sindh,Books,Business Analytics,6,1700,0,40.0,4.5,Raast,Mobile App,Delivered,7,No,Hamza
+PKORD00384,2026-04-01,CUST1792,Sialkot,Punjab,Home & Living,Wall Clock,6,3600,10,49.0,3.9,Raast,Mobile App,Delivered,4,No,Ali
+PKORD00957,2026-06-29,CUST2560,Faisalabad,Punjab,Fashion,Hoodie,8,4800,15,33.0,4.9,Card,Marketplace,Delivered,1,No,Maham
+PKORD00752,2026-06-18,CUST2327,Peshawar,Khyber Pakhtunkhwa,Beauty,Sunscreen,2,2300,5,59.0,3.9,Raast,Mobile App,Delivered,5,No,Hina
+PKORD00258,2026-02-18,CUST3415,Lahore,Punjab,Fashion,Sneakers,1,7500,20,43.0,2.8,Card,Mobile App,Delivered,4,No,Hamza
+PKORD00539,2026-04-15,CUST2990,Rawalpindi,Punjab,Books,AI for Everyone,1,1500,5,,2.9,Card,Website,Delivered,6,No,Ali
+PKORD00336,2026-01-21,CUST2691,Karachi,Sindh,Fashion,Handbag,2,5300,5,57.0,4.6,Bank Transfer,Website,Cancelled,6,No,Sara
+PKORD00016,2026-05-19,CUST1674,Karachi,Sindh,Beauty,Skin Care Kit,5,2800,25,33.0,3.2,Raast,Mobile App,In Transit,2,No,Bilal
+PKORD00325,2026-04-08,CUST4658,Islamabad,Islamabad Capital Territory,Home & Living,Table Lamp,1,3800,15,65.0,3.1,Cash on Delivery,Website,In Transit,4,No,Hina
+PKORD00759,2026-08-12,CUST2635,Karachi,Sindh,Home & Living,Storage Box,1,2400,5,52.0,4.1,Digital Wallet,Marketplace,Cancelled,6,No,Ali
+PKORD00223,2026-06-18,CUST4830,Karachi,Sindh,Books,Data Science 101,1,1800,10,65.0,2.9,Card,Mobile App,In Transit,7,No,Hamza
+PKORD00180,2026-06-23,CUST1475,Islamabad,Islamabad Capital Territory,Beauty,Perfume,3,5700,10,40.0,5.0,Raast,Website,In Transit,3,No,Hamza
+PKORD00696,2026-01-21,CUST2755,Lahore,Punjab,Electronics,Power Bank,2,3100,15,,4.0,Bank Transfer,Website,Delivered,2,No,Hina
+PKORD00023,2026-08-20,CUST2072,Islamabad,Islamabad Capital Territory,Fashion,Sneakers,6,7600,0,58.0,3.7,Bank Transfer,Website,Delivered,3,No,Hamza
+PKORD00357,2026-05-19,CUST4083,Karachi,Sindh,Electronics,Smart Watch,3,15100,5,62.0,3.3,Cash on Delivery,Mobile App,In Transit,9,No,Ayesha
+PKORD00667,2026-07-28,CUST1727,Islamabad,Islamabad Capital Territory,Electronics,Bluetooth Speaker,5,5500,0,,,Card,Mobile App,Delivered,5,No,Bilal
+PKORD00862,2026-06-14,CUST2354,Karachi,Sindh,Beauty,Sunscreen,3,2300,10,,3.9,Card,Mobile App,Delivered,5,No,Maham
+PKORD00341,2026-06-13,CUST1685,Lahore,Punjab,Books,Machine Learning Intro,2,2000,5,21.0,4.7,Card,Marketplace,Delivered,7,No,Usman
+PKORD00432,2026-08-22,CUST2369,Faisalabad,Punjab,Fashion,Men T-Shirt,2,1800,0,60.0,4.8,Cash on Delivery,Mobile App,Delivered,4,No,Maham
+PKORD00552,2026-03-23,CUST4928,Sialkot,Punjab,Fashion,Hoodie,5,4600,20,58.0,3.4,Raast,Website,Delivered,6,No,Hina
+PKORD00834,2026-02-06,CUST1756,Peshawar,Khyber Pakhtunkhwa,Electronics,Wireless Earbuds,4,6000,10,28.0,3.8,Card,Website,Delivered,5,No,Sara
+PKORD00204,2026-07-16,CUST3094,Multan,Punjab,Books,AI for Everyone,2,2600,15,23.0,4.2,Digital Wallet,Mobile App,Delivered,2,No,Sara
+PKORD00631,2026-06-15,CUST2660,Islamabad,Islamabad Capital Territory,Books,Data Science 101,4,2300,5,26.0,3.0,Cash on Delivery,Mobile App,Cancelled,4,No,Ali
+PKORD00094,2026-04-22,CUST1467,Karachi,Sindh,Electronics,Bluetooth Speaker,3,10900,10,43.0,,Bank Transfer,Website,Delivered,2,No,Sara
+PKORD00559,2026-08-24,CUST4020,Karachi,Sindh,Books,Python Basics,2,1700,10,18.0,3.7,Bank Transfer,Website,Cancelled,2,No,Sara
+PKORD00069,2026-03-07,CUST3406,Lahore,Punjab,Fashion,Handbag,3,7400,20,47.0,4.8,Digital Wallet,Website,In Transit,7,No,Usman
+PKORD00623,2026-05-08,CUST4472,Quetta,Balochistan,Home & Living,Table Lamp,3,2700,0,36.0,3.1,Cash on Delivery,Mobile App,Delivered,2,No,Maham
+PKORD00285,2026-06-24,CUST3083,Sialkot,Punjab,Books,Machine Learning Intro,5,2300,5,25.0,3.6,Digital Wallet,Mobile App,Delivered,6,No,Maham
+PKORD00845,2026-08-20,CUST3964,Hyderabad,Sindh,Home & Living,Storage Box,5,1900,15,51.0,4.1,Cash on Delivery,Website,Delivered,1,No,Ayesha
+PKORD00435,2026-04-10,CUST1244,Islamabad,Islamabad Capital Territory,Fashion,Women Kurti,2,4300,10,30.0,4.2,Bank Transfer,Website,Delivered,1,No,Usman
+PKORD00154,2026-03-24,CUST2749,Faisalabad,Punjab,Books,Machine Learning Intro,1,3400,20,60.0,3.9,Raast,Website,Delivered,3,No,Maham
+PKORD00076,2026-05-18,CUST4414,Karachi,Sindh,Beauty,Face Wash,1,900,10,60.0,4.9,Digital Wallet,Mobile App,Delivered,7,No,Maham
+PKORD00731,2026-06-29,CUST2864,Islamabad,Islamabad Capital Territory,Electronics,Wireless Earbuds,3,5000,15,62.0,3.3,Bank Transfer,Mobile App,Delivered,3,No,Hamza
+PKORD00447,2026-05-26,CUST2164,Islamabad,Islamabad Capital Territory,Home & Living,Storage Box,1,2700,15,28.0,4.5,Card,Mobile App,Delivered,1,No,Maham
+PKORD00189,2026-07-30,CUST4014,Peshawar,Khyber Pakhtunkhwa,Books,Python Basics,8,1700,10,20.0,4.5,Raast,Mobile App,In Transit,3,No,Sara
+PKORD00272,2026-07-24,CUST2041,,Khyber Pakhtunkhwa,Electronics,Smart Watch,2,12300,10,62.0,3.0,Card,Mobile App,In Transit,3,No,Sara
+PKORD00237,2026-06-25,CUST4101,Sialkot,Punjab,Beauty,Skin Care Kit,5,5400,10,33.0,3.8,Cash on Delivery,Mobile App,Delivered,3,No,Maham
+PKORD00488,2026-08-19,CUST4008,Quetta,Balochistan,Home & Living,Wall Clock,7,2400,20,60.0,4.2,Cash on Delivery,Mobile App,Delivered,4,No,Ayesha
+PKORD00118,2026-02-17,CUST3011,Karachi,Sindh,Home & Living,Table Lamp,2,2000,5,53.0,3.1,Bank Transfer,Mobile App,Delivered,5,No,Sara
+PKORD00944,2026-08-31,CUST4878,Rawalpindi,Punjab,Fashion,Sneakers,1,3900,20,34.0,4.8,Bank Transfer,Mobile App,Delivered,7,No,Usman
+PKORD00513,2026-05-03,CUST4757,Hyderabad,Sindh,Beauty,Hair Dryer,2,4100,25,61.0,4.8,Card,Mobile App,Delivered,1,No,Ali
+PKORD00826,2026-02-25,CUST2553,Peshawar,Khyber Pakhtunkhwa,Books,Python Basics,3,1500,10,64.0,4.9,Bank Transfer,Mobile App,Delivered,3,No,Usman
+PKORD00592,2026-01-05,CUST2466,Karachi,Sindh,Beauty,Perfume,3,3800,0,25.0,,Raast,Website,Delivered,5,No,Hamza
+PKORD00127,2026-03-05,CUST3953,Lahore,Punjab,Fashion,Handbag,1,3200,0,42.0,4.7,Raast,Website,Delivered,6,No,Hina
+PKORD00117,2026-05-26,CUST2630,Lahore,Punjab,Fashion,Sneakers,1,6500,0,46.0,4.9,Bank Transfer,Mobile App,Delivered,3,No,Hina
+PKORD00474,2026-06-09,CUST3008,Karachi,Sindh,Beauty,Skin Care Kit,3,4700,15,60.0,4.5,,Mobile App,Delivered,5,No,Usman
+PKORD00694,2026-06-04,CUST1874,Lahore,Punjab,Home & Living,Bedsheet Set,2,3100,15,48.0,3.1,Raast,Website,Delivered,8,No,Hina
+PKORD00058,2026-03-27,CUST1150,Lahore,Punjab,Beauty,Face Wash,2,1700,0,28.0,3.5,Raast,Website,In Transit,10,No,Maham
+PKORD00864,2026-07-26,CUST1607,Karachi,Sindh,Beauty,Hair Dryer,3,5900,0,36.0,4.7,Bank Transfer,Mobile App,Delivered,4,No,Ali
+PKORD00913,2026-04-23,CUST1884,,Punjab,Beauty,Face Wash,5,1400,10,51.0,2.9,Raast,Mobile App,In Transit,2,No,Hamza
+PKORD00370,2026-02-17,CUST1945,Karachi,Sindh,Home & Living,Table Lamp,1,2300,25,57.0,3.4,Digital Wallet,Mobile App,Cancelled,5,No,Ali
+PKORD00269,2026-03-13,CUST1360,Lahore,Punjab,Electronics,Bluetooth Speaker,1,6600,5,59.0,3.6,Card,Website,In Transit,9,No,Maham
+PKORD00047,2026-04-15,CUST2656,Lahore,Punjab,Books,Data Science 101,2,1700,15,62.0,3.8,Raast,Mobile App,Delivered,2,No,Sara
+PKORD00350,2026-05-17,CUST4056,Multan,Punjab,Books,Python Basics,2,1400,0,60.0,,Card,Mobile App,Cancelled,8,No,Ayesha
+PKORD00196,2026-04-20,CUST2025,Sialkot,Punjab,Beauty,Hair Dryer,1,3500,15,26.0,4.7,Bank Transfer,Website,Delivered,2,No,Ayesha
+PKORD00875,2026-03-25,CUST2933,Faisalabad,Punjab,Fashion,Women Kurti,7,4300,25,,4.1,Raast,Mobile App,Delivered,4,No,Usman
+PKORD00835,2026-02-09,CUST3813,Multan,Punjab,Fashion,Handbag,3,2900,20,41.0,2.8,Card,Website,In Transit,10,No,Bilal
+PKORD00737,2026-08-02,CUST1602,Multan,Punjab,Electronics,Keyboard,3,6800,10,,4.0,Bank Transfer,Website,Delivered,8,No,Maham
+PKORD00264,2026-08-17,CUST4941,Lahore,Punjab,Electronics,Power Bank,2,3900,10,64.0,3.0,Bank Transfer,Website,In Transit,8,No,Maham
+PKORD00444,2026-04-26,CUST1328,Hyderabad,Sindh,Beauty,Skin Care Kit,3,6400,15,62.0,4.6,Cash on Delivery,Website,In Transit,3,No,Bilal
+PKORD00676,2026-05-17,CUST3879,Islamabad,Islamabad Capital Territory,Beauty,Hair Dryer,2,8000,10,32.0,3.6,Digital Wallet,Mobile App,Cancelled,5,No,Ayesha
+PKORD00305,2026-02-06,CUST1281,Lahore,Punjab,Fashion,Women Kurti,4,5200,15,29.0,4.2,Digital Wallet,Website,Delivered,8,No,Sara
+PKORD00342,2026-01-03,CUST1374,Peshawar,Khyber Pakhtunkhwa,Books,Python Basics,7,2000,10,62.0,3.8,Digital Wallet,Website,Delivered,4,No,Hina
+PKORD00967,2026-02-20,CUST2316,Karachi,Sindh,Books,Python Basics,1,1400,20,54.0,4.9,Cash on Delivery,Mobile App,Delivered,4,No,Sara
+PKORD00150,2026-07-06,CUST3676,Faisalabad,Punjab,Fashion,Women Kurti,3,4900,10,42.0,,Raast,Mobile App,Cancelled,4,No,Hina
+PKORD00125,2026-05-04,CUST2902,Sialkot,Punjab,Books,AI for Everyone,1,2600,15,43.0,3.5,Cash on Delivery,Mobile App,Delivered,8,No,Sara
+PKORD00787,2026-06-16,CUST2397,Lahore,Punjab,Electronics,Keyboard,2,7400,5,29.0,3.9,Digital Wallet,Website,Delivered,4,No,Ali
+PKORD00051,2026-03-29,CUST4322,Islamabad,Islamabad Capital Territory,Books,AI for Everyone,1,2300,0,48.0,3.1,Cash on Delivery,Mobile App,Delivered,1,No,Usman
+PKORD00354,2026-05-27,CUST1954,Rawalpindi,Punjab,Books,Machine Learning Intro,1,2900,0,40.0,3.1,Bank Transfer,Mobile App,Cancelled,5,No,Usman
+PKORD00928,2026-07-01,CUST4079,Lahore,Punjab,Fashion,Men T-Shirt,2,2500,5,23.0,3.2,Raast,Website,Delivered,2,No,Ayesha
+PKORD00143,2026-04-14,CUST2016,Faisalabad,Punjab,Fashion,Hoodie,5,6000,10,23.0,3.7,Cash on Delivery,Website,Delivered,8,No,Ali
+PKORD00471,2026-06-01,CUST1502,Lahore,Punjab,Electronics,Power Bank,7,5700,15,28.0,2.9,Card,Website,Cancelled,8,No,Sara
+PKORD00400,2026-04-29,CUST3641,Rawalpindi,Punjab,Books,Business Analytics,2,1800,0,46.0,3.2,Raast,Website,Delivered,7,No,Ali
+PKORD00626,2026-03-14,CUST4480,Multan,Punjab,Beauty,Face Wash,3,1800,0,53.0,3.7,Card,Website,Cancelled,2,No,Usman
+PKORD00321,2026-08-06,CUST4130,Sialkot,Punjab,Books,Python Basics,2,2300,10,49.0,4.8,,Marketplace,In Transit,4,No,Usman
+PKORD00020,2026-03-03,CUST3306,Multan,Punjab,Home & Living,Table Lamp,1,4200,0,59.0,3.5,Bank Transfer,Marketplace,Delivered,1,No,Ayesha
+PKORD00810,2026-04-19,CUST2205,Karachi,Sindh,Fashion,Handbag,2,3100,10,51.0,3.9,Digital Wallet,Mobile App,Delivered,5,No,Usman
+PKORD00791,2026-03-17,CUST3996,Quetta,Balochistan,Beauty,Skin Care Kit,6,3000,15,25.0,3.8,Raast,Mobile App,Delivered,3,No,Ayesha
+PKORD00809,2026-08-08,CUST1497,Islamabad,Islamabad Capital Territory,Home & Living,Storage Box,4,2900,15,24.0,3.7,Cash on Delivery,Mobile App,Delivered,3,No,Hamza
+PKORD00408,2026-06-11,CUST3191,Lahore,Punjab,Books,Machine Learning Intro,4,2000,25,22.0,4.3,Digital Wallet,Mobile App,Delivered,1,No,Ali
+PKORD00538,2026-05-05,CUST4057,Islamabad,Islamabad Capital Territory,Beauty,Sunscreen,4,1800,0,63.0,3.9,Digital Wallet,Website,Delivered,8,No,Hamza
+PKORD00621,2026-03-08,CUST2283,Karachi,Sindh,Books,Business Analytics,1,3300,0,23.0,3.5,Digital Wallet,Marketplace,Delivered,6,No,Bilal
+PKORD00039,2026-06-09,CUST4550,Hyderabad,Sindh,Beauty,Sunscreen,3,3100,20,55.0,4.0,,Website,In Transit,4,No,Maham
+PKORD00176,2026-05-20,CUST4404,Karachi,Sindh,Home & Living,Bedsheet Set,1,4100,15,19.0,4.9,Raast,Marketplace,Delivered,8,No,Ayesha
+PKORD00246,2026-02-11,CUST4541,Lahore,Punjab,Electronics,Smart Watch,5,6900,15,31.0,4.7,Card,Mobile App,Delivered,7,No,Ali
+PKORD00829,2026-07-23,CUST2068,Peshawar,Khyber Pakhtunkhwa,Beauty,Perfume,2,7800,5,50.0,4.0,Bank Transfer,Website,Delivered,5,No,Ali
+PKORD00668,2026-04-20,CUST1084,Karachi,Sindh,Books,Data Science 101,1,1600,20,43.0,3.0,Digital Wallet,Website,Delivered,2,No,Ayesha
+PKORD00755,2026-04-07,CUST1663,Faisalabad,Punjab,Fashion,Sneakers,1,4400,10,53.0,3.2,Bank Transfer,Mobile App,Delivered,4,No,Bilal
+PKORD00859,2026-01-18,CUST4207,Multan,Punjab,Fashion,Women Kurti,1,3700,0,61.0,3.7,Digital Wallet,Marketplace,In Transit,3,No,Bilal
+PKORD00155,2026-07-21,CUST1987,Faisalabad,Punjab,Electronics,Smart Watch,3,17000,15,44.0,3.1,Raast,Website,Cancelled,9,No,Sara
+PKORD00288,2026-03-06,CUST2295,Karachi,Sindh,Electronics,Wireless Earbuds,3,3900,10,32.0,4.8,Raast,Mobile App,In Transit,8,No,Ali
+PKORD00603,2026-06-12,CUST3069,Islamabad,Islamabad Capital Territory,Home & Living,Electric Kettle,1,7700,20,48.0,3.0,Bank Transfer,Mobile App,Delivered,8,No,Bilal
+PKORD00570,2026-02-14,CUST2072,Karachi,Sindh,Electronics,Wireless Earbuds,1,5100,5,29.0,3.5,Digital Wallet,Website,Delivered,1,No,Ayesha
+PKORD00744,2026-01-02,CUST1398,Lahore,Punjab,Electronics,Bluetooth Speaker,2,5000,15,51.0,3.8,Cash on Delivery,Website,Delivered,2,No,Usman
+PKORD00018,2026-03-22,CUST4487,Karachi,Sindh,Fashion,Men T-Shirt,1,3400,10,50.0,4.8,Digital Wallet,Website,Cancelled,3,No,Hamza
+PKORD00128,2026-04-30,CUST1199,Sialkot,Punjab,Fashion,Women Kurti,2,3800,5,19.0,3.0,Raast,Mobile App,Delivered,4,No,Ali
+PKORD00323,2026-04-08,CUST3511,Faisalabad,Punjab,Home & Living,Bedsheet Set,3,1800,5,57.0,4.7,Card,Mobile App,Delivered,5,No,Hina
+PKORD00256,2026-02-21,CUST4592,Karachi,Sindh,Beauty,Hair Dryer,4,3500,25,38.0,4.5,Digital Wallet,Website,Delivered,4,No,Hina
+PKORD00658,2026-06-16,CUST1168,Lahore,Punjab,Books,Machine Learning Intro,1,3000,10,23.0,4.8,Card,Mobile App,Cancelled,3,No,Sara
+PKORD00965,2026-06-30,CUST1325,Karachi,Sindh,Home & Living,Bedsheet Set,1,4300,20,23.0,3.2,Cash on Delivery,Website,Delivered,4,Yes,Bilal
+PKORD00191,2026-07-28,CUST2095,Peshawar,Khyber Pakhtunkhwa,Fashion,Hoodie,1,3100,0,40.0,4.0,Digital Wallet,Mobile App,Delivered,5,No,Ayesha
+PKORD00116,2026-04-04,CUST1517,Faisalabad,Punjab,Electronics,Wireless Earbuds,2,9000,15,28.0,4.9,Card,Mobile App,In Transit,2,No,Ayesha
+PKORD00617,2026-08-27,CUST4562,Lahore,Punjab,Books,Python Basics,6,1900,10,60.0,4.7,Cash on Delivery,Mobile App,Delivered,4,No,Ali
+PKORD00607,2026-06-28,CUST3643,Faisalabad,Punjab,Books,Business Analytics,1 units,2900,5,45.0,4.4,Card,Mobile App,Delivered,1,No,Hamza
+PKORD00181,2026-02-22,CUST1471,Islamabad,Islamabad Capital Territory,Home & Living,Electric Kettle,3,5800,5,24.0,3.8,Raast,Website,Delivered,1,No,Ali
+PKORD00302,2026-02-10,CUST2962,Karachi,Sindh,Books,AI for Everyone,2,1700,15,25.0,4.3,Raast,Mobile App,Delivered,8,No,Sara
+PKORD00760,2026-08-23,CUST4345,Islamabad,Islamabad Capital Territory,Books,Python Basics,8,2400,10,20.0,3.5,Bank Transfer,Website,Delivered,3,No,Hina
+PKORD00713,2026-07-10,CUST4248,Lahore,Punjab,Home & Living,Wall Clock,4,3900,10,43.0,4.8,Bank Transfer,Website,Delivered,7,No,Usman
+PKORD00724,2026-07-16,CUST3025,Karachi,Sindh,Home & Living,Storage Box,2,1800,0,,4.6,Card,Mobile App,Delivered,2,Yes,Ali
+PKORD00686,2026-05-09,CUST3795,Hyderabad,Sindh,Electronics,Smart Watch,1,13200,15,27.0,2.9,Raast,Mobile App,Delivered,5,No,Maham
+PKORD00980,2026-03-25,CUST3477,Faisalabad,Punjab,Beauty,Sunscreen,2,2100,10,53.0,3.1,Bank Transfer,Marketplace,In Transit,7,No,Sara
+PKORD00518,2026-02-07,CUST2728,Islamabad,Islamabad Capital Territory,Fashion,Men T-Shirt,3,2100,10,58.0,4.7,Digital Wallet,Website,Delivered,8,No,Ali
+PKORD00067,2026-04-22,CUST4261,Multan,Punjab,Fashion,Sneakers,7,5400,15,,4.7,Raast,Website,Delivered,1,Yes,Ali
+PKORD00046,2026-01-08,CUST3276,Lahore,Punjab,Books,Machine Learning Intro,2,3200,5,49.0,3.3,Bank Transfer,Website,Cancelled,6,No,Ali
+PKORD00910,2026-04-18,CUST2718,Sialkot,Punjab,Fashion,Handbag,1,7900,0,35.0,4.7,Bank Transfer,Marketplace,Cancelled,7,No,Usman
+PKORD00158,2026-01-04,CUST2624,Sialkot,Punjab,Fashion,Sneakers,1,6000,0,65.0,3.1,Raast,Marketplace,Cancelled,5,No,Sara
+PKORD00852,2026-01-06,CUST2550,Sialkot,Punjab,Books,Business Analytics,4,2400,5,65.0,3.9,Card,Mobile App,Cancelled,4,No,Ayesha
+PKORD00172,2026-07-19,CUST2099,Lahore,Punjab,Beauty,Face Wash,1,1300,20,33.0,4.1,Card,Mobile App,Delivered,3,No,Maham
+PKORD00017,2026-07-20,CUST1777,Hyderabad,Sindh,Electronics,Bluetooth Speaker,2,6200,10,64.0,5.0,Digital Wallet,Mobile App,In Transit,4,No,Usman
+PKORD00512,2026-04-20,CUST1343,Islamabad,Islamabad Capital Territory,Home & Living,Wall Clock,1,2000,10,47.0,4.3,Card,Marketplace,Cancelled,10,No,Usman
+PKORD00049,2026-02-19,CUST2478,Faisalabad,Punjab,Electronics,Keyboard,1,8700,10,64.0,4.1,Digital Wallet,Mobile App,Delivered,4,No,Hamza
+PKORD00972,2026-04-09,CUST2779,Multan,Punjab,Beauty,Sunscreen,2,1800,0,26.0,4.5,Raast,Marketplace,Delivered,7,No,Hamza
+PKORD00941,2026-02-12,CUST2071,Rawalpindi,Punjab,Beauty,Face Wash,6,1100,5,61.0,4.4,Raast,Website,Delivered,5,No,Ayesha
+PKORD00516,2026-06-04,CUST2884,Multan,Punjab,Fashion,Women Kurti,1,2100,15,45.0,4.0,Cash on Delivery,Mobile App,Delivered,3,No,Bilal
+PKORD00953,2026-06-18,CUST2119,Hyderabad,Sindh,Fashion,Sneakers,2,8000,10,29.0,4.9,Cash on Delivery,Mobile App,In Transit,4,No,Hamza
+PKORD00481,2026-06-20,CUST1194,Peshawar,Khyber Pakhtunkhwa,Home & Living,Storage Box,2,3000,10,41.0,4.9,Card,Mobile App,Delivered,4,No,Usman
+PKORD00284,2026-03-26,CUST2825,Faisalabad,Punjab,Home & Living,Table Lamp,2,2400,0,57.0,4.0,Digital Wallet,Mobile App,Delivered,2,No,Sara
+PKORD00719,2026-03-14,CUST4399,Hyderabad,Sindh,Electronics,Keyboard,1,2500,25,20.0,4.8,Digital Wallet,Website,Delivered,2,No,Bilal
+PKORD00878,2026-03-12,CUST4722,Islamabad,Islamabad Capital Territory,Fashion,Hoodie,1,4600,5,38.0,4.4,Digital Wallet,Mobile App,Delivered,7,No,Maham
+PKORD00226,2026-02-07,CUST2378,Karachi,Sindh,Home & Living,Table Lamp,3,2800,20,25.0,4.7,Bank Transfer,Marketplace,Delivered,7,No,Usman
+PKORD00027,2026-03-31,CUST2143,Hyderabad,Sindh,Fashion,Women Kurti,2,5100,15,32.0,3.3,Card,Mobile App,Delivered,2,No,Hina
+PKORD00955,2026-08-24,CUST1270,Karachi,Sindh,Electronics,Wireless Earbuds,5,4200,0,23.0,,Bank Transfer,Website,Delivered,4,No,Hina
+PKORD00438,2026-04-17,CUST2963,Hyderabad,Sindh,Books,Data Science 101,8,2700,0,48.0,4.4,Digital Wallet,Website,Cancelled,8,No,Ayesha
+PKORD00952,2026-02-24,CUST1208,Faisalabad,Punjab,Books,Business Analytics,2,2400,10,52.0,4.2,Bank Transfer,Marketplace,Cancelled,8,No,Sara
+PKORD00365,2026-05-09,CUST4049,Karachi,Sindh,Home & Living,Storage Box,7,1300,10,63.0,2.8,Card,Marketplace,Delivered,6,No,Hamza
+PKORD00230,2026-01-28,CUST2438,Lahore,Punjab,Fashion,Men T-Shirt,4,2600,0,46.0,4.4,Card,Marketplace,In Transit,8,No,Bilal
+PKORD00038,2026-08-02,CUST2592,Quetta,Balochistan,Home & Living,Electric Kettle,2,6200,15,52.0,4.6,Card,Mobile App,Delivered,7,No,Hina
+PKORD00966,2026-02-20,CUST2812,Islamabad,Islamabad Capital Territory,Home & Living,Wall Clock,4,2000,10,63.0,3.2,,Mobile App,Cancelled,2,No,Hamza
+PKORD00375,2026-03-15,CUST1370,Peshawar,Khyber Pakhtunkhwa,Beauty,Hair Dryer,2,6000,10,57.0,4.8,Digital Wallet,Marketplace,In Transit,9,No,Ayesha
+PKORD00470,2026-07-25,CUST3140,Hyderabad,Sindh,Beauty,Sunscreen,2,1500,15,29.0,2.8,Raast,Mobile App,In Transit,9,No,Ayesha
+PKORD00968,2026-03-17,CUST4965,Quetta,Balochistan,Fashion,Handbag,3,7400,10,36.0,3.3,Bank Transfer,Mobile App,Delivered,1,No,Usman
+PKORD00851,2026-07-11,CUST1682,Karachi,Sindh,Beauty,Skin Care Kit,8,4800,5,36.0,4.5,Raast,Mobile App,Delivered,3,No,Hina
+PKORD00705,2026-02-13,CUST4282,Lahore,Punjab,Home & Living,Wall Clock,7,3700,25,33.0,4.0,Raast,Website,In Transit,2,No,Bilal
+PKORD00842,2026-07-01,CUST1163,Sialkot,Punjab,Fashion,Men T-Shirt,3,2600,0,57.0,4.4,Raast,Mobile App,In Transit,6,No,Ayesha
+PKORD00195,2026-08-07,CUST1508,Karachi,Sindh,Home & Living,Wall Clock,2,3600,5,61.0,4.5,Cash on Delivery,Website,In Transit,2,No,Hamza
+PKORD00855,2026-02-15,CUST2712,Hyderabad,Sindh,Home & Living,Storage Box,2,1500,0,39.0,,Card,Mobile App,Delivered,7,No,Bilal
+PKORD00865,2026-05-13,CUST3143,Multan,Punjab,Home & Living,Electric Kettle,2,7200,10,28.0,4.9,Card,Mobile App,Cancelled,7,No,Hina
+PKORD00504,2026-08-17,CUST1773,Lahore,Punjab,Books,AI for Everyone,1,2400,15,49.0,4.5,Card,Mobile App,In Transit,2,No,Hamza
+PKORD00970,2026-06-05,CUST3046,Faisalabad,Punjab,Home & Living,Wall Clock,3,2700,0,34.0,4.4,Bank Transfer,Mobile App,In Transit,7,No,Usman
+PKORD00831,2026-06-15,CUST2869,Lahore,Punjab,Fashion,Handbag,6,6100,0,40.0,3.5,Raast,Mobile App,Delivered,8,No,Bilal
+PKORD00580,2026-05-02,CUST2756,Multan,Punjab,Fashion,Women Kurti,1,4800,10,53.0,4.5,Raast,Website,Delivered,6,No,Bilal
+PKORD00969,2026-05-07,CUST4048,Karachi,Sindh,Home & Living,Table Lamp,2,1800,15,57.0,4.5,Raast,Website,In Transit,2,No,Ayesha
+PKORD00163,2026-05-10,CUST1027,Karachi,Sindh,Fashion,Men T-Shirt,2,1800,0,58.0,4.3,Digital Wallet,Marketplace,In Transit,2,No,Bilal
+PKORD00909,2026-08-17,CUST3997,Lahore,Punjab,Home & Living,Electric Kettle,1,3300,10,45.0,4.1,Raast,Mobile App,Delivered,2,No,Hina
+PKORD00153,2026-01-12,CUST3996,Lahore,Punjab,Beauty,Skin Care Kit,2,2400,5,31.0,4.5,Cash on Delivery,Website,Delivered,4,No,Hina
+PKORD00802,2026-05-15,CUST4071,Multan,Punjab,Electronics,Wireless Earbuds,1,3700,5,49.0,2.9,Bank Transfer,Website,Delivered,4,Yes,Ayesha
+PKORD00874,2026-05-09,CUST1786,Karachi,Sindh,Fashion,Men T-Shirt,2,2100,15,,3.0,Bank Transfer,Marketplace,Delivered,3,No,Bilal
+PKORD00756,2026-06-11,CUST4540,Rawalpindi,Punjab,Books,Data Science 101,7,1700,0,20.0,4.6,Cash on Delivery,Mobile App,In Transit,10,No,Ayesha
+PKORD00112,2026-02-16,CUST2270,Islamabad,Islamabad Capital Territory,Fashion,Handbag,4,7900,0,47.0,2.9,Card,Website,Delivered,1,No,Bilal
+PKORD00227,2026-04-22,CUST1914,Multan,Punjab,Home & Living,Table Lamp,4,2100,25,59.0,3.5,Digital Wallet,Mobile App,Cancelled,7,No,Hamza
+PKORD00689,2026-02-06,CUST3361,Peshawar,Khyber Pakhtunkhwa,Books,Business Analytics,4,1800,5,23.0,3.9,Raast,Website,Delivered,3,Yes,Hina
+PKORD00104,2026-07-27,CUST4187,Lahore,Punjab,Fashion,Hoodie,4,3500,20,30.0,3.6,Digital Wallet,Marketplace,In Transit,6,No,Bilal
+PKORD00422,2026-07-19,CUST4935,Faisalabad,Punjab,Electronics,Bluetooth Speaker,2,11800,10,40.0,3.5,Bank Transfer,Mobile App,Delivered,6,No,Hina
+PKORD00420,2026-01-27,CUST3674,Multan,Punjab,Books,Python Basics,1,2100,0,64.0,3.4,Raast,Website,In Transit,4,No,Ali
+PKORD00751,2026-08-08,CUST3306,Lahore,Punjab,Home & Living,Bedsheet Set,5,2400,0,63.0,4.0,Digital Wallet,Website,Delivered,6,No,Hina
+PKORD00587,2026-05-26,CUST3868,Lahore,Punjab,Books,Data Science 101,5,2600,10,54.0,2.9,Cash on Delivery,Website,In Transit,7,No,Usman
+PKORD00781,2026-03-17,CUST4922,Quetta,Balochistan,Home & Living,Electric Kettle,6,4600,5,41.0,3.3,Bank Transfer,Mobile App,Delivered,4,No,Bilal
+PKORD00673,2026-04-19,CUST3710,Karachi,Sindh,Books,AI for Everyone,1,2500,10,37.0,4.2,Bank Transfer,Website,Delivered,5,No,Hina
+PKORD00120,2026-02-21,CUST1531,Karachi,Sindh,Fashion,Sneakers,4,7700,5,49.0,2.9,Digital Wallet,Mobile App,In Transit,10,No,Ayesha
+PKORD00054,2026-03-15,CUST2741,Karachi,Sindh,Books,Business Analytics,4,2200,15,47.0,3.0,Card,Marketplace,Cancelled,5,No,Ayesha
+PKORD00152,2026-03-12,CUST1413,Lahore,Punjab,Fashion,Women Kurti,1,3700,20,25.0,2.9,Raast,Mobile App,Delivered,4,No,Ali
+PKORD00404,2026-05-20,CUST4574,Lahore,Punjab,Home & Living,Storage Box,1,2600,0,26.0,3.2,Raast,Mobile App,Delivered,7,No,Hamza
+PKORD00946,2026-01-29,CUST4692,Lahore,Punjab,Fashion,Hoodie,3,6400,5,52.0,2.8,Card,Mobile App,Delivered,6,Yes,Ayesha
+PKORD00208,2026-05-08,CUST1010,Lahore,Punjab,Beauty,Hair Dryer,5,7700,0,28.0,3.4,Cash on Delivery,Marketplace,Delivered,4,No,Ali
+PKORD00659,2026-05-20,CUST2712,Karachi,Sindh,Fashion,Handbag,3,3000,5,48.0,5.0,Card,Mobile App,Delivered,1,No,Usman
+PKORD00844,2026-04-02,CUST2765,Rawalpindi,Punjab,Home & Living,Electric Kettle,4,3300,10,43.0,3.3,Cash on Delivery,Mobile App,Delivered,3,No,Usman
+PKORD00763,2026-06-25,CUST3250,Lahore,Punjab,Books,Machine Learning Intro,4,3600,10,,3.7,Raast,Mobile App,In Transit,8,No,Hamza
+PKORD00009,2026-04-27,CUST4565,,Islamabad Capital Territory,Home & Living,Bedsheet Set,1,3000,15,64.0,3.4,Digital Wallet,Mobile App,Cancelled,3,No,Usman
+PKORD00808,2026-08-02,CUST2282,Multan,Punjab,Home & Living,Storage Box,1,2200,5,54.0,4.1,Cash on Delivery,Website,Delivered,8,No,Sara
+PKORD00037,2026-08-02,CUST2953,Karachi,Sindh,Books,Business Analytics,2,2500,20,55.0,4.9,Cash on Delivery,Marketplace,Cancelled,8,No,Ali
+PKORD00453,2026-05-11,CUST2439,Rawalpindi,Punjab,Fashion,Handbag,6,4800,20,41.0,,Raast,Mobile App,Delivered,1,No,Usman
+PKORD00652,2026-02-02,CUST2779,Peshawar,Khyber Pakhtunkhwa,Fashion,Men T-Shirt,1,1600,10,61.0,3.3,Bank Transfer,Mobile App,Cancelled,2,No,Maham
+PKORD00254,2026-03-29,CUST3584,Sialkot,Punjab,Electronics,Power Bank,2,3600,10,47.0,3.1,Card,Mobile App,In Transit,7,No,Hamza
+PKORD00304,2026-06-03,CUST2930,Sialkot,Punjab,Home & Living,Table Lamp,7,3600,10,64.0,4.4,Bank Transfer,Marketplace,Delivered,8,No,Maham
+PKORD00747,2026-03-05,CUST1753,Islamabad,Islamabad Capital Territory,Electronics,Power Bank,1,3500,10,50.0,3.8,Cash on Delivery,Marketplace,Delivered,7,No,Sara
+PKORD00572,2026-05-17,CUST4499,Karachi,Sindh,Fashion,Women Kurti,2,5100,5,56.0,3.7,Card,Marketplace,Cancelled,5,No,Usman
+PKORD00624,2026-04-07,CUST4178,Multan,Punjab,Fashion,Handbag,1,4600,15,27.0,4.6,Card,Mobile App,Delivered,1,No,Hamza
+PKORD00733,2026-05-26,CUST4015,Peshawar,Khyber Pakhtunkhwa,Beauty,Face Wash,3,800,5,32.0,4.0,Card,Mobile App,Delivered,2,No,Hina
+PKORD00892,2026-02-15,CUST3707,Quetta,Balochistan,Home & Living,Bedsheet Set,3,2400,0,27.0,3.1,Raast,Mobile App,Delivered,4,No,Usman
+PKORD00263,2026-03-17,CUST1389,Karachi,Sindh,Electronics,Smart Watch,1,17100,0,29.0,4.7,Bank Transfer,Mobile App,Delivered,7,No,Ali
+PKORD00611,2026-06-30,CUST4071,Lahore,Punjab,Beauty,Sunscreen,1,1900,10,50.0,4.9,Raast,Mobile App,Delivered,3,No,Hamza
+PKORD00298,2026-03-03,CUST3317,Karachi,Sindh,Beauty,Perfume,5,6600,15,57.0,4.3,Digital Wallet,Website,Delivered,3,No,Hamza
+PKORD00415,2026-03-10,CUST3129,Lahore,Punjab,Beauty,Skin Care Kit,4,4200,5,55.0,3.7,Card,Mobile App,Cancelled,5,No,Hina
+PKORD00151,2026-02-02,CUST3178,Lahore,Punjab,Electronics,Power Bank,4,6900,5,18.0,4.5,Bank Transfer,Mobile App,Cancelled,8,No,Bilal
+PKORD00789,2026-03-15,CUST1577,Karachi,Sindh,Electronics,Smart Watch,1,11200,10,,3.4,Bank Transfer,Marketplace,Delivered,4,No,Ayesha
+PKORD00641,2026-02-09,CUST2713,Islamabad,Islamabad Capital Territory,Home & Living,Bedsheet Set,3,4600,0,54.0,4.4,Cash on Delivery,Marketplace,Delivered,4,No,Maham
+PKORD00890,2026-01-24,CUST2639,Karachi,Sindh,Home & Living,Storage Box,4,1700,5,34.0,3.9,Raast,Website,In Transit,8,No,Ayesha
+PKORD00551,2026-07-09,CUST4597,Karachi,Sindh,Books,Machine Learning Intro,3,2400,0,23.0,3.7,Cash on Delivery,Mobile App,Cancelled,6,No,Bilal
+PKORD00887,2026-07-19,CUST2737,Quetta,Balochistan,Books,Machine Learning Intro,1,3700,5,22.0,3.5,Bank Transfer,Marketplace,Delivered,4,No,Usman
+PKORD00489,2026-05-15,CUST4300,Peshawar,Khyber Pakhtunkhwa,Books,Machine Learning Intro,1,3700,20,33.0,4.1,Bank Transfer,Website,Cancelled,8,No,Sara
+PKORD00148,2026-04-27,CUST4344,Peshawar,Khyber Pakhtunkhwa,Electronics,Keyboard,1,6100,5,54.0,2.9,Raast,Mobile App,Delivered,1,No,Ali
+PKORD00147,2026-01-29,CUST1841,Hyderabad,Sindh,Books,AI for Everyone,1,1500,10,50.0,3.2,Digital Wallet,Website,Delivered,8,No,Maham
+PKORD00721,2026-01-13,CUST4327,,Sindh,Home & Living,Wall Clock,5,1600,0,38.0,4.7,,Website,Delivered,4,No,Hina
+PKORD00932,2026-05-13,CUST4406,Karachi,Sindh,Electronics,Smart Watch,1,17700,0,30.0,4.1,Digital Wallet,Marketplace,In Transit,10,No,Bilal
+PKORD00740,2026-08-24,CUST2634,Islamabad,Islamabad Capital Territory,Home & Living,Table Lamp,1,2300,0,48.0,4.9,Card,Mobile App,In Transit,8,No,Ayesha
+PKORD00660,2026-07-03,CUST1528,Islamabad,Islamabad Capital Territory,Books,AI for Everyone,1,2000,10,48.0,3.7,Digital Wallet,Mobile App,Delivered,5,No,Usman
+PKORD00349,2026-08-29,CUST1319,Rawalpindi,Punjab,Beauty,Face Wash,5,1400,15,63.0,2.9,Digital Wallet,Website,Delivered,2,No,Sara
+PKORD00464,2026-02-02,CUST1174,Karachi,Sindh,Fashion,Women Kurti,1,4600,25,45.0,4.3,Cash on Delivery,Website,In Transit,8,No,Sara
+PKORD00326,2026-05-26,CUST2064,Rawalpindi,Punjab,Beauty,Perfume,1,4600,0,28.0,2.9,Bank Transfer,Mobile App,Delivered,8,No,Hina
+PKORD00187,2026-01-03,CUST2702,Quetta,Balochistan,Home & Living,Storage Box,2,1100,0,42.0,4.9,Digital Wallet,Mobile App,In Transit,9,No,Maham
+PKORD00124,2026-03-28,CUST1124,Hyderabad,Sindh,Fashion,Hoodie,5,5500,10,19.0,3.0,Digital Wallet,Website,Delivered,7,No,Maham
+PKORD00854,2026-06-25,CUST4099,Faisalabad,Punjab,Home & Living,Electric Kettle,7,3900,15,38.0,3.9,Digital Wallet,Mobile App,In Transit,9,No,Maham
+PKORD00609,2026-04-20,CUST1447,Karachi,Sindh,Books,Data Science 101,1,2400,5,52.0,4.2,Raast,Mobile App,In Transit,3,No,Hina
+PKORD00144,2026-03-10,CUST2906,Islamabad,Islamabad Capital Territory,Home & Living,Storage Box,7,1900,5,64.0,4.1,Bank Transfer,Mobile App,Delivered,1,No,Usman
+PKORD00959,2026-02-04,CUST4886,Karachi,Sindh,Home & Living,Bedsheet Set,3,3300,15,27.0,3.0,Card,Marketplace,Delivered,5,No,Ayesha
+PKORD00198,2026-03-29,CUST3993,Karachi,Sindh,Books,Business Analytics,4,1600,25,45.0,4.3,Raast,Website,In Transit,3,No,Ayesha
+PKORD00610,2026-07-11,CUST2707,Karachi,Sindh,Fashion,Sneakers,2,9600,5,28.0,4.6,Cash on Delivery,Website,In Transit,10,No,Usman
+PKORD00280,2026-07-21,CUST4733,Lahore,Punjab,Electronics,Bluetooth Speaker,7,7200,5,53.0,2.9,Bank Transfer,Website,In Transit,5,No,Hina
+PKORD00294,2026-06-18,CUST4218,Lahore,Punjab,Home & Living,Storage Box,2,2700,10,54.0,4.0,Bank Transfer,Marketplace,Delivered,1,No,Sara
+PKORD00401,2026-08-20,CUST1801,Hyderabad,Sindh,Electronics,Power Bank,4,3600,15,27.0,4.3,Raast,Mobile App,In Transit,9,No,Sara
+PKORD00123,2026-03-06,CUST3378,,Balochistan,Home & Living,Wall Clock,1,2400,25,35.0,3.1,Bank Transfer,Mobile App,Delivered,3,No,Hamza
+PKORD00184,2026-03-25,CUST3404,Karachi,Sindh,Books,Python Basics,1,2300,0,60.0,4.7,Digital Wallet,Marketplace,Delivered,7,No,Ayesha
+PKORD00203,2026-05-20,CUST4885,Lahore,Punjab,Fashion,Handbag,3,6900,15,22.0,2.8,Cash on Delivery,Website,Delivered,1,No,Bilal
+PKORD00439,2026-07-12,CUST2248,Karachi,Sindh,Beauty,Hair Dryer,1,5500,15,31.0,3.1,Bank Transfer,Website,Delivered,1,No,Hamza
+PKORD00247,2026-01-03,CUST2880,Rawalpindi,Punjab,Beauty,Sunscreen,1,1900,10,37.0,4.4,Bank Transfer,Mobile App,In Transit,7,No,Usman
+PKORD00416,2026-01-03,CUST1097,Karachi,Sindh,Fashion,Sneakers,5,8000,0,24.0,4.0,Raast,Mobile App,Delivered,5,No,Ayesha
+PKORD00933,2026-03-28,CUST4726,Rawalpindi,Punjab,Beauty,Face Wash,1,2100,0,49.0,3.2,Raast,Website,Delivered,8,No,Ayesha
+PKORD00766,2026-06-18,CUST2239,Lahore,Punjab,Home & Living,Table Lamp,1,4000,0,34.0,4.9,Card,Mobile App,Delivered,4,No,Hina
+PKORD00907,2026-03-12,CUST1044,Sialkot,Punjab,Home & Living,Bedsheet Set,1,2700,5,64.0,4.4,Card,Website,Delivered,5,No,Ayesha
+PKORD00836,2026-04-29,CUST4678,Lahore,Punjab,Fashion,Handbag,4,7700,15,24.0,3.7,Bank Transfer,Mobile App,Delivered,7,No,Usman
+PKORD00888,2026-02-05,CUST2796,,Punjab,Fashion,Women Kurti,5,5000,20,25.0,4.6,Raast,Website,Delivered,7,Yes,Bilal
+PKORD00130,2026-05-10,CUST2388,Karachi,Sindh,Home & Living,Wall Clock,2,2400,10,57.0,4.3,Cash on Delivery,Website,Delivered,7,No,Hina
+PKORD00638,2026-02-01,CUST4269,Karachi,Sindh,Electronics,Keyboard,3,4500,15,44.0,2.9,Cash on Delivery,Mobile App,Delivered,5,No,Sara
+PKORD00403,2026-05-21,CUST3876,Lahore,Punjab,Fashion,Sneakers,7,4000,0,53.0,,Bank Transfer,Website,Delivered,1,No,Bilal
+PKORD00785,2026-05-23,CUST3958,Lahore,Punjab,Beauty,Perfume,1,3500,5,39.0,4.8,Bank Transfer,Mobile App,Cancelled,3,No,Ali
+PKORD00771,2026-04-20,CUST3945,Islamabad,Islamabad Capital Territory,Electronics,Smart Watch,4,16700,20,21.0,4.6,Digital Wallet,Mobile App,Delivered,8,No,Usman
+PKORD00736,2026-08-13,CUST2266,Sialkot,Punjab,Home & Living,Wall Clock,3,3000,5,61.0,3.6,Bank Transfer,Mobile App,In Transit,6,No,Sara
+PKORD00914,2026-04-16,CUST1195,Lahore,Punjab,Electronics,Smart Watch,4,8100,15,34.0,3.6,Bank Transfer,Mobile App,Delivered,5,No,Hina
+PKORD00220,2026-02-14,CUST3651,Faisalabad,Punjab,Beauty,Face Wash,2,1500,20,35.0,3.4,Card,Website,Cancelled,5,No,Usman
+PKORD00642,2026-05-09,CUST2280,Peshawar,Khyber Pakhtunkhwa,Fashion,Handbag,2,5100,25,51.0,4.9,Card,Website,Delivered,5,No,Ayesha
+PKORD00916,2026-02-28,CUST4098,Peshawar,Khyber Pakhtunkhwa,Books,Machine Learning Intro,2,3300,5,64.0,3.0,Raast,Website,In Transit,4,No,Bilal
+PKORD00753,2026-01-12,CUST4112,Lahore,Punjab,Books,Machine Learning Intro,1,3500,15,32.0,3.0,Cash on Delivery,Mobile App,In Transit,7,No,Sara
+PKORD00807,2026-08-30,CUST1241,Karachi,Sindh,Electronics,Keyboard,2,3900,5,27.0,3.7,Raast,Mobile App,Cancelled,5,No,Maham
+PKORD00920,2026-02-25,CUST3257,Faisalabad,Punjab,Fashion,Women Kurti,1,3600,5,19.0,4.7,Raast,Mobile App,In Transit,10,No,Sara
+PKORD00625,2026-06-18,CUST4103,Sialkot,Punjab,Beauty,Hair Dryer,6,6000,0,19.0,4.0,Bank Transfer,Mobile App,In Transit,7,No,Bilal
+PKORD00875,2026-03-25,CUST2933,Faisalabad,Punjab,Fashion,Women Kurti,7,4300,25,,4.1,Raast,Mobile App,Delivered,4,No,Usman
+PKORD00761,2026-08-31,CUST4635,Karachi,Sindh,Electronics,Power Bank,3,6500,10,20.0,3.6,Cash on Delivery,Marketplace,Cancelled,3,No,Maham
+PKORD00387,2026-05-03,CUST2894,Hyderabad,Sindh,Fashion,Sneakers,6,6300,15,59.0,3.1,Card,Mobile App,Cancelled,7,No,Bilal
+PKORD00973,2026-01-25,CUST4497,Karachi,Sindh,Fashion,Hoodie,1,6400,10,35.0,3.5,Cash on Delivery,Mobile App,Delivered,5,No,Usman
+PKORD00510,2026-01-23,CUST4281,Quetta,Balochistan,Fashion,Women Kurti,1,5000,0,42.0,,Bank Transfer,Mobile App,Delivered,2,No,Bilal
+PKORD00268,2026-06-23,CUST4561,Lahore,Punjab,Beauty,Sunscreen,3,3200,0,53.0,4.8,Digital Wallet,Website,Delivered,8,No,Hamza
+PKORD00820,2026-08-22,CUST1179,Lahore,Punjab,Electronics,Keyboard,2,5000,5,18.0,4.1,Cash on Delivery,Mobile App,In Transit,8,No,Usman
+PKORD00442,2026-06-08,CUST1977,Lahore,Punjab,Electronics,Wireless Earbuds,1,6600,5,59.0,4.0,Cash on Delivery,Mobile App,Delivered,3,No,Ayesha
+PKORD00497,2026-01-23,CUST1611,Karachi,Sindh,Books,Machine Learning Intro,7,3100,0,62.0,4.7,Cash on Delivery,Mobile App,In Transit,6,No,Ayesha
+PKORD00113,2026-06-15,CUST4044,Karachi,Sindh,Books,Business Analytics,1,2100,5,21.0,4.7,Bank Transfer,Website,Delivered,7,No,Maham
+PKORD00692,2026-01-15,CUST1913,Sialkot,Punjab,Home & Living,Bedsheet Set,4,4300,5,53.0,2.8,Cash on Delivery,Website,Delivered,7,No,Bilal
+PKORD00233,2026-02-18,CUST3251,Lahore,Punjab,Fashion,Men T-Shirt,2,1600,10,64.0,4.0,Bank Transfer,Website,Delivered,1,No,Maham
+PKORD00870,2026-05-03,CUST1808,Multan,Punjab,Fashion,Women Kurti,2,4200,10,21.0,3.5,Cash on Delivery,Website,Delivered,8,No,Ayesha
+PKORD00608,2026-02-07,CUST3400,Sialkot,Punjab,Home & Living,Wall Clock,1,3100,10,60.0,4.7,Cash on Delivery,Website,Delivered,7,No,Ayesha
+PKORD00672,2026-02-27,CUST1729,Sialkot,Punjab,Electronics,Bluetooth Speaker,1,5400,25,40.0,3.0,Bank Transfer,Website,Delivered,1,No,Bilal
+PKORD00374,2026-08-13,CUST1777,Islamabad,Islamabad Capital Territory,Books,Python Basics,1,2100,25,51.0,4.0,Cash on Delivery,Mobile App,Cancelled,2,No,Usman
+PKORD00441,2026-03-11,CUST4727,Lahore,Punjab,Books,Python Basics,3,1800,10,,4.5,Cash on Delivery,Mobile App,Delivered,1,No,Hina
+PKORD00843,2026-06-03,CUST1071,Karachi,Sindh,Beauty,Hair Dryer,3,6500,5,39.0,,Cash on Delivery,Mobile App,Delivered,5,No,Maham
+PKORD00234,2026-01-23,CUST2939,Karachi,Sindh,Fashion,Men T-Shirt,2,2700,10,56.0,3.9,Cash on Delivery,Website,Delivered,5,No,Ayesha
+PKORD00786,2026-06-11,CUST1343,Hyderabad,Sindh,Electronics,Smart Watch,2,13900,15,36.0,4.5,Card,Mobile App,Cancelled,10,No,Hamza
+PKORD00677,2026-08-06,CUST1590,Karachi,Sindh,Fashion,Sneakers,1,3500,10,26.0,4.8,Cash on Delivery,Marketplace,Delivered,3,No,Bilal
+PKORD00318,2026-01-18,CUST3115,Karachi,Sindh,Books,Python Basics,2,2200,15,32.0,4.3,Card,Mobile App,In Transit,7,No,Ali
+PKORD00649,2026-02-01,CUST1746,,Sindh,Books,Machine Learning Intro,6,3600,0,60.0,3.4,Raast,Mobile App,Delivered,6,No,Usman
+PKORD00411,2026-03-07,CUST3870,Lahore,Punjab,Fashion,Hoodie,1,3600,0,29.0,4.8,Card,Mobile App,Delivered,3,No,Sara
+PKORD00899,2026-08-02,CUST4346,Faisalabad,Punjab,Fashion,Men T-Shirt,4 units,1800,0,38.0,2.8,Raast,Mobile App,Delivered,4,No,Bilal
+PKORD00710,2026-01-20,CUST1731,Sialkot,Punjab,Beauty,Face Wash,1,1700,5,38.0,4.2,Raast,Mobile App,Delivered,5,Yes,Ali
+PKORD00359,2026-04-12,CUST2324,Karachi,Sindh,Fashion,Handbag,3,6800,0,57.0,5.0,Digital Wallet,Website,Delivered,5,No,Ayesha
+PKORD00259,2026-04-07,CUST1474,Peshawar,Khyber Pakhtunkhwa,Electronics,Smart Watch,5,17200,5,52.0,4.2,Digital Wallet,Marketplace,Delivered,1,Yes,Bilal
+PKORD00745,2026-01-16,CUST3302,Lahore,Punjab,Books,Business Analytics,1,3000,10,50.0,4.4,Cash on Delivery,Mobile App,Cancelled,4,No,Maham
+PKORD00628,2026-02-13,CUST3430,Faisalabad,Punjab,Fashion,Handbag,6,5700,0,48.0,3.2,Cash on Delivery,Website,Cancelled,7,No,Bilal
+PKORD00633,2026-02-01,CUST3073,Peshawar,Khyber Pakhtunkhwa,Electronics,Keyboard,1,6200,10,59.0,3.2,Digital Wallet,Website,Delivered,2,No,Usman
+PKORD00283,2026-07-01,CUST2652,Karachi,Sindh,Beauty,Skin Care Kit,2,4900,0,29.0,3.9,Digital Wallet,Website,Cancelled,10,No,Ayesha
+PKORD00377,2026-06-12,CUST1179,Multan,Punjab,Electronics,Wireless Earbuds,2,4400,10,42.0,4.4,Digital Wallet,Mobile App,Delivered,7,No,Hamza
+PKORD00385,2026-01-31,CUST1824,Faisalabad,Punjab,Electronics,Wireless Earbuds,4,7300,0,57.0,5.0,Raast,Website,Delivered,4,Yes,Usman
+PKORD00225,2026-01-10,CUST4303,Karachi,Sindh,Beauty,Skin Care Kit,1,4500,5,32.0,2.8,Raast,Website,Cancelled,5,No,Hamza
+PKORD00954,2026-03-23,CUST4011,Karachi,Sindh,Beauty,Skin Care Kit,2,3600,20,26.0,4.5,Raast,Website,Cancelled,10,No,Ali
+PKORD00815,2026-04-09,CUST1688,Faisalabad,Punjab,Fashion,Hoodie,2,4900,15,55.0,4.1,Digital Wallet,Mobile App,In Transit,5,No,Ali
+PKORD00473,2026-05-06,CUST4981,Karachi,Sindh,Fashion,Handbag,2,3100,10,26.0,2.9,Cash on Delivery,Mobile App,In Transit,2,No,Hamza
+PKORD00348,2026-06-09,CUST4408,Islamabad,Islamabad Capital Territory,Books,Business Analytics,4,2900,5,41.0,3.3,Cash on Delivery,Website,Delivered,8,No,Ayesha
+PKORD00506,2026-03-14,CUST3390,Karachi,Sindh,Electronics,Smart Watch,1,8000,0,50.0,4.6,Digital Wallet,Marketplace,Cancelled,5,No,Ali
+PKORD00640,2026-01-26,CUST3426,Lahore,Punjab,Books,AI for Everyone,5,2400,0,42.0,3.2,Digital Wallet,Mobile App,In Transit,9,No,Hamza
+PKORD00737,2026-08-02,CUST1602,Multan,Punjab,Electronics,Keyboard,3,6800,10,,4.0,Bank Transfer,Website,Delivered,8,No,Maham
+PKORD00929,2026-01-16,CUST1019,Hyderabad,Sindh,Books,AI for Everyone,8,1300,0,41.0,,Cash on Delivery,Marketplace,Cancelled,2,No,Hina
+PKORD00906,2026-01-16,CUST1792,Sialkot,Punjab,Fashion,Hoodie,4,4900,0,48.0,4.6,Card,Mobile App,Delivered,7,No,Sara
+PKORD00620,2026-05-06,CUST4043,Faisalabad,Punjab,Electronics,Power Bank,1,6900,15,32.0,4.8,Digital Wallet,Website,Delivered,7,No,Bilal
+PKORD00856,2026-02-05,CUST3562,Rawalpindi,Punjab,Beauty,Sunscreen,3,1300,10,23.0,4.1,Raast,Marketplace,Delivered,4,No,Maham
+PKORD00804,2026-03-24,CUST2542,Lahore,Punjab,Fashion,Hoodie,2,6000,15,37.0,3.4,Card,Website,Cancelled,9,No,Usman
+PKORD00646,2026-03-28,CUST2084,Sialkot,Punjab,Beauty,Sunscreen,6,2700,5,52.0,4.7,Cash on Delivery,Website,In Transit,6,No,Sara
+PKORD00847,2026-05-19,CUST4059,Rawalpindi,Punjab,Books,AI for Everyone,5,1900,5,21.0,3.6,Raast,Website,In Transit,6,No,Hamza
+PKORD00557,2026-05-31,CUST1094,Karachi,Sindh,Books,Machine Learning Intro,1,3000,0,34.0,4.9,Card,Marketplace,Delivered,4,No,Usman
+PKORD00958,2026-05-31,CUST3321,Multan,Punjab,Beauty,Hair Dryer,3,4900,15,46.0,4.1,Card,Mobile App,Delivered,8,No,Hina
+PKORD00578,2026-04-03,CUST1564,Karachi,Sindh,Home & Living,Table Lamp,1,1900,0,30.0,4.3,Bank Transfer,Website,Delivered,4,No,Usman
+PKORD00796,2026-05-20,CUST2013,Rawalpindi,Punjab,Beauty,Hair Dryer,2,6700,0,25.0,4.9,Bank Transfer,Mobile App,In Transit,7,No,Bilal
+PKORD00086,2026-01-27,CUST1470,Lahore,Punjab,Electronics,Smart Watch,3,16300,0,60.0,3.9,Cash on Delivery,Mobile App,Cancelled,7,No,Usman
+PKORD00243,2026-08-22,CUST3075,Islamabad,Islamabad Capital Territory,Books,Python Basics,5,1600,15,51.0,4.7,Cash on Delivery,Mobile App,Delivered,2,No,Bilal
+PKORD00699,2026-01-01,CUST3236,Islamabad,Islamabad Capital Territory,Electronics,Bluetooth Speaker,8,6200,20,26.0,4.2,Digital Wallet,Website,Delivered,4,No,Hamza
+PKORD00160,2026-08-10,CUST1624,Karachi,Sindh,Home & Living,Electric Kettle,1,6400,0,34.0,4.0,Digital Wallet,Mobile App,In Transit,6,No,Sara
+PKORD00525,2026-02-28,CUST4671,Karachi,Sindh,Electronics,Smart Watch,1,13600,5,34.0,5.0,Bank Transfer,Mobile App,Cancelled,6,No,Hamza
+PKORD00036,2026-03-15,CUST2669,Karachi,Sindh,Fashion,Sneakers,1,7100,5,52.0,3.0,Card,Website,Delivered,4,Yes,Hina
+PKORD00541,2026-04-26,CUST3732,Lahore,Punjab,Beauty,Hair Dryer,6 units,8200,15,48.0,4.6,Digital Wallet,Website,Delivered,8,No,Maham
+PKORD00171,2026-02-03,CUST3445,Lahore,Punjab,Beauty,Perfume,1,8700,10,53.0,4.0,Raast,Website,Delivered,6,No,Hina
+PKORD00655,2026-08-10,CUST1251,Karachi,Sindh,Beauty,Face Wash,1,2000,5,37.0,4.3,Card,Website,In Transit,9,No,Bilal
+PKORD00891,2026-04-22,CUST1064,Quetta,Balochistan,Home & Living,Electric Kettle,6,5500,10,32.0,5.0,Cash on Delivery,Mobile App,In Transit,9,No,Usman
+PKORD00858,2026-01-08,CUST1455,Karachi,Sindh,Home & Living,Table Lamp,1,2700,10,33.0,4.3,Raast,Marketplace,Delivered,8,No,Hina
+PKORD00848,2026-04-13,CUST2125,Karachi,Sindh,Home & Living,Wall Clock,6,4000,15,35.0,2.8,Card,Website,In Transit,4,No,Usman
+PKORD00945,2026-02-19,CUST2178,Karachi,Sindh,Books,Python Basics,2,1700,15,19.0,4.7,Cash on Delivery,Mobile App,Cancelled,10,No,Hamza
+PKORD00734,2026-03-07,CUST3808,,Punjab,Beauty,Hair Dryer,3,6400,5,47.0,2.8,Bank Transfer,Website,Delivered,8,No,Ali
+PKORD00096,2026-06-10,CUST2441,Quetta,Balochistan,Books,Machine Learning Intro,2,2500,10,48.0,3.8,Bank Transfer,Mobile App,Cancelled,2,No,Ayesha
+PKORD00564,2026-08-29,CUST4443,Lahore,Punjab,Beauty,Hair Dryer,3,4300,0,51.0,3.5,Card,Website,Delivered,2,No,Sara
+PKORD00241,2026-03-12,CUST2946,Karachi,Sindh,Books,Machine Learning Intro,2 units,2800,10,61.0,4.3,Cash on Delivery,Mobile App,Delivered,4,Yes,Usman
+PKORD00743,2026-05-24,CUST3225,Karachi,Sindh,Beauty,Hair Dryer,1,7300,15,23.0,4.5,Digital Wallet,Marketplace,Delivered,6,No,Usman
+PKORD00575,2026-08-24,CUST2740,Lahore,Punjab,Beauty,Perfume,4,7300,10,31.0,3.3,Card,Mobile App,Delivered,7,No,Bilal
+PKORD00691,2026-06-08,CUST3072,Lahore,Punjab,Home & Living,Electric Kettle,6,6300,0,41.0,3.9,Digital Wallet,Marketplace,Delivered,2,No,Maham
+PKORD00461,2026-02-06,CUST3061,Lahore,Punjab,Electronics,Keyboard,1,7300,10,41.0,4.5,Raast,Website,Delivered,2,No,Sara
+PKORD00554,2026-04-01,CUST4834,Faisalabad,Punjab,Books,Python Basics,7,2100,5,56.0,3.6,Card,Mobile App,Delivered,2,No,Sara
+PKORD00889,2026-07-28,CUST4033,Lahore,Punjab,Fashion,Women Kurti,1,5000,25,50.0,4.8,Digital Wallet,Website,Delivered,2,No,Hina
+PKORD00207,2026-08-12,CUST3361,Multan,Punjab,Fashion,Sneakers,1,4500,20,19.0,3.5,Raast,Website,Delivered,5,No,Ayesha
+PKORD00393,2026-06-21,CUST3250,Peshawar,Khyber Pakhtunkhwa,Home & Living,Wall Clock,1 units,2500,0,35.0,3.1,Digital Wallet,Mobile App,Delivered,4,No,Hina
+PKORD00795,2026-06-07,CUST4584,Faisalabad,Punjab,Fashion,Men T-Shirt,2,2900,10,58.0,3.6,Digital Wallet,Mobile App,Delivered,5,No,Usman
+PKORD00398,2026-05-11,CUST2641,Rawalpindi,Punjab,Home & Living,Electric Kettle,1,8000,15,24.0,3.5,Cash on Delivery,Mobile App,Cancelled,9,No,Bilal
+PKORD00767,2026-08-17,CUST2145,Lahore,Punjab,Books,AI for Everyone,1,2600,15,50.0,3.0,Bank Transfer,Marketplace,Cancelled,9,No,Ayesha
+PKORD00849,2026-02-27,CUST3600,Karachi,Sindh,Beauty,Skin Care Kit,1,4600,5,22.0,4.1,Digital Wallet,Mobile App,Cancelled,8,No,Hina
+PKORD00218,2026-02-05,CUST1307,Peshawar,Khyber Pakhtunkhwa,Electronics,Bluetooth Speaker,1,4800,0,32.0,3.1,Raast,Mobile App,Delivered,5,No,Ali
+PKORD00005,2026-03-10,CUST2105,Karachi,Sindh,Fashion,Sneakers,4,6400,15,22.0,4.1,Card,Mobile App,Delivered,3,No,Sara
+PKORD00769,2026-03-13,CUST1181,Karachi,Sindh,Electronics,Bluetooth Speaker,3,10900,5,23.0,2.9,Digital Wallet,Mobile App,Delivered,7,No,Sara
+PKORD00643,2026-01-24,CUST4819,Lahore,Punjab,Electronics,Wireless Earbuds,1,9500,0,65.0,3.4,Raast,Mobile App,Delivered,7,No,Hamza
+PKORD00930,2026-05-26,CUST4996,Peshawar,Khyber Pakhtunkhwa,Beauty,Perfume,3,2700,20,29.0,3.2,Digital Wallet,Mobile App,Cancelled,5,No,Hina
+PKORD00613,2026-03-10,CUST2538,Karachi,Sindh,Beauty,Hair Dryer,4,4300,0,55.0,4.5,Cash on Delivery,Website,Cancelled,2,No,Usman
+PKORD00739,2026-04-01,CUST1635,Karachi,Sindh,Electronics,Bluetooth Speaker,3,6500,0,34.0,3.1,Bank Transfer,Mobile App,Cancelled,10,No,Ayesha
+PKORD00547,2026-07-31,CUST2577,Lahore,Punjab,Beauty,Perfume,5,4600,0,33.0,4.5,Digital Wallet,Website,Cancelled,10,No,Ayesha
+PKORD00726,2026-04-04,CUST2258,Karachi,Sindh,Books,Python Basics,2,1500,10,57.0,3.9,Raast,Website,Delivered,7,No,Ayesha
+PKORD00684,2026-01-28,CUST3335,Karachi,Sindh,Electronics,Power Bank,1,4800,10,37.0,3.2,Card,Mobile App,Delivered,4,No,Ali
+PKORD00099,2026-04-04,CUST3285,Rawalpindi,Punjab,Beauty,Skin Care Kit,2,6300,5,44.0,4.5,Digital Wallet,Website,Delivered,2,No,Bilal
+PKORD00805,2026-05-24,CUST4897,Sialkot,Punjab,Beauty,Face Wash,1,1200,5,62.0,4.0,Card,Mobile App,In Transit,8,No,Hina
+PKORD00728,2026-04-21,CUST2204,Lahore,Punjab,Beauty,Sunscreen,2,1800,0,35.0,3.6,Cash on Delivery,Mobile App,In Transit,5,No,Sara
+PKORD00574,2026-06-15,CUST3931,Multan,Punjab,Fashion,Hoodie,4,4100,5,51.0,3.8,Bank Transfer,Mobile App,Cancelled,9,No,Maham
+PKORD00407,2026-01-10,CUST2904,Karachi,Sindh,Beauty,Skin Care Kit,3,5000,15,25.0,4.1,Cash on Delivery,Website,Cancelled,6,No,Ayesha
+PKORD00503,2026-05-16,CUST2158,Lahore,Punjab,Beauty,Sunscreen,2,1600,5,38.0,2.9,Card,Mobile App,Delivered,6,No,Usman
+PKORD00048,2026-05-16,CUST1788,Islamabad,Islamabad Capital Territory,Home & Living,Wall Clock,2,2700,25,53.0,,Raast,Website,Delivered,4,No,Hina
+PKORD00033,2026-06-06,CUST2636,Sialkot,Punjab,Electronics,Wireless Earbuds,5,5500,0,44.0,4.7,Digital Wallet,Website,In Transit,9,No,Sara
+PKORD00780,2026-02-27,CUST3700,Sialkot,Punjab,Beauty,Face Wash,3,900,25,58.0,4.0,Raast,Mobile App,Delivered,1,No,Maham
+PKORD00840,2026-05-28,CUST4039,Lahore,Punjab,Beauty,Face Wash,2,1000,15,18.0,3.9,Raast,Mobile App,Delivered,5,No,Ayesha
+PKORD00201,2026-03-05,CUST3485,,Khyber Pakhtunkhwa,Home & Living,Storage Box,1,2200,0,53.0,4.1,Digital Wallet,Website,Delivered,5,No,Sara
+PKORD00135,2026-03-25,CUST3237,Karachi,Sindh,Electronics,Power Bank,8,6700,10,42.0,3.5,Card,Mobile App,Cancelled,7,No,Hina
+PKORD00028,2026-05-18,CUST2415,Sialkot,Punjab,Books,Business Analytics,2,3000,0,34.0,3.2,Bank Transfer,Website,Cancelled,8,No,Hina
+PKORD00881,2026-02-24,CUST4820,Multan,Punjab,Home & Living,Electric Kettle,1,6700,10,47.0,3.6,Card,Mobile App,Delivered,5,No,Ali
+PKORD00231,2026-06-16,CUST1303,Quetta,Balochistan,Electronics,Bluetooth Speaker,4,10500,5,46.0,3.0,Cash on Delivery,Website,Delivered,5,No,Hina
+PKORD00490,2026-02-24,CUST2735,Karachi,Sindh,Beauty,Sunscreen,7,1800,10,34.0,4.7,Cash on Delivery,Mobile App,Delivered,2,No,Maham
+PKORD00773,2026-03-06,CUST2817,Lahore,Punjab,Books,AI for Everyone,4,2000,15,56.0,2.8,Bank Transfer,Mobile App,Delivered,5,No,Maham
+PKORD00379,2026-07-15,CUST1888,Karachi,Sindh,Electronics,Power Bank,1,4200,10,49.0,4.0,Cash on Delivery,Mobile App,In Transit,5,No,Maham
+PKORD00289,2026-07-04,CUST2187,Karachi,Sindh,Beauty,Face Wash,3,1800,15,55.0,2.9,Cash on Delivery,Mobile App,Cancelled,3,No,Usman
+PKORD00419,2026-03-09,CUST2766,Sialkot,Punjab,Home & Living,Bedsheet Set,1,2900,0,30.0,4.1,Card,Mobile App,Delivered,3,No,Sara
+PKORD00675,2026-04-09,CUST3678,Karachi,Sindh,Electronics,Smart Watch,2,8600,10,48.0,4.3,Raast,Mobile App,Delivered,3,No,Sara
+PKORD00392,2026-06-02,CUST1788,Faisalabad,Punjab,Electronics,Smart Watch,5,7200,5,20.0,3.0,Bank Transfer,Website,Delivered,4,No,Usman
+PKORD00593,2026-06-28,CUST1019,Karachi,Sindh,Fashion,Men T-Shirt,1,3400,10,51.0,4.2,Cash on Delivery,Mobile App,Delivered,8,Yes,Ali
+PKORD00499,2026-08-08,CUST1117,Karachi,Sindh,Home & Living,Storage Box,1,2500,0,36.0,4.4,Card,Mobile App,In Transit,4,No,Usman
+PKORD00139,2026-06-24,CUST3664,Islamabad,Islamabad Capital Territory,Beauty,Perfume,4,8400,0,53.0,5.0,Card,Mobile App,In Transit,9,No,Sara
+PKORD00063,2026-05-29,CUST2545,Quetta,Balochistan,Electronics,Smart Watch,8,11400,10,27.0,3.8,Raast,Website,Cancelled,10,No,Maham
+PKORD00472,2026-07-16,CUST2984,Multan,Punjab,Beauty,Hair Dryer,3,5800,5,59.0,4.9,Bank Transfer,Mobile App,Cancelled,8,No,Usman
+PKORD00648,2026-04-01,CUST1809,Lahore,Punjab,Electronics,Keyboard,1,6300,5,64.0,3.2,Bank Transfer,Website,In Transit,9,No,Ayesha
+PKORD00129,2026-01-03,CUST3335,Lahore,Punjab,Home & Living,Storage Box,5,2800,10,34.0,,Raast,Mobile App,In Transit,2,No,Sara
+PKORD00977,2026-08-12,CUST4954,Karachi,Sindh,Fashion,Sneakers,6,9100,10,48.0,4.5,Digital Wallet,Website,Delivered,4,No,Hina
+PKORD00521,2026-05-22,CUST1085,Rawalpindi,Punjab,Books,Python Basics,1,2100,20,44.0,4.8,Cash on Delivery,Mobile App,Delivered,8,No,Hamza
+PKORD00839,2026-05-04,CUST2418,Faisalabad,Punjab,Home & Living,Electric Kettle,1,6200,25,44.0,3.2,Raast,Mobile App,Delivered,8,No,Ayesha
+PKORD00963,2026-02-19,CUST1526,Lahore,Punjab,Fashion,Sneakers,2,9400,5,46.0,4.8,Cash on Delivery,Mobile App,Delivered,2,Yes,Ayesha
+PKORD00065,2026-06-01,CUST4972,Islamabad,Islamabad Capital Territory,Beauty,Face Wash,2,1000,0,46.0,3.0,Raast,Website,Delivered,7,No,Hamza
+PKORD00813,2026-06-02,CUST4733,Faisalabad,Punjab,Home & Living,Bedsheet Set,1,2000,5,53.0,4.7,Bank Transfer,Mobile App,Delivered,5,No,Bilal
+PKORD00015,2026-03-28,CUST4581,Lahore,Punjab,Electronics,Wireless Earbuds,4,4000,0,30.0,3.2,Raast,Website,Delivered,5,No,Ayesha
+PKORD00157,2026-01-14,CUST1888,Peshawar,Khyber Pakhtunkhwa,Electronics,Keyboard,1,8400,15,56.0,2.9,Cash on Delivery,Website,Cancelled,10,No,Maham
+PKORD00041,2026-06-16,CUST1468,Karachi,Sindh,Home & Living,Table Lamp,1,4200,0,33.0,3.2,Cash on Delivery,Mobile App,Delivered,3,No,Sara
+PKORD00493,2026-07-22,CUST4359,Faisalabad,Punjab,Beauty,Perfume,1,8800,20,49.0,3.8,Raast,Marketplace,Delivered,7,No,Ayesha
+PKORD00380,2026-06-03,CUST1225,Karachi,Sindh,Beauty,Hair Dryer,1,7100,20,35.0,4.2,Digital Wallet,Mobile App,Delivered,1,No,Hina
+PKORD00188,2026-07-23,CUST3251,Rawalpindi,Punjab,Beauty,Sunscreen,4,1500,5,35.0,3.3,Bank Transfer,Website,In Transit,9,No,Ayesha
+PKORD00764,2026-08-20,CUST1930,Hyderabad,Sindh,Electronics,Bluetooth Speaker,2,5000,0,45.0,4.8,Card,Website,Cancelled,2,No,Bilal
+PKORD00217,2026-04-12,CUST3277,Sialkot,Punjab,Fashion,Men T-Shirt,2,2200,15,34.0,4.6,Card,Website,In Transit,9,No,Sara
+PKORD00792,2026-07-06,CUST1157,Peshawar,Khyber Pakhtunkhwa,Home & Living,Bedsheet Set,1,4800,0,39.0,3.4,Digital Wallet,Mobile App,Delivered,6,No,Bilal
+PKORD00053,2026-07-09,CUST2673,Karachi,Sindh,Home & Living,Wall Clock,1,3700,15,58.0,3.3,Cash on Delivery,Website,Delivered,2,No,Maham
+PKORD00879,2026-01-16,CUST4071,Rawalpindi,Punjab,Fashion,Sneakers,1,8500,10,35.0,4.0,Raast,Marketplace,Delivered,8,No,Ayesha
+PKORD00338,2026-04-23,CUST2899,Karachi,Sindh,Electronics,Smart Watch,4,10900,5,27.0,2.8,Card,Website,Delivered,8,No,Ali
+PKORD00749,2026-01-26,CUST2740,Lahore,Punjab,Beauty,Hair Dryer,7,5900,10,60.0,3.4,Raast,Mobile App,Delivered,8,No,Hamza
+PKORD00720,2026-04-13,CUST4476,Multan,Punjab,Home & Living,Electric Kettle,1,5600,15,49.0,4.1,Raast,Website,In Transit,9,No,Ayesha
+PKORD00725,2026-04-09,CUST3684,Islamabad,Islamabad Capital Territory,Fashion,Men T-Shirt,1,2100,0,31.0,4.6,Digital Wallet,Mobile App,Delivered,5,No,Hamza
+PKORD00296,2026-08-15,CUST4150,Lahore,Punjab,Fashion,Hoodie,3,3300,15,19.0,4.7,Cash on Delivery,Mobile App,Cancelled,8,No,Sara
+PKORD00702,2026-04-22,CUST4071,Faisalabad,Punjab,Beauty,Perfume,3,7900,15,24.0,5.0,Cash on Delivery,Website,Delivered,7,No,Ayesha
+PKORD00252,2026-06-17,CUST2204,Hyderabad,Sindh,Books,Data Science 101,1,2900,5,65.0,4.7,Raast,Mobile App,Delivered,6,No,Maham
+PKORD00727,2026-03-03,CUST1344,Multan,Punjab,Fashion,Handbag,1,3100,10,35.0,,Digital Wallet,Mobile App,Delivered,2,No,Hina
+PKORD00462,2026-05-15,CUST4782,Faisalabad,Punjab,Fashion,Hoodie,5,5000,15,62.0,4.5,Cash on Delivery,Mobile App,Delivered,2,No,Ali
+PKORD00456,2026-05-22,CUST1109,Lahore,Punjab,Fashion,Women Kurti,2,5200,15,37.0,4.6,Bank Transfer,Mobile App,In Transit,5,No,Ali
+PKORD00077,2026-04-05,CUST2130,Karachi,Sindh,Books,Business Analytics,1,2200,10,,4.7,Cash on Delivery,Marketplace,Delivered,6,Yes,Sara
+PKORD00816,2026-06-07,CUST3723,Hyderabad,Sindh,Fashion,Women Kurti,1,2200,0,18.0,3.5,Cash on Delivery,Website,In Transit,8,No,Maham
+PKORD00863,2026-07-14,CUST1648,Rawalpindi,Punjab,Home & Living,Wall Clock,1,2300,10,19.0,3.3,Bank Transfer,Mobile App,Delivered,5,No,Usman
+PKORD00270,2026-07-10,CUST3303,Sialkot,Punjab,Beauty,Perfume,3,3500,0,44.0,2.9,Digital Wallet,Website,Delivered,5,No,Sara
+PKORD00202,2026-08-18,CUST4825,Karachi,Sindh,Beauty,Perfume,4,7800,5,42.0,3.0,Raast,Mobile App,Delivered,1,No,Hina
+PKORD00162,2026-02-17,CUST2689,Rawalpindi,Punjab,Fashion,Women Kurti,6,4800,10,59.0,4.9,Digital Wallet,Website,Delivered,1,No,Hamza
+PKORD00556,2026-06-30,CUST3260,Hyderabad,Sindh,Electronics,Smart Watch,3,14600,0,58.0,3.7,Bank Transfer,Mobile App,In Transit,4,No,Sara
+PKORD00730,2026-06-08,CUST2179,Karachi,Sindh,Books,Python Basics,3,1800,5,43.0,3.0,Bank Transfer,Mobile App,Delivered,4,No,Usman
+PKORD00402,2026-06-23,CUST3504,Peshawar,Khyber Pakhtunkhwa,Home & Living,Electric Kettle,2,7700,20,45.0,4.4,,Marketplace,Cancelled,2,No,Bilal
+PKORD00703,2026-08-07,CUST2436,Faisalabad,Punjab,Beauty,Skin Care Kit,2,2300,5,47.0,4.0,Cash on Delivery,Website,In Transit,3,No,Maham
+PKORD00477,2026-04-11,CUST3418,Islamabad,Islamabad Capital Territory,Beauty,Skin Care Kit,1,3300,10,42.0,4.2,Bank Transfer,Mobile App,Delivered,6,Yes,Ali
+PKORD00822,2026-07-08,CUST3228,Karachi,Sindh,Electronics,Keyboard,1,8300,20,23.0,3.7,Cash on Delivery,Website,Delivered,6,No,Usman
+PKORD00772,2026-08-25,CUST2616,,Punjab,Fashion,Handbag,1,6000,20,35.0,4.6,Bank Transfer,Website,Delivered,5,No,Ali
+PKORD00106,2026-04-26,CUST2623,Karachi,Sindh,Home & Living,Bedsheet Set,6,4900,0,45.0,3.0,Card,Mobile App,Delivered,1,No,Hina
+PKORD00566,2026-02-07,CUST4355,Peshawar,Khyber Pakhtunkhwa,Home & Living,Wall Clock,2,3400,10,36.0,3.6,Cash on Delivery,Mobile App,Delivered,1,No,Ali
+PKORD00390,2026-03-19,CUST1631,Karachi,Sindh,Home & Living,Storage Box,1,2100,5,20.0,4.5,Cash on Delivery,Mobile App,Delivered,8,No,Sara
+PKORD00002,2026-05-20,CUST1636,Faisalabad,Punjab,Books,Data Science 101,2,3000,10,35.0,4.6,Cash on Delivery,Mobile App,Delivered,7,No,Sara
+PKORD00938,2026-04-08,CUST4385,Karachi,Sindh,Books,Machine Learning Intro,1,1800,15,36.0,2.8,Card,Mobile App,Delivered,3,No,Sara
+PKORD00140,2026-08-21,CUST1720,Faisalabad,Punjab,Home & Living,Electric Kettle,4,5300,10,,4.0,Cash on Delivery,Marketplace,Delivered,7,No,Ali
+PKORD00562,2026-01-16,CUST2234,Karachi,Sindh,Beauty,Skin Care Kit,6,3000,5,62.0,2.9,Card,Website,In Transit,2,No,Bilal
+PKORD00081,2026-01-28,CUST4470,Islamabad,Islamabad Capital Territory,Beauty,Hair Dryer,2,6500,5,57.0,2.9,Digital Wallet,Website,Delivered,1,No,Bilal
+PKORD00206,2026-03-21,CUST3142,Rawalpindi,Punjab,Electronics,Bluetooth Speaker,3,9000,10,29.0,3.1,Card,Mobile App,Delivered,8,No,Usman
+PKORD00035,2026-08-21,CUST3135,Lahore,Punjab,Beauty,Skin Care Kit,3,6100,20,65.0,4.7,Raast,Website,Delivered,5,No,Maham
+PKORD00776,2026-02-28,CUST2432,Rawalpindi,Punjab,Books,AI for Everyone,1,1400,15,34.0,4.9,Cash on Delivery,Mobile App,Delivered,1,No,Ayesha
+PKORD00509,2026-01-13,CUST2633,Karachi,Sindh,Home & Living,Wall Clock,4,1700,5,21.0,4.4,Digital Wallet,Marketplace,In Transit,3,No,Usman
+PKORD00428,2026-03-27,CUST4791,Rawalpindi,Punjab,Home & Living,Table Lamp,1,1700,5,44.0,3.2,Bank Transfer,Mobile App,In Transit,5,No,Ali
+PKORD00455,2026-08-11,CUST2892,Islamabad,Islamabad Capital Territory,Fashion,Women Kurti,3,3000,5,55.0,4.5,Cash on Delivery,Website,Delivered,7,No,Hamza
+PKORD00367,2026-06-18,CUST1625,Hyderabad,Sindh,Fashion,Women Kurti,1,3200,15,51.0,4.9,Digital Wallet,Marketplace,Delivered,7,No,Bilal
+PKORD00092,2026-05-09,CUST4531,Multan,Punjab,Fashion,Handbag,3,6600,10,40.0,3.0,Cash on Delivery,Mobile App,In Transit,3,No,Hina
+PKORD00340,2026-01-09,CUST3982,Multan,Punjab,Beauty,Hair Dryer,1,5500,15,24.0,3.9,Card,Mobile App,Delivered,6,No,Ali
+PKORD00898,2026-02-03,CUST4253,Multan,Punjab,Home & Living,Storage Box,2,2000,5,27.0,4.1,Cash on Delivery,Mobile App,In Transit,2,No,Sara
+PKORD00565,2026-04-01,CUST2785,Islamabad,Islamabad Capital Territory,Books,Data Science 101,2,2800,15,46.0,3.2,Card,Mobile App,Delivered,3,No,Hina
+PKORD00346,2026-03-03,CUST1631,Peshawar,Khyber Pakhtunkhwa,Electronics,Keyboard,2,5500,0,52.0,4.6,Card,Mobile App,In Transit,10,No,Usman
+PKORD00777,2026-01-20,CUST1586,Karachi,Sindh,Electronics,Keyboard,1,6100,5,41.0,4.6,Raast,Website,In Transit,6,No,Ali
+PKORD00242,2026-03-19,CUST2103,Peshawar,Khyber Pakhtunkhwa,Home & Living,Bedsheet Set,2,3200,20,62.0,4.3,Card,Website,In Transit,7,No,Bilal
+PKORD00014,2026-08-28,CUST2683,Karachi,Sindh,Beauty,Sunscreen,5,3400,10,33.0,4.5,Raast,Website,Delivered,7,No,Maham
+PKORD00316,2026-02-19,CUST3060,Rawalpindi,Punjab,Home & Living,Electric Kettle,2,4900,5,18.0,3.4,Raast,Mobile App,Cancelled,3,No,Usman
+PKORD00601,2026-05-14,CUST1579,Hyderabad,Sindh,Fashion,Women Kurti,2,4300,10,18.0,2.9,Raast,Website,Delivered,1,No,Sara
+PKORD00388,2026-06-23,CUST2148,Rawalpindi,Punjab,Electronics,Keyboard,2,5000,10,31.0,4.1,Bank Transfer,Mobile App,Delivered,2,No,Ali
+PKORD00274,2026-05-08,CUST3833,Karachi,Sindh,Beauty,Skin Care Kit,1,6100,15,53.0,4.9,Digital Wallet,Mobile App,Cancelled,4,No,Hamza
+PKORD00167,2026-03-13,CUST3919,Faisalabad,Punjab,Home & Living,Bedsheet Set,5,2100,10,20.0,3.2,Bank Transfer,Website,Delivered,3,No,Bilal
+PKORD00841,2026-05-02,CUST4564,Lahore,Punjab,Books,Business Analytics,4,2600,20,41.0,3.0,Card,Marketplace,Cancelled,8,No,Ayesha
+PKORD00651,2026-06-20,CUST3973,Sialkot,Punjab,Electronics,Power Bank,8,4100,0,,4.0,Card,Website,In Transit,10,No,Bilal
+PKORD00647,2026-03-20,CUST1235,Karachi,Sindh,Electronics,Keyboard,6,5700,25,50.0,4.6,Cash on Delivery,Marketplace,Cancelled,9,No,Hina
+PKORD00819,2026-07-17,CUST2478,Quetta,Balochistan,Fashion,Men T-Shirt,3,2700,15,31.0,4.2,Card,Mobile App,Delivered,1,No,Sara
+PKORD00485,2026-07-11,CUST4373,Lahore,Punjab,Home & Living,Storage Box,3,1500,5,45.0,3.7,Cash on Delivery,Mobile App,In Transit,6,No,Usman
+PKORD00789,2026-03-15,CUST1577,Karachi,Sindh,Electronics,Smart Watch,1,11200,10,,3.4,Bank Transfer,Marketplace,Delivered,4,No,Ayesha
+PKORD00505,2026-03-08,CUST1460,Karachi,Sindh,Electronics,Power Bank,1,4000,10,25.0,5.0,Raast,Website,Delivered,8,No,Hamza
+PKORD00832,2026-04-06,CUST2724,Lahore,Punjab,Beauty,Hair Dryer,3,5500,10,43.0,3.5,Card,Mobile App,Cancelled,3,No,Bilal
+PKORD00244,2026-02-14,CUST4373,Rawalpindi,Punjab,Fashion,Hoodie,1,6100,15,21.0,3.3,Raast,Website,Delivered,4,No,Maham
+PKORD00567,2026-06-13,CUST4489,Sialkot,Punjab,Beauty,Perfume,6,4100,15,39.0,3.2,Raast,Mobile App,In Transit,7,No,Hina
+PKORD00876,2026-04-01,CUST2674,Lahore,Punjab,Home & Living,Table Lamp,5,2800,5,37.0,3.7,Raast,Mobile App,Delivered,7,Yes,Hina
+PKORD00563,2026-01-14,CUST2857,Karachi,Sindh,Electronics,Wireless Earbuds,2,9000,5,24.0,4.2,Raast,Website,Cancelled,2,No,Bilal
+PKORD00687,2026-02-25,CUST4810,Karachi,Sindh,Electronics,Wireless Earbuds,4,9400,10,63.0,3.2,Digital Wallet,Mobile App,Cancelled,10,No,Hina
+PKORD00190,2026-08-09,CUST4526,Lahore,Punjab,Home & Living,Bedsheet Set,4,3600,10,25.0,,Card,Website,Cancelled,7,No,Bilal
+PKORD00783,2026-01-31,CUST1683,Lahore,Punjab,Books,AI for Everyone,1,1900,10,27.0,4.1,Card,Marketplace,In Transit,2,No,Ayesha
+PKORD00700,2026-02-18,CUST3657,Lahore,Punjab,Books,Business Analytics,7,2000,10,18.0,3.6,Bank Transfer,Website,Delivered,2,No,Maham
+PKORD00476,2026-03-19,CUST3807,Quetta,Balochistan,Fashion,Hoodie,5,5200,0,45.0,3.1,Raast,Mobile App,Delivered,8,No,Maham
+PKORD00682,2026-05-14,CUST4368,Sialkot,Punjab,Beauty,Sunscreen,2,2300,25,65.0,3.3,Digital Wallet,Website,In Transit,4,No,Ayesha
+PKORD00511,2026-01-25,CUST1369,Lahore,Punjab,Home & Living,Wall Clock,5,1700,10,49.0,3.8,Raast,Mobile App,Cancelled,8,No,Bilal
+PKORD00059,2026-07-17,CUST3550,Lahore,Punjab,Electronics,Smart Watch,2,10600,10,18.0,4.2,Digital Wallet,Mobile App,Delivered,4,No,Maham
+PKORD00475,2026-07-15,CUST1147,Rawalpindi,Punjab,Books,AI for Everyone,1,2400,10,25.0,3.6,Bank Transfer,Marketplace,In Transit,9,No,Ali
+PKORD00561,2026-03-29,CUST4129,Karachi,Sindh,Fashion,Men T-Shirt,5,3100,15,51.0,4.5,Cash on Delivery,Mobile App,Cancelled,9,No,Ayesha
+PKORD00857,2026-08-15,CUST3919,Multan,Punjab,Electronics,Smart Watch,4,6900,5,50.0,4.7,Card,Mobile App,Delivered,3,No,Sara
+PKORD00748,2026-08-08,CUST3865,Faisalabad,Punjab,Books,AI for Everyone,3,2600,0,27.0,4.2,Card,Website,Delivered,3,No,Sara
+PKORD00253,2026-05-30,CUST2222,Quetta,Balochistan,Electronics,Bluetooth Speaker,3,4400,10,48.0,4.8,Digital Wallet,Website,In Transit,10,No,Bilal
+PKORD00022,2026-08-13,CUST3939,Karachi,Sindh,Books,AI for Everyone,1,2700,0,24.0,4.4,Card,Website,Cancelled,5,No,Hina
+PKORD00314,2026-06-18,CUST2473,Karachi,Sindh,Beauty,Hair Dryer,6,3600,10,30.0,2.9,Digital Wallet,Mobile App,Delivered,3,No,Sara
+PKORD00460,2026-07-15,CUST3819,Faisalabad,Punjab,Books,Data Science 101,1,3100,15,52.0,3.5,Bank Transfer,Mobile App,Delivered,5,No,Hina
+PKORD00161,2026-03-04,CUST1689,Rawalpindi,Punjab,Home & Living,Table Lamp,2,3100,10,61.0,3.5,Raast,Marketplace,In Transit,9,No,Hina
+PKORD00277,2026-06-22,CUST4861,Lahore,Punjab,Books,AI for Everyone,1,2700,15,29.0,,Bank Transfer,Mobile App,Delivered,8,No,Bilal
+PKORD00956,2026-04-25,CUST3180,Hyderabad,Sindh,Books,AI for Everyone,2,2500,15,36.0,3.5,Digital Wallet,Website,Delivered,3,No,Bilal
+PKORD00192,2026-08-10,CUST1582,Sialkot,Punjab,Fashion,Handbag,3,2700,15,26.0,3.3,Bank Transfer,Mobile App,In Transit,9,No,Usman
+PKORD00386,2026-05-21,CUST4408,Lahore,Punjab,Home & Living,Bedsheet Set,2,3100,0,61.0,3.5,Raast,Mobile App,Cancelled,2,No,Hamza
+PKORD00806,2026-01-07,CUST4996,Karachi,Sindh,Books,Python Basics,2,2100,5,41.0,3.8,Cash on Delivery,Mobile App,Delivered,3,No,Ayesha
+PKORD00414,2026-05-16,CUST3610,Lahore,Punjab,Beauty,Hair Dryer,5,7400,0,46.0,3.6,Bank Transfer,Marketplace,Delivered,2,No,Hina
+PKORD00492,2026-08-08,CUST4646,Quetta,Balochistan,Home & Living,Bedsheet Set,2,4000,0,43.0,4.8,Bank Transfer,Website,Delivered,5,No,Hamza
+PKORD00344,2026-05-05,CUST2325,Hyderabad,Sindh,Home & Living,Table Lamp,4,2500,10,52.0,4.3,Card,Mobile App,Cancelled,7,No,Maham
+PKORD00770,2026-05-17,CUST3420,Faisalabad,Punjab,Fashion,Handbag,1,3700,5,52.0,4.5,Cash on Delivery,Marketplace,Delivered,5,No,Sara
+PKORD00309,2026-07-22,CUST1633,Multan,Punjab,Home & Living,Table Lamp,1,1500,10,51.0,2.8,Card,Mobile App,Delivered,7,No,Bilal
+PKORD00662,2026-01-01,CUST2242,Karachi,Sindh,Beauty,Skin Care Kit,1,4200,0,62.0,2.8,Digital Wallet,Mobile App,Cancelled,6,No,Sara
+PKORD00131,2026-05-09,CUST3511,Islamabad,Islamabad Capital Territory,Fashion,Women Kurti,1,4300,0,63.0,3.5,Raast,Mobile App,Delivered,3,No,Hina
+PKORD00664,2026-06-11,CUST2207,Faisalabad,Punjab,Books,Python Basics,3,1200,5,23.0,4.9,Digital Wallet,Website,Delivered,7,No,Hina
+PKORD00872,2026-03-26,CUST1456,Faisalabad,Punjab,Books,AI for Everyone,2,2300,10,59.0,3.5,Digital Wallet,Website,Delivered,5,No,Hamza
+PKORD00100,2026-03-27,CUST3635,Hyderabad,Sindh,Home & Living,Electric Kettle,1,7900,10,40.0,,Raast,Website,Delivered,5,No,Hina
+PKORD00373,2026-07-18,CUST3151,Lahore,Punjab,Home & Living,Storage Box,1,1900,15,42.0,4.4,Raast,Mobile App,Cancelled,10,No,Ali
+PKORD00088,2026-02-06,CUST2540,Karachi,Sindh,Home & Living,Electric Kettle,3,3000,5,27.0,4.4,Cash on Delivery,Website,Cancelled,5,No,Bilal
+PKORD00459,2026-04-29,CUST3169,Karachi,Sindh,Fashion,Hoodie,5,2700,0,28.0,2.9,Bank Transfer,Mobile App,Delivered,1,No,Ayesha
+PKORD00331,2026-04-12,CUST1939,Karachi,Sindh,Beauty,Skin Care Kit,3,2400,25,24.0,3.4,Card,Website,In Transit,6,No,Sara
+PKORD00215,2026-08-30,CUST2665,Karachi,Sindh,Home & Living,Storage Box,1,2000,15,55.0,3.0,Cash on Delivery,Website,In Transit,7,No,Ayesha
+PKORD00467,2026-02-25,CUST4486,Karachi,Sindh,Electronics,Keyboard,4,8800,25,28.0,4.8,Digital Wallet,Website,Delivered,4,No,Maham
+PKORD00122,2026-07-16,CUST3905,Rawalpindi,Punjab,Fashion,Hoodie,7,5100,10,21.0,4.6,Digital Wallet,Website,Delivered,3,No,Sara
+PKORD00615,2026-06-28,CUST3532,Islamabad,Islamabad Capital Territory,Home & Living,Bedsheet Set,2,1800,15,26.0,2.9,Cash on Delivery,Marketplace,Delivered,4,No,Maham
+PKORD00021,2026-02-03,CUST3505,Islamabad,Islamabad Capital Territory,Electronics,Keyboard,6,4200,20,33.0,3.6,Card,Mobile App,Cancelled,6,No,Ali
+PKORD00701,2026-05-19,CUST1666,Lahore,Punjab,Beauty,Hair Dryer,2,6400,25,39.0,3.0,Card,Mobile App,Delivered,3,No,Bilal
+PKORD00072,2026-04-23,CUST1822,Lahore,Punjab,Fashion,Men T-Shirt,1,1400,5,26.0,3.0,Bank Transfer,Website,In Transit,4,No,Hamza
+PKORD00107,2026-01-08,CUST1568,Lahore,Punjab,Fashion,Handbag,2,2900,0,63.0,4.2,Card,Website,Delivered,8,No,Maham
+PKORD00271,2026-07-29,CUST4110,Peshawar,Khyber Pakhtunkhwa,Beauty,Perfume,1,5500,10,53.0,4.5,Digital Wallet,Mobile App,Delivered,8,No,Sara
+PKORD00861,2026-01-27,CUST1581,Peshawar,Khyber Pakhtunkhwa,Books,Business Analytics,1,2500,5,55.0,4.5,Cash on Delivery,Mobile App,Delivered,7,No,Sara
+PKORD00436,2026-02-13,CUST4502,Islamabad,Islamabad Capital Territory,Fashion,Men T-Shirt,4,3100,0,36.0,4.1,Digital Wallet,Marketplace,Cancelled,10,No,Sara
+PKORD00103,2026-07-17,CUST4081,Quetta,Balochistan,Fashion,Women Kurti,3,2500,20,64.0,3.8,Raast,Mobile App,Delivered,8,No,Maham
